@@ -1,0 +1,153 @@
+Report for Institution Code CAS, Resource ich
+Usage stats for March, 2015, generated on 2015/04/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 74
+Number of records retrieved in searches: 1004
+Number of different countries where searches have been originated: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: Germany ; Times: 1
+	Country: Israel ; Times: 2
+	Country: Japan ; Times: 2
+	Country: Mexico ; Times: 2
+	Country: New Zealand ; Times: 1
+	Country: Russia ; Times: 18
+	Country: Spain ; Times: 2
+	Country: United States ; Times: 41
+	Country: Venezuela ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-03-01 ; Times: 1
+	Date: 2015-03-03 ; Times: 1
+	Date: 2015-03-04 ; Times: 1
+	Date: 2015-03-06 ; Times: 14
+	Date: 2015-03-08 ; Times: 2
+	Date: 2015-03-09 ; Times: 1
+	Date: 2015-03-10 ; Times: 3
+	Date: 2015-03-11 ; Times: 2
+	Date: 2015-03-12 ; Times: 3
+	Date: 2015-03-13 ; Times: 19
+	Date: 2015-03-15 ; Times: 2
+	Date: 2015-03-16 ; Times: 1
+	Date: 2015-03-17 ; Times: 2
+	Date: 2015-03-18 ; Times: 3
+	Date: 2015-03-19 ; Times: 1
+	Date: 2015-03-20 ; Times: 2
+	Date: 2015-03-21 ; Times: 2
+	Date: 2015-03-25 ; Times: 3
+	Date: 2015-03-26 ; Times: 2
+	Date: 2015-03-28 ; Times: 3
+	Date: 2015-03-30 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "Xiphophorus montezumae" ; Times: 1
+	Query: "country:"greece" AND (NOT Mammalia NOT Bufo)" ; Times: 1
+	Query: "minous andriashevi" ; Times: 1
+	Query: "plectroglyphidodon country:"Marshall Islands"" ; Times: 1
+	Query: "Eigenmannia humboldti" ; Times: 1
+	Query: "albulidae" ; Times: 1
+	Query: "CAS 206446" ; Times: 1
+	Query: "Acanthogobius flavimanus" ; Times: 1
+	Query: "stethojulis country:"Marshall Islands"" ; Times: 2
+	Query: "minous inermis" ; Times: 1
+	Query: "platytroctes apus" ; Times: 2
+	Query: "San Francisquito Baja" ; Times: 1
+	Query: "minous trachycephalus" ; Times: 2
+	Query: "erythrinus Thailand" ; Times: 1
+	Query: "Dascyllus country:"Marshall Islands"" ; Times: 1
+	Query: "canthigaster country:"Marshall Islands"" ; Times: 2
+	Query: "coris gaimard" ; Times: 1
+	Query: "blue marlin" ; Times: 1
+	Query: "coris aygula" ; Times: 2
+	Query: "canthigaster amboinensis" ; Times: 3
+	Query: "CAS 207854" ; Times: 1
+	Query: "CAS 235901" ; Times: 1
+	Query: "Te Vega" ; Times: 1
+	Query: "xiphiidae" ; Times: 1
+	Query: "acanthurus nigricans" ; Times: 1
+	Query: "minous usnm" ; Times: 1
+	Query: "acanthurus achilles" ; Times: 1
+	Query: "sardina country:"nicaragua"" ; Times: 1
+	Query: "cas 206622" ; Times: 1
+	Query: "Stigmatura" ; Times: 1
+	Query: "antimora type:specimen year <= 2000" ; Times: 1
+	Query: "CAS 201705" ; Times: 1
+	Query: "mountain beaver" ; Times: 1
+	Query: "kotschyi" ; Times: 1
+	Query: "ambassis urotaenia" ; Times: 4
+	Query: "Salley" ; Times: 1
+	Query: "Pimelodina flavipinnis" ; Times: 1
+	Query: "Echinorhinus cookei" ; Times: 1
+	Query: "alburnus" ; Times: 1
+	Query: "cuttlefish" ; Times: 1
+	Query: "Boreogadus saida" ; Times: 1
+	Query: "sea turtle" ; Times: 1
+	Query: "10-7-1853" ; Times: 1
+	Query: "mirorictus" ; Times: 1
+	Query: "aguaro" ; Times: 2
+	Query: "Holtbyrnia latifrons" ; Times: 2
+	Query: "MNHN" ; Times: 1
+	Query: "Scutiger" ; Times: 2
+	Query: "CAS 201506" ; Times: 3
+	Query: "minous" ; Times: 9
+	Query: "San Francisquito Baja California Sur" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 14 (out of 298 download events in this period)
+Total number of records downloaded: 1937 (out of 2382149 records downloaded for all resources in this period)
+Total number of unique records downloaded: 1914
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Canada ; Times: 4
+	Country: Mexico ; Times: 3
+	Country: United States ; Times: 4
+	Country: Unknown ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-03-06 ; Times: 2
+	Date: 2015-03-10 ; Times: 1
+	Date: 2015-03-12 ; Times: 3
+	Date: 2015-03-16 ; Times: 2
+	Date: 2015-03-18 ; Times: 1
+	Date: 2015-03-20 ; Times: 1
+	Date: 2015-03-24 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "stateprovince:"california sur" country:"mexico" year >= 1921 year <= 1922" ; Times: 2
+	Query: "stateprovince:"Montana" country:"United States" mappable:1" ; Times: 1
+	Query: "Oriximina" ; Times: 1
+	Query: "stateprovince:"Alberta" country:"Canada" mappable:1" ; Times: 1
+	Query: "C. nana" ; Times: 1
+	Query: "tuna year >= 1950 year <= 1970 mappable:1" ; Times: 1
+	Query: "ayacucho" ; Times: 1
+	Query: "stateprovince:"Washington" country:"United States" mappable:1" ; Times: 1
+	Query: "laysan albatross" ; Times: 2
+	Query: "stateprovince:"Oregon" country:"United States" mappable:1" ; Times: 1
+	Query: "Parintins" ; Times: 1
+	Query: "Norops" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 419
+Total number of records retrieved from searches: 5592
+Number of download events that retrieved data from the resource: 30
+Total number of records downloaded: 12754
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 492
+Total number of records retrieved from searches: 6445
+Number of download events that retrieved data from the resource: 114
+Total number of records downloaded: 63561
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
