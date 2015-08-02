@@ -1,0 +1,543 @@
+Report for Institution Code CAS, Resource ich
+Usage stats for July, 2015, generated on 2015/08/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 627
+Number of records retrieved in searches: 3044
+Number of different countries where searches have been originated: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Australia ; Times: 5
+	Country: Brazil ; Times: 6
+	Country: Canada ; Times: 3
+	Country: Germany ; Times: 2
+	Country: India ; Times: 1
+	Country: Japan ; Times: 1
+	Country: Mexico ; Times: 3
+	Country: Russia ; Times: 260
+	Country: United Kingdom ; Times: 5
+	Country: United States ; Times: 339
+	Country: Unknown ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-07-01 ; Times: 21
+	Date: 2015-07-02 ; Times: 20
+	Date: 2015-07-03 ; Times: 7
+	Date: 2015-07-05 ; Times: 6
+	Date: 2015-07-06 ; Times: 31
+	Date: 2015-07-07 ; Times: 23
+	Date: 2015-07-08 ; Times: 40
+	Date: 2015-07-09 ; Times: 49
+	Date: 2015-07-10 ; Times: 7
+	Date: 2015-07-11 ; Times: 1
+	Date: 2015-07-12 ; Times: 9
+	Date: 2015-07-13 ; Times: 11
+	Date: 2015-07-14 ; Times: 84
+	Date: 2015-07-15 ; Times: 18
+	Date: 2015-07-16 ; Times: 7
+	Date: 2015-07-17 ; Times: 18
+	Date: 2015-07-18 ; Times: 10
+	Date: 2015-07-19 ; Times: 21
+	Date: 2015-07-20 ; Times: 15
+	Date: 2015-07-21 ; Times: 6
+	Date: 2015-07-22 ; Times: 19
+	Date: 2015-07-23 ; Times: 20
+	Date: 2015-07-24 ; Times: 20
+	Date: 2015-07-25 ; Times: 10
+	Date: 2015-07-27 ; Times: 142
+	Date: 2015-07-28 ; Times: 3
+	Date: 2015-07-29 ; Times: 3
+	Date: 2015-07-30 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "plectorhinchus schotaf saudi arabia" ; Times: 1
+	Query: "CAS 213382" ; Times: 2
+	Query: "genus:Tiaroga" ; Times: 2
+	Query: "chaetodon jayakari" ; Times: 1
+	Query: "carangoides fulvoguttatus gulf" ; Times: 1
+	Query: "trachinotus botla" ; Times: 1
+	Query: "ilypnus luculentus" ; Times: 2
+	Query: "catalognumber:27422 institutioncode:CAS" ; Times: 2
+	Query: "omobranchus punctatus pakistan" ; Times: 1
+	Query: "catalognumber:96307" ; Times: 1
+	Query: "95741" ; Times: 1
+	Query: "catalognumber:233772 institutioncode:CAS" ; Times: 2
+	Query: "ulua mentalis gulf" ; Times: 2
+	Query: "diodon liturosus" ; Times: 2
+	Query: "CAS 213268" ; Times: 2
+	Query: "catalognumber:210394 institutioncode:CAS" ; Times: 2
+	Query: "hugh land type:specimen" ; Times: 1
+	Query: "elagatis gulf" ; Times: 1
+	Query: "chirocentrus dorab" ; Times: 1
+	Query: "strongylura pakistan" ; Times: 1
+	Query: "catalognumber:887 institutioncode:CAS" ; Times: 2
+	Query: "catalognumber:500" ; Times: 1
+	Query: "carangoides praeustus" ; Times: 1
+	Query: "thalassoma oman" ; Times: 1
+	Query: "plectorhinchus gaterinus oman" ; Times: 1
+	Query: "tardoore" ; Times: 1
+	Query: "country:"czech republic"" ; Times: 1
+	Query: "cas 10139" ; Times: 1
+	Query: "anodontostoma chacunda gulf" ; Times: 1
+	Query: "CAS 222281" ; Times: 2
+	Query: "catalognumber:49040 institutioncode:CAS" ; Times: 2
+	Query: "chaetodon austriacus gulf" ; Times: 1
+	Query: "catalognumber:10228 institutioncode:CAS" ; Times: 2
+	Query: "CAS 215714" ; Times: 1
+	Query: "coris oman" ; Times: 2
+	Query: "clupeidae oman" ; Times: 1
+	Query: "abc" ; Times: 1
+	Query: "catalognumber:39177 institutioncode:CAS" ; Times: 2
+	Query: "catalognumber:10227 institutioncode:CAS" ; Times: 4
+	Query: "apistus oman" ; Times: 2
+	Query: "naucrates gulf" ; Times: 1
+	Query: "eumicrotremus orbis" ; Times: 2
+	Query: "catalognumber:27431 institutioncode:CAS" ; Times: 2
+	Query: "catalognumber:17659 institutioncode:CAS" ; Times: 1
+	Query: "apogon pharaonis oman" ; Times: 1
+	Query: "catalognumber:49000 institutioncode:CAS" ; Times: 2
+	Query: "thryssa setirostris" ; Times: 3
+	Query: "parascorpaena mossambica red sea" ; Times: 2
+	Query: "narke oman" ; Times: 3
+	Query: "gobiesox schultzi" ; Times: 1
+	Query: "catalognumber:49038 institutioncode:CAS" ; Times: 2
+	Query: "antennablennius bifilum" ; Times: 1
+	Query: "50293" ; Times: 1
+	Query: "scartella emarginata" ; Times: 1
+	Query: "scorpaenidae oman" ; Times: 1
+	Query: "catalognumber:27421 institutioncode:CAS" ; Times: 3
+	Query: "seriola dumerili gulf" ; Times: 1
+	Query: "catalognumber:17657 institutioncode:CAS" ; Times: 2
+	Query: "gobiidae oman" ; Times: 1
+	Query: "carangoides plagiotaenia" ; Times: 1
+	Query: "month:12 year:1963 day:8" ; Times: 1
+	Query: "cynoglossus kopsii" ; Times: 1
+	Query: "8805 institutioncode:CAS" ; Times: 1
+	Query: "holapogon" ; Times: 1
+	Query: "fowleria oman" ; Times: 1
+	Query: "diagramma oman" ; Times: 1
+	Query: "encrasicholina heteroloba" ; Times: 1
+	Query: "catalognumber:27424 institutioncode:CAS" ; Times: 2
+	Query: "stigmatura" ; Times: 1
+	Query: "Pteragogus oman" ; Times: 1
+	Query: "gilberti county:"Tulare"" ; Times: 1
+	Query: "cynoglossus arel" ; Times: 1
+	Query: "parablennius opercularis" ; Times: 1
+	Query: "catalognumber:2512" ; Times: 1
+	Query: "catalognumber:63232" ; Times: 1
+	Query: "carangoides fulvoguttatus" ; Times: 1
+	Query: "CAS 213820" ; Times: 2
+	Query: "73644" ; Times: 1
+	Query: "erythrocles schlegelii" ; Times: 2
+	Query: "catalognumber:27430 institutioncode:CAS" ; Times: 2
+	Query: "81695 institutioncode:cas" ; Times: 1
+	Query: "dactyloptena gilberti" ; Times: 1
+	Query: "uraspis oman" ; Times: 1
+	Query: "CAS 213732" ; Times: 4
+	Query: "heterodon stateprovince:"illinois" mappable:1" ; Times: 1
+	Query: "catalognumber:27426 institutioncode:CAS" ; Times: 1
+	Query: "atule gulf" ; Times: 1
+	Query: "soleidae oman" ; Times: 1
+	Query: "Gnathanodon gulf" ; Times: 1
+	Query: "CAS 204926" ; Times: 2
+	Query: "CAS 204927" ; Times: 1
+	Query: "91707" ; Times: 1
+	Query: "caranx sexfasciatus gulf" ; Times: 1
+	Query: "tenualosa ilisha" ; Times: 1
+	Query: "laevigatus" ; Times: 1
+	Query: "symphurus atramentatus" ; Times: 1
+	Query: "selaroides gulf" ; Times: 1
+	Query: "catalognumber:49044 institutioncode:CAS" ; Times: 2
+	Query: "Bananal" ; Times: 2
+	Query: "carangoides armatus gulf" ; Times: 1
+	Query: "Centriscus gulf" ; Times: 1
+	Query: "catalognumber:49033 institutioncode:CAS" ; Times: 2
+	Query: "conger cinereus saudi arabia" ; Times: 1
+	Query: "CAS 221892" ; Times: 2
+	Query: "catalognumber:21655" ; Times: 1
+	Query: "Yarinacocha stateprovince:"loreto" country:"peru"" ; Times: 2
+	Query: "alepes melanoptera" ; Times: 1
+	Query: "oman ypsilon" ; Times: 2
+	Query: "51472" ; Times: 1
+	Query: "alectis ciliaris gulf" ; Times: 1
+	Query: "dactyloptena cas" ; Times: 2
+	Query: "CAS 223199" ; Times: 1
+	Query: "Arapaima gigas" ; Times: 1
+	Query: "batrachoididae oman" ; Times: 1
+	Query: "xiphasia gulf" ; Times: 1
+	Query: "phtheirichthys gulf" ; Times: 1
+	Query: "evermanni oman" ; Times: 1
+	Query: "queketti" ; Times: 1
+	Query: "CAS 213574" ; Times: 2
+	Query: "Pulchellus country:"Peru"" ; Times: 1
+	Query: "arcygobius" ; Times: 1
+	Query: "catalognumber:2992 institutioncode:CAS" ; Times: 2
+	Query: "catalognumber:17660 institutioncode:CAS" ; Times: 1
+	Query: "county:"sonoma" (pepperwood) year >= 1950 year <= 1962" ; Times: 1
+	Query: "Dendrochirus brachypterus" ; Times: 1
+	Query: "catalognumber:4169 institutioncode:CAS" ; Times: 2
+	Query: "acanthocepola indica" ; Times: 1
+	Query: "33125" ; Times: 1
+	Query: "apogon apogonides" ; Times: 1
+	Query: "62750" ; Times: 1
+	Query: "parascorpaena mossambica" ; Times: 4
+	Query: "Ostichthys oman" ; Times: 5
+	Query: "thryssa vitrirostris" ; Times: 1
+	Query: "parapercis oman" ; Times: 1
+	Query: "CAS 213389" ; Times: 3
+	Query: "CAS 213384" ; Times: 1
+	Query: "apogon fraenatus oman" ; Times: 1
+	Query: "95649" ; Times: 1
+	Query: "Callionymus persicus" ; Times: 2
+	Query: "escualosa thoracata gulf" ; Times: 1
+	Query: "14299" ; Times: 4
+	Query: "hilsa gulf" ; Times: 2
+	Query: "encrasicholina devisi" ; Times: 2
+	Query: "CAS 210674" ; Times: 2
+	Query: "caesio oman" ; Times: 2
+	Query: "CAS 213957" ; Times: 4
+	Query: "uranoscopus oman" ; Times: 6
+	Query: "CAS 213404" ; Times: 1
+	Query: "apogon gularis" ; Times: 3
+	Query: "33940" ; Times: 1
+	Query: "naucrates ductor oman" ; Times: 1
+	Query: "centriscus scutatus" ; Times: 1
+	Query: "Dracaena" ; Times: 1
+	Query: "catalognumber:27419 institutioncode:CAS" ; Times: 2
+	Query: "catalognumber:2991 institutioncode:CAS" ; Times: 1
+	Query: "catalognumber:60531" ; Times: 1
+	Query: "enigmaticus" ; Times: 1
+	Query: "amblygobius nocturnus gulf" ; Times: 1
+	Query: "25578" ; Times: 1
+	Query: "apogon omanensis" ; Times: 2
+	Query: "pristis pectinata" ; Times: 3
+	Query: "cynoglossus bilineatus gulf" ; Times: 2
+	Query: "catalognumber:10224 institutioncode:CAS" ; Times: 2
+	Query: "naucrates oman" ; Times: 1
+	Query: "serranidae oman" ; Times: 1
+	Query: "catalognumber:39989 institutioncode:CAS" ; Times: 4
+	Query: "catalognumber:28045" ; Times: 1
+	Query: "13458 institutioncode:CAS" ; Times: 1
+	Query: "catalognumber:2988 institutioncode:CAS" ; Times: 2
+	Query: "arnoglossus aspilos" ; Times: 1
+	Query: "14280 type:specimen" ; Times: 1
+	Query: "catalognumber:4165 institutioncode:CAS" ; Times: 2
+	Query: "45870" ; Times: 1
+	Query: "russelii" ; Times: 1
+	Query: "myxodagnus opercularis" ; Times: 1
+	Query: "antennablennius" ; Times: 1
+	Query: "tehuacan" ; Times: 2
+	Query: "pellona ditchela" ; Times: 3
+	Query: "cynoglossus puncticeps gulf" ; Times: 1
+	Query: "catalognumber:228886" ; Times: 1
+	Query: "CAS 213580" ; Times: 1
+	Query: "paragobiodon red sea" ; Times: 1
+	Query: "CAS 213582" ; Times: 1
+	Query: "CAS 222646" ; Times: 1
+	Query: "CAS 222645" ; Times: 2
+	Query: "year <= 2015 distance(location,geopoint(40.31446719283562,-113.411865234375))<39805" ; Times: 1
+	Query: "catalognumber:49034 institutioncode:CAS" ; Times: 2
+	Query: "228897" ; Times: 1
+	Query: "chascanopsetta" ; Times: 1
+	Query: "potamorrhaphis petersi" ; Times: 1
+	Query: "blenniidae oman" ; Times: 1
+	Query: "Macropharyngodon oman" ; Times: 2
+	Query: "cheilopogon abei" ; Times: 2
+	Query: "24633" ; Times: 1
+	Query: "catalognumber:49049 institutioncode:CAS" ; Times: 2
+	Query: "pseudochromis cas" ; Times: 1
+	Query: "xenisthmus" ; Times: 1
+	Query: "plectorhinchus pictus" ; Times: 1
+	Query: "catalognumber:9518 institutioncode:CAS" ; Times: 2
+	Query: "cheilodipterus macrodon oman" ; Times: 1
+	Query: "catalognumber:9517 institutioncode:CAS" ; Times: 2
+	Query: "catalognumber:17661 institutioncode:CAS" ; Times: 2
+	Query: "Hemiramphus marginatus" ; Times: 1
+	Query: "Cirrhilabrus rubriventralis" ; Times: 1
+	Query: "apogon semiornatus oman" ; Times: 1
+	Query: "cynoglossus dubius" ; Times: 1
+	Query: "omobranchus punctatus" ; Times: 2
+	Query: "Megalaspis" ; Times: 1
+	Query: "Parachaeturichthys polynema" ; Times: 1
+	Query: "cas 10115" ; Times: 1
+	Query: "paraclinus altivelis" ; Times: 1
+	Query: "228216 institutioncode:cas" ; Times: 1
+	Query: "pristis pristis" ; Times: 2
+	Query: "apogon natalensis oman" ; Times: 2
+	Query: "chirocentrus gulf" ; Times: 1
+	Query: "CAS 223290" ; Times: 2
+	Query: "amblygobius oman" ; Times: 1
+	Query: "ephippidae saudi arabia" ; Times: 1
+	Query: "catalognumber:237605 institutioncode:CAS" ; Times: 3
+	Query: "microgobius emblematicus" ; Times: 1
+	Query: "gobiomorus maculatus" ; Times: 1
+	Query: "halichoeres oman" ; Times: 1
+	Query: "14470" ; Times: 1
+	Query: "dactylopteridae cas" ; Times: 1
+	Query: "amoya gulf" ; Times: 1
+	Query: "neoniphon oman" ; Times: 2
+	Query: "42291" ; Times: 1
+	Query: "carangoides equula" ; Times: 2
+	Query: "dactyloptena gulf" ; Times: 2
+	Query: "apogon evermanni oman" ; Times: 1
+	Query: "hill 2 country:"mexico"" ; Times: 1
+	Query: "222738" ; Times: 1
+	Query: "scolecenchelys red sea" ; Times: 1
+	Query: "sargocentron inaequalis" ; Times: 4
+	Query: "paraclinus mexicanus" ; Times: 1
+	Query: "catalognumber:96258" ; Times: 1
+	Query: "apogon queketti" ; Times: 1
+	Query: "210612" ; Times: 2
+	Query: "catalognumber:27410 institutioncode:CAS" ; Times: 2
+	Query: "catalognumber:49046 institutioncode:CAS" ; Times: 2
+	Query: "alepes vari" ; Times: 1
+	Query: "catalognumber:223963" ; Times: 1
+	Query: "month:12 collectioncode:ich" ; Times: 1
+	Query: "decapterus gulf" ; Times: 1
+	Query: "archamia oman" ; Times: 1
+	Query: "lophodiodon" ; Times: 1
+	Query: "Salvelinus confluentus" ; Times: 2
+	Query: "cas 234857" ; Times: 3
+	Query: "mammoth cave" ; Times: 1
+	Query: "Boleophthalmus" ; Times: 1
+	Query: "apogon holotaenia" ; Times: 4
+	Query: "catalognumber:233771 institutioncode:CAS" ; Times: 1
+	Query: "catalognumber:49048 institutioncode:CAS" ; Times: 1
+	Query: "cynoglossus gulf" ; Times: 1
+	Query: "95651" ; Times: 1
+	Query: "cryptocentrus oman" ; Times: 2
+	Query: "26305" ; Times: 1
+	Query: "CAS 213391" ; Times: 1
+	Query: "cas 10150" ; Times: 1
+	Query: "CAS 213392" ; Times: 1
+	Query: "siphamia oman" ; Times: 3
+	Query: "trachurus indicus" ; Times: 2
+	Query: "catalognumber:222645" ; Times: 1
+	Query: "apogon truncatus" ; Times: 1
+	Query: "seriolina gulf" ; Times: 1
+	Query: "carangoides talamparoides" ; Times: 1
+	Query: "arius maculatus" ; Times: 1
+	Query: "CAS 213430" ; Times: 2
+	Query: "catalognumber:218286 institutioncode:CAS" ; Times: 2
+	Query: "carangoides caeruleopinnatus gulf" ; Times: 1
+	Query: "36223" ; Times: 1
+	Query: "citharichthys xanthostigma" ; Times: 1
+	Query: "Seward Nebraska" ; Times: 1
+	Query: "Cirrhilabrus oman" ; Times: 2
+	Query: "catalognumber:10225 institutioncode:CAS" ; Times: 2
+	Query: "catalognumber:210395 institutioncode:CAS" ; Times: 6
+	Query: "catalognumber:48999 institutioncode:CAS" ; Times: 2
+	Query: "Scoloplax" ; Times: 1
+	Query: "catalognumber:2989 institutioncode:CAS" ; Times: 3
+	Query: "Callionymus margaretae" ; Times: 1
+	Query: "fowleria vaiulae" ; Times: 2
+	Query: "minous oman" ; Times: 1
+	Query: "Encheliophis homei" ; Times: 2
+	Query: "apogonidae oman" ; Times: 5
+	Query: "specificepithet:fulgida genus:Meda" ; Times: 3
+	Query: "alectis gulf" ; Times: 1
+	Query: "gobiidae red sea" ; Times: 2
+	Query: "odonus niger" ; Times: 1
+	Query: "nematalosa gulf" ; Times: 1
+	Query: "catalognumber:49045 institutioncode:CAS" ; Times: 2
+	Query: "CAS 223007" ; Times: 2
+	Query: "apogon taeniatus oman" ; Times: 1
+	Query: "canthigaster papua" ; Times: 2
+	Query: "seriola oman" ; Times: 1
+	Query: "exostoma labiatum" ; Times: 1
+	Query: "cirrhitichthys oman" ; Times: 2
+	Query: "gymnocaesio" ; Times: 1
+	Query: "catalognumber:4168 institutioncode:CAS" ; Times: 2
+	Query: "etrumeus gulf" ; Times: 1
+	Query: "ophiocara india" ; Times: 1
+	Query: "cheilodipterus arabicus" ; Times: 2
+	Query: "thryssa hamiltonii" ; Times: 1
+	Query: "sardinella melanura" ; Times: 1
+	Query: "Carcharhinus obscurus" ; Times: 1
+	Query: "CAS 213614" ; Times: 1
+	Query: "CAS 213616" ; Times: 2
+	Query: "CAS 213612" ; Times: 2
+	Query: "CAS 213613" ; Times: 1
+	Query: "33625" ; Times: 2
+	Query: "catalognumber:27432 institutioncode:CAS" ; Times: 2
+	Query: "catalognumber:49036 institutioncode:CAS" ; Times: 2
+	Query: "Regalecus california" ; Times: 14
+	Query: "petroscirtes mitratus gulf" ; Times: 1
+	Query: "222738 institutioncode:CAS" ; Times: 1
+	Query: "plectorhinchus flavomaculatus oman" ; Times: 1
+	Query: "CAS 213500" ; Times: 1
+	Query: "stateprovince:"Oklahoma" specificepithet:cragini genus:Etheostoma" ; Times: 1
+	Query: "22774" ; Times: 2
+	Query: "catalognumber:233773 institutioncode:CAS" ; Times: 2
+	Query: "darien country:"colombia"" ; Times: 2
+	Query: "aulopareia" ; Times: 1
+	Query: "27802" ; Times: 1
+	Query: "62346" ; Times: 1
+	Query: "amnh 7618" ; Times: 1
+	Query: "CAS 216022" ; Times: 2
+	Query: "echeneidae oman" ; Times: 1
+	Query: "Limestone Spring" ; Times: 1
+	Query: "sardinella sindensis" ; Times: 1
+	Query: "catalognumber:49041 institutioncode:CAS" ; Times: 2
+	Query: "81805" ; Times: 1
+	Query: "hemitaurichthys zoster" ; Times: 1
+	Query: "catalognumber:38002" ; Times: 1
+	Query: "catalognumber:4167 institutioncode:CAS" ; Times: 2
+	Query: "naucrates ductor gulf" ; Times: 1
+	Query: "drepane punctata" ; Times: 1
+	Query: "catalognumber:27423 institutioncode:CAS" ; Times: 3
+	Query: "cas 226113" ; Times: 2
+	Query: "catalognumber:17658 institutioncode:CAS" ; Times: 2
+	Query: "catalognumber:27429 institutioncode:CAS" ; Times: 3
+	Query: "parastromateus gulf" ; Times: 1
+	Query: "plectorhinchus schotaf" ; Times: 2
+	Query: "Opisthopterus gulf" ; Times: 2
+	Query: "CAS 204995" ; Times: 2
+	Query: "gnatholepis oman" ; Times: 1
+	Query: "escualosa thoracata" ; Times: 2
+	Query: "fistularia bahrain" ; Times: 1
+	Query: "catalognumber:49035 institutioncode:CAS" ; Times: 2
+	Query: "5280" ; Times: 1
+	Query: "catalognumber:39988 institutioncode:CAS" ; Times: 2
+	Query: "catalognumber:17656 institutioncode:CAS" ; Times: 2
+	Query: "echeneidae persian gulf" ; Times: 1
+	Query: "Bar al-Hikman" ; Times: 2
+	Query: "carapidae gulf" ; Times: 2
+	Query: "alepes gulf" ; Times: 1
+	Query: "Megalaspis gulf" ; Times: 1
+	Query: "catalognumber:27425 institutioncode:CAS" ; Times: 3
+	Query: "seriola gulf" ; Times: 1
+	Query: "cheilinus oman" ; Times: 2
+	Query: "cas 234869" ; Times: 2
+	Query: "CAS 213725" ; Times: 4
+	Query: "scartella" ; Times: 1
+	Query: "Regalecus" ; Times: 3
+	Query: "86226 institutioncode:CAS" ; Times: 1
+	Query: "carangoides malabaricus" ; Times: 1
+	Query: "pentaprion longimanus" ; Times: 2
+	Query: "catalognumber:10226 institutioncode:CAS" ; Times: 2
+	Query: "AGUASCALIENTES" ; Times: 1
+	Query: "ophiocara gulf" ; Times: 1
+	Query: "cas 10140" ; Times: 2
+	Query: "CAS 232429" ; Times: 2
+	Query: "16002" ; Times: 1
+	Query: "LACMNH" ; Times: 1
+	Query: "CAS 97844" ; Times: 1
+	Query: "catalognumber:233774 institutioncode:CAS" ; Times: 1
+	Query: "catalognumber:27428 institutioncode:CAS" ; Times: 2
+	Query: "ophichthidae red sea" ; Times: 1
+	Query: "CAS 213429" ; Times: 1
+	Query: "Colletteichthys" ; Times: 1
+	Query: "62178" ; Times: 1
+	Query: "catalognumber:886 institutioncode:CAS" ; Times: 2
+	Query: "dactyloptena orientalis gulf" ; Times: 1
+	Query: "62176" ; Times: 1
+	Query: "catalognumber:10864 institutioncode:CAS" ; Times: 2
+	Query: "apogon natalensis" ; Times: 1
+	Query: "CAS 213332" ; Times: 2
+	Query: "encrasicholina gulf" ; Times: 2
+	Query: "engyprosopon gulf" ; Times: 1
+	Query: "CAS 222687" ; Times: 2
+	Query: "scutiger" ; Times: 1
+	Query: "Callionymus marleyi" ; Times: 1
+	Query: "catalognumber:49047 institutioncode:CAS" ; Times: 2
+	Query: "36084" ; Times: 1
+	Query: "cas 236133" ; Times: 2
+	Query: "catalognumber:27427 institutioncode:CAS" ; Times: 2
+	Query: "arius tenuispinis" ; Times: 1
+	Query: "county:"Sonoma" stateprovince:"California" year >= 2000 year <= 2000" ; Times: 1
+	Query: "eviota pardalota" ; Times: 1
+	Query: "hetereleotris zonata" ; Times: 1
+	Query: "catalognumber:4166 institutioncode:CAS" ; Times: 2
+	Query: "county:"Sonoma" stateprovince:"California" year >= 1950 year <= 1950" ; Times: 1
+	Query: "atropus" ; Times: 1
+	Query: "jerdoni" ; Times: 1
+	Query: "catalognumber:2100 institutioncode:CAS" ; Times: 2
+	Query: "CAS 223201" ; Times: 2
+	Query: "capoeta" ; Times: 3
+	Query: "Callionymus filamentosus gulf" ; Times: 1
+	Query: "seriola rivoliana gulf" ; Times: 1
+	Query: "bathygobius meggitti" ; Times: 1
+	Query: "catalognumber:49042 institutioncode:CAS" ; Times: 2
+	Query: "ilisha gulf" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 28 (out of 1084 download events in this period)
+Total number of records downloaded: 9903 (out of 4365690 records downloaded for all resources in this period)
+Total number of unique records downloaded: 9577
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Mexico ; Times: 8
+	Country: Netherlands ; Times: 1
+	Country: Puerto Rico ; Times: 1
+	Country: United States ; Times: 17
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-07-02 ; Times: 1
+	Date: 2015-07-06 ; Times: 1
+	Date: 2015-07-08 ; Times: 2
+	Date: 2015-07-09 ; Times: 6
+	Date: 2015-07-10 ; Times: 1
+	Date: 2015-07-14 ; Times: 2
+	Date: 2015-07-15 ; Times: 4
+	Date: 2015-07-16 ; Times: 1
+	Date: 2015-07-20 ; Times: 2
+	Date: 2015-07-21 ; Times: 2
+	Date: 2015-07-22 ; Times: 1
+	Date: 2015-07-24 ; Times: 1
+	Date: 2015-07-27 ; Times: 1
+	Date: 2015-07-30 ; Times: 2
+	Date: 2015-07-31 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Regalecus" ; Times: 1
+	Query: "Guanajuato" ; Times: 1
+	Query: "county:"sonoma" year >= 1930 year <= 1975" ; Times: 1
+	Query: "tehuacan" ; Times: 1
+	Query: "Arkansas" ; Times: 2
+	Query: "regalecus" ; Times: 1
+	Query: "guanajuato" ; Times: 1
+	Query: "county:"Sonoma" stateprovince:"California" year >= 2000 year <= 2000" ; Times: 1
+	Query: "zacatecas" ; Times: 1
+	Query: "namibia" ; Times: 1
+	Query: "eumicrotremus orbis" ; Times: 1
+	Query: "county:"Uintah" stateprovince:"Utah"" ; Times: 1
+	Query: "catalognumber:210395 institutioncode:CAS" ; Times: 1
+	Query: "iguana iguana" ; Times: 1
+	Query: "county:"Sonoma" stateprovince:"California" year >= 1950 year <= 1950" ; Times: 1
+	Query: "san luis potosi" ; Times: 1
+	Query: "utah" ; Times: 1
+	Query: "arizona elegans type:specimen" ; Times: 1
+	Query: "country:"Puerto Rico"" ; Times: 1
+	Query: "county:"Wasatch" stateprovince:"Utah"" ; Times: 1
+	Query: "("DRC" OR "Democratic Republic of the Congo" )" ; Times: 1
+	Query: "county:"Utah" stateprovince:"Utah"" ; Times: 1
+	Query: "Cardinalis cardinalis" ; Times: 1
+	Query: "jalisco" ; Times: 1
+	Query: "county:"sonoma" (pepperwood) year >= 1950 year <= 1962" ; Times: 1
+	Query: "AGUASCALIENTES" ; Times: 1
+	Query: "type:specimen hastypestatus:1" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 1410
+Total number of records retrieved from searches: 11278
+Number of download events that retrieved data from the resource: 116
+Total number of records downloaded: 48916
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 1483
+Total number of records retrieved from searches: 12131
+Number of download events that retrieved data from the resource: 200
+Total number of records downloaded: 99723
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
