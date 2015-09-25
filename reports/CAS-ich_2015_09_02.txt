@@ -1,0 +1,417 @@
+Report for Institution Code CAS, Resource ICH
+Usage stats for August, 2015, generated on 2015/09/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 452
+Number of records retrieved in searches: 2027
+Number of different countries where searches have been originated: 13
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Benin ; Times: 4
+	Country: Brazil ; Times: 4
+	Country: Canada ; Times: 1
+	Country: Denmark ; Times: 7
+	Country: France ; Times: 4
+	Country: Germany ; Times: 2
+	Country: Greece ; Times: 3
+	Country: India ; Times: 5
+	Country: Mexico ; Times: 27
+	Country: Netherlands ; Times: 2
+	Country: New Zealand ; Times: 1
+	Country: Russia ; Times: 16
+	Country: United States ; Times: 376
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-08-01 ; Times: 2
+	Date: 2015-08-02 ; Times: 3
+	Date: 2015-08-03 ; Times: 1
+	Date: 2015-08-04 ; Times: 2
+	Date: 2015-08-06 ; Times: 3
+	Date: 2015-08-08 ; Times: 1
+	Date: 2015-08-09 ; Times: 2
+	Date: 2015-08-10 ; Times: 34
+	Date: 2015-08-11 ; Times: 21
+	Date: 2015-08-12 ; Times: 23
+	Date: 2015-08-13 ; Times: 13
+	Date: 2015-08-14 ; Times: 11
+	Date: 2015-08-15 ; Times: 2
+	Date: 2015-08-17 ; Times: 109
+	Date: 2015-08-18 ; Times: 7
+	Date: 2015-08-19 ; Times: 12
+	Date: 2015-08-20 ; Times: 42
+	Date: 2015-08-21 ; Times: 94
+	Date: 2015-08-22 ; Times: 5
+	Date: 2015-08-24 ; Times: 4
+	Date: 2015-08-25 ; Times: 4
+	Date: 2015-08-26 ; Times: 4
+	Date: 2015-08-27 ; Times: 12
+	Date: 2015-08-28 ; Times: 9
+	Date: 2015-08-29 ; Times: 14
+	Date: 2015-08-30 ; Times: 10
+	Date: 2015-08-31 ; Times: 8
+
+List of queries that retrieved data from the resource: 
+	Query: "46610" ; Times: 1
+	Query: "catalognumber:10122 institutioncode:CAS" ; Times: 3
+	Query: "catalognumber:93407 institutioncode:CAS" ; Times: 2
+	Query: "58227" ; Times: 1
+	Query: "cas 50460" ; Times: 1
+	Query: "222738 institutioncode:cas" ; Times: 1
+	Query: "91707 institutioncode:cas" ; Times: 1
+	Query: "heterodon stateprovince:"New York"" ; Times: 1
+	Query: "214417" ; Times: 1
+	Query: "catalognumber:10131 institutioncode:CAS" ; Times: 2
+	Query: "catalognumber:1436 institutioncode:CAS" ; Times: 2
+	Query: "cas 4073" ; Times: 1
+	Query: "catalognumber:50397 institutioncode:CAS" ; Times: 1
+	Query: "catalognumber:50314 institutioncode:CAS" ; Times: 5
+	Query: "country:"Mexico" specificepithet:cyanellus genus:Lepomis" ; Times: 1
+	Query: "cas 4074" ; Times: 1
+	Query: "48524" ; Times: 1
+	Query: "Pelican Bay Santa Cruz Island" ; Times: 1
+	Query: "catalognumber:10141 institutioncode:CAS" ; Times: 1
+	Query: "Peter Pyle" ; Times: 2
+	Query: "stateprovince:"Baja" country:"Mexico" genus:Gambusia" ; Times: 2
+	Query: "cas 50311" ; Times: 2
+	Query: "catalognumber:50312 institutioncode:CAS" ; Times: 2
+	Query: "Ablennes hians" ; Times: 3
+	Query: "catalognumber:10139 institutioncode:CAS" ; Times: 4
+	Query: "zmb" ; Times: 1
+	Query: "Bidens" ; Times: 1
+	Query: "4380" ; Times: 2
+	Query: "country:"Mexico" genus:Lepomis" ; Times: 1
+	Query: "catalognumber:10134 institutioncode:CAS" ; Times: 2
+	Query: "catalognumber:63052 institutioncode:CAS" ; Times: 2
+	Query: "27167" ; Times: 1
+	Query: "catalognumber:50420 institutioncode:CAS" ; Times: 1
+	Query: "catalognumber:50313 institutioncode:CAS" ; Times: 3
+	Query: "7754" ; Times: 1
+	Query: "92141" ; Times: 2
+	Query: "59707 institutioncode:cas" ; Times: 1
+	Query: "catalognumber:4073 institutioncode:CAS" ; Times: 2
+	Query: "catalognumber:50310 institutioncode:CAS" ; Times: 2
+	Query: "country:"Mexico" specificepithet:affinis genus:Gambusia" ; Times: 2
+	Query: "catalognumber:7225 institutioncode:CAS" ; Times: 1
+	Query: "cas 50472" ; Times: 1
+	Query: "catalognumber:31491" ; Times: 1
+	Query: "catalognumber:10145 institutioncode:CAS" ; Times: 2
+	Query: "7347 institutioncode:cas" ; Times: 1
+	Query: "fish stateprovince:"VERACRUZ"" ; Times: 2
+	Query: "catalognumber:81104 institutioncode:CAS" ; Times: 2
+	Query: "catalognumber:50507 institutioncode:CAS" ; Times: 2
+	Query: "catalognumber:206482 institutioncode:CAS" ; Times: 4
+	Query: "notorynchus cepedianus" ; Times: 2
+	Query: "catalognumber:50437 institutioncode:CAS" ; Times: 1
+	Query: "catalognumber:401 institutioncode:CAS" ; Times: 2
+	Query: "catalognumber:8568" ; Times: 1
+	Query: "catalognumber:10152 institutioncode:CAS" ; Times: 2
+	Query: "catalognumber:633 institutioncode:CAS" ; Times: 2
+	Query: "catalognumber:10119 institutioncode:CAS" ; Times: 2
+	Query: "222738" ; Times: 1
+	Query: "torpedo sinuspersici" ; Times: 2
+	Query: "catalognumber:43286" ; Times: 1
+	Query: "isurus oxyrinchus" ; Times: 4
+	Query: "catalognumber:50513 institutioncode:CAS" ; Times: 2
+	Query: "stateprovince:"Virginia" specificepithet:atherinoides genus:Notropis" ; Times: 1
+	Query: "catalognumber:63050 institutioncode:CAS" ; Times: 1
+	Query: "Notropis atherinoides stateprovince:"Virginia"" ; Times: 1
+	Query: "catalognumber:49060" ; Times: 1
+	Query: "maipures country:"Venezuela"" ; Times: 2
+	Query: "catalognumber:50460 institutioncode:CAS" ; Times: 1
+	Query: "catalognumber:81103 institutioncode:CAS" ; Times: 2
+	Query: "cas 81103" ; Times: 1
+	Query: "cas 81104" ; Times: 1
+	Query: "catalognumber:7227 institutioncode:CAS" ; Times: 2
+	Query: "catalognumber:91427 institutioncode:CAS" ; Times: 3
+	Query: "Notropis volucellus usnm" ; Times: 1
+	Query: "catalognumber:10121 institutioncode:CAS" ; Times: 2
+	Query: "cas 11547" ; Times: 1
+	Query: "224773" ; Times: 1
+	Query: "catalognumber:63049 institutioncode:CAS" ; Times: 1
+	Query: "catalognumber:81102 institutioncode:CAS" ; Times: 2
+	Query: "stateprovince:"Virginia" specificepithet:gilberti genus:Noturus" ; Times: 2
+	Query: "cas 50445" ; Times: 1
+	Query: "batesi" ; Times: 1
+	Query: "cas 50309" ; Times: 2
+	Query: "catalognumber:10201 institutioncode:CAS" ; Times: 2
+	Query: "218194" ; Times: 1
+	Query: "catalognumber:10120 institutioncode:CAS" ; Times: 3
+	Query: "catalognumber:63051 institutioncode:CAS" ; Times: 1
+	Query: "catalognumber:50424 institutioncode:CAS" ; Times: 1
+	Query: "catalognumber:10228 institutioncode:CAS" ; Times: 2
+	Query: "catalognumber:10215 institutioncode:CAS" ; Times: 1
+	Query: "HUbli" ; Times: 1
+	Query: "country:"Mexico" specificepithet:carpio genus:Cyprinus" ; Times: 1
+	Query: "catalognumber: 4725" ; Times: 1
+	Query: "Acanthostracion" ; Times: 1
+	Query: "aplochiton" ; Times: 1
+	Query: "13148" ; Times: 1
+	Query: "cas 10123" ; Times: 1
+	Query: "catalognumber:87811 institutioncode:CAS" ; Times: 4
+	Query: "cas 81102" ; Times: 1
+	Query: "Lavinia exilicauda" ; Times: 2
+	Query: "catalognumber:10143 institutioncode:CAS" ; Times: 2
+	Query: "catalognumber:400 institutioncode:CAS" ; Times: 1
+	Query: "distance(location,geopoint(20.756113874762082,-114.818115234375))<100000" ; Times: 1
+	Query: "catalognumber:10140 institutioncode:CAS" ; Times: 2
+	Query: "catalognumber:50401 institutioncode:CAS" ; Times: 2
+	Query: "Semaprochilodus insignis" ; Times: 2
+	Query: "IP" ; Times: 2
+	Query: "224321" ; Times: 1
+	Query: "catalognumber:87812 institutioncode:CAS" ; Times: 2
+	Query: "catalognumber:10136 institutioncode:CAS" ; Times: 2
+	Query: "46549" ; Times: 1
+	Query: "catalognumber:10142 institutioncode:CAS" ; Times: 2
+	Query: "54895" ; Times: 1
+	Query: "cas 11551" ; Times: 1
+	Query: "country:"Mexico" genus:Gambusia" ; Times: 2
+	Query: "cas 220816" ; Times: 1
+	Query: "catalognumber:64052 institutioncode:CAS" ; Times: 1
+	Query: "cas 39253" ; Times: 1
+	Query: "catalognumber:10146 institutioncode:CAS" ; Times: 2
+	Query: "encheliophis gracilis" ; Times: 1
+	Query: "catalognumber:53631 institutioncode:CAS" ; Times: 3
+	Query: "catalognumber:10111 institutioncode:CAS" ; Times: 1
+	Query: "pristigenys niphonia" ; Times: 1
+	Query: "cas 50316" ; Times: 3
+	Query: "catalognumber:10133 institutioncode:CAS" ; Times: 2
+	Query: "86992 institutioncode:cas" ; Times: 1
+	Query: "country:"Mexico" specificepithet:melas genus:Ameiurus" ; Times: 1
+	Query: "distance(location,geopoint(7.28709824406969,-74.1522216796875))<33203" ; Times: 1
+	Query: "catalognumber:10148 institutioncode:CAS" ; Times: 2
+	Query: "cas 10150" ; Times: 1
+	Query: "cas 10152" ; Times: 1
+	Query: "catalognumber:10150 institutioncode:CAS" ; Times: 2
+	Query: "county:"Marin" stateprovince:"California" recordedby:Needham year >= 1953 year <= 1955" ; Times: 1
+	Query: "bartschi" ; Times: 1
+	Query: "cas 50367" ; Times: 3
+	Query: "cas 50365" ; Times: 1
+	Query: "catalognumber:10144 institutioncode:CAS" ; Times: 2
+	Query: "octopus" ; Times: 2
+	Query: "catalognumber:10137 institutioncode:CAS" ; Times: 2
+	Query: "213736 institutioncode:cas" ; Times: 1
+	Query: "catalognumber:81105 institutioncode:CAS" ; Times: 2
+	Query: "cas 206482" ; Times: 2
+	Query: "catalognumber:10220 institutioncode:CAS" ; Times: 2
+	Query: "synodus indicus" ; Times: 1
+	Query: "catalognumber:10149 institutioncode:CAS" ; Times: 2
+	Query: "country:"India" year >= 1928 year <= 1930" ; Times: 1
+	Query: "catalognumber:10114 institutioncode:CAS" ; Times: 3
+	Query: "27999" ; Times: 1
+	Query: "catalognumber:10130 institutioncode:CAS" ; Times: 2
+	Query: "Platyrhynchus tissue:1" ; Times: 1
+	Query: "distance(location,geopoint(22.87744046489713,-156.796875))<100000" ; Times: 1
+	Query: "catalognumber:95738" ; Times: 1
+	Query: "catalognumber:50459 institutioncode:CAS" ; Times: 2
+	Query: "catalognumber:50515 institutioncode:CAS" ; Times: 2
+	Query: "catalognumber:10116 institutioncode:CAS" ; Times: 2
+	Query: "rhinobatos thouin" ; Times: 2
+	Query: "crossocheilus latius" ; Times: 3
+	Query: "chirocentrus nudus" ; Times: 1
+	Query: "10270" ; Times: 1
+	Query: "catalognumber:10200 institutioncode:CAS" ; Times: 2
+	Query: "catalognumber:50365 institutioncode:CAS" ; Times: 1
+	Query: "95008" ; Times: 1
+	Query: "catalognumber:10217 institutioncode:CAS" ; Times: 2
+	Query: "catalognumber:39253 institutioncode:CAS" ; Times: 4
+	Query: "Lavinia symmetricus symmetricus" ; Times: 1
+	Query: "catalognumber:50503 institutioncode:CAS" ; Times: 2
+	Query: "stateprovince:"alaska" recordedby:kelez" ; Times: 1
+	Query: "83487" ; Times: 1
+	Query: "catalognumber:10117 institutioncode:CAS" ; Times: 1
+	Query: "catalognumber:50392 institutioncode:CAS" ; Times: 3
+	Query: "Ginglymostoma cirratum" ; Times: 1
+	Query: "bpbm 24807" ; Times: 1
+	Query: ""hugh m. smith" country:"Thailand" year >= 1930 year <= 1932" ; Times: 1
+	Query: "63826 institutioncode:cas" ; Times: 2
+	Query: "catalognumber:10135 institutioncode:CAS" ; Times: 2
+	Query: "astyanax fasciatus" ; Times: 1
+	Query: "catalognumber:10216 institutioncode:CAS" ; Times: 2
+	Query: "cas 10201" ; Times: 1
+	Query: "catalognumber:50316 institutioncode:CAS" ; Times: 2
+	Query: "60313" ; Times: 1
+	Query: "catalognumber:7228 institutioncode:CAS" ; Times: 2
+	Query: "catalognumber:10212 institutioncode:CAS" ; Times: 2
+	Query: "country:"senegal"" ; Times: 1
+	Query: "congresox talabonoides" ; Times: 1
+	Query: "catalognumber:10129 institutioncode:CAS" ; Times: 1
+	Query: "catalognumber:10229 institutioncode:CAS" ; Times: 2
+	Query: "catalognumber:10113 institutioncode:CAS" ; Times: 1
+	Query: "Hubli" ; Times: 1
+	Query: "catalognumber:50435 institutioncode:CAS" ; Times: 3
+	Query: "cas 63048" ; Times: 1
+	Query: "94519" ; Times: 3
+	Query: "58508" ; Times: 1
+	Query: "catalognumber:50309 institutioncode:CAS" ; Times: 4
+	Query: "catalognumber:10115 institutioncode:CAS" ; Times: 2
+	Query: ""rhina"" ; Times: 1
+	Query: "catalognumber:50510 institutioncode:CAS" ; Times: 2
+	Query: "76848" ; Times: 1
+	Query: "country:"Mexico" specificepithet:macrochirus genus:Lepomis" ; Times: 1
+	Query: "catalognumber:52495" ; Times: 1
+	Query: "7847 institutioncode:cas" ; Times: 1
+	Query: "osteological" ; Times: 3
+	Query: "CAS 48524" ; Times: 2
+	Query: "208221 institutioncode:cas" ; Times: 1
+	Query: "catalognumber:8479" ; Times: 3
+	Query: "catalognumber:98485 institutioncode:CAS" ; Times: 2
+	Query: "cas 10212" ; Times: 1
+	Query: "cas 10211" ; Times: 1
+	Query: "56147" ; Times: 1
+	Query: "220664" ; Times: 3
+	Query: "cas 7228" ; Times: 1
+	Query: "catalognumber:4074 institutioncode:CAS" ; Times: 2
+	Query: "222251" ; Times: 1
+	Query: "glacier point" ; Times: 1
+	Query: "catalognumber:10138 institutioncode:CAS" ; Times: 2
+	Query: "25393" ; Times: 1
+	Query: "catalognumber:10123 institutioncode:CAS" ; Times: 2
+	Query: "bollmannia stigmatura" ; Times: 11
+	Query: "catalognumber:86917" ; Times: 1
+	Query: "catalognumber:50511 institutioncode:CAS" ; Times: 2
+	Query: "amazona" ; Times: 1
+	Query: "encrasicholina punctifer" ; Times: 1
+	Query: "CONCOLOR country:"MEXICO" year >= 1880 year <= 2015 mappable:1" ; Times: 2
+	Query: "catalognumber:14031 institutioncode:CAS" ; Times: 1
+	Query: "cas 63052" ; Times: 1
+	Query: "catalognumber:49157 institutioncode:CAS" ; Times: 2
+	Query: "Ichthyomyzon bdellium" ; Times: 1
+	Query: "Astyanax aeneus" ; Times: 1
+	Query: "catalognumber:10221 institutioncode:CAS" ; Times: 2
+	Query: "pristigenys" ; Times: 2
+	Query: "catalognumber:50311 institutioncode:CAS" ; Times: 2
+	Query: "stateprovince:"north carolina" country:"united states" specificepithet:carolinae genus:cottus" ; Times: 1
+	Query: "catalognumber:50404 institutioncode:CAS" ; Times: 2
+	Query: "catalognumber:220816 institutioncode:CAS" ; Times: 3
+	Query: "pomadasys kaakan" ; Times: 2
+	Query: "stateprovince:"North Carolina" country:"United States" specificepithet:carolinae genus:cottus" ; Times: 1
+	Query: "waigeo" ; Times: 7
+	Query: "stateprovince:"Baja" country:"Mexico" genus:Lepomis" ; Times: 1
+	Query: "distance(location,geopoint(18.60460138845525,-111.02783203125))<100000" ; Times: 1
+	Query: "sargocentron ittodai" ; Times: 1
+	Query: "catalognumber:21324" ; Times: 1
+	Query: "19463" ; Times: 1
+	Query: "CAS 4413" ; Times: 1
+	Query: "83998" ; Times: 1
+	Query: "distance(location,geopoint(7.28709824406969,-74.1522216796875))<52644" ; Times: 1
+	Query: "cas 93407" ; Times: 1
+	Query: "catalognumber:10219 institutioncode:CAS" ; Times: 2
+	Query: "catalognumber:50449 institutioncode:CAS" ; Times: 1
+	Query: "cas 10229" ; Times: 1
+	Query: "cas 10129" ; Times: 1
+	Query: "cas 10227" ; Times: 1
+	Query: "tuvalu" ; Times: 1
+	Query: "stateprovince:"Baja California" country:"Mexico" genus:Gambusia" ; Times: 1
+	Query: "Psychrolutes" ; Times: 1
+	Query: "cas 10221" ; Times: 1
+	Query: "catalognumber:49155 institutioncode:CAS" ; Times: 2
+	Query: "usmn" ; Times: 1
+	Query: "catalognumber:7226 institutioncode:CAS" ; Times: 2
+	Query: "catalognumber:10218 institutioncode:CAS" ; Times: 2
+	Query: "catalognumber:64351 institutioncode:CAS" ; Times: 5
+	Query: "county:"Marin" stateprovince:"California" recordedby:Needham" ; Times: 1
+	Query: "catalognumber:50445 institutioncode:CAS" ; Times: 2
+	Query: "Prionace glauca" ; Times: 1
+	Query: "91707" ; Times: 1
+	Query: "29475" ; Times: 1
+	Query: ""Archbold biological station"" ; Times: 1
+	Query: "catalognumber:15631 institutioncode:CAS" ; Times: 1
+	Query: "59708 institutioncode:cas" ; Times: 1
+	Query: "catalognumber:50315 institutioncode:CAS" ; Times: 2
+	Query: "catalognumber:10213 institutioncode:CAS" ; Times: 1
+	Query: "Thomas J. Myers" ; Times: 1
+	Query: "222251 institutioncode:cas" ; Times: 1
+	Query: "catalognumber:63048 institutioncode:CAS" ; Times: 1
+	Query: "cas 10111" ; Times: 1
+	Query: "catalognumber:50430 institutioncode:CAS" ; Times: 2
+	Query: "county:"Marin" stateprovince:"California" recordedby:Needham year >= 1954 year <= 1954" ; Times: 1
+	Query: "34677" ; Times: 1
+	Query: "catalognumber:220817 institutioncode:CAS" ; Times: 2
+	Query: "cas 10119" ; Times: 1
+	Query: "cas 50401" ; Times: 1
+	Query: "catalognumber:10132 institutioncode:CAS" ; Times: 2
+	Query: "catalognumber:2244 institutioncode:CAS" ; Times: 2
+	Query: "Tijuana" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 31 (out of 1138 download events in this period)
+Total number of records downloaded: 46147 (out of 5370164 records downloaded for all resources in this period)
+Total number of unique records downloaded: 25986
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Colombia ; Times: 4
+	Country: France ; Times: 2
+	Country: Mexico ; Times: 6
+	Country: United Kingdom ; Times: 1
+	Country: United States ; Times: 15
+	Country: Unknown ; Times: 1
+	Country: Venezuela ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-08-01 ; Times: 1
+	Date: 2015-08-04 ; Times: 1
+	Date: 2015-08-13 ; Times: 2
+	Date: 2015-08-15 ; Times: 1
+	Date: 2015-08-16 ; Times: 3
+	Date: 2015-08-17 ; Times: 10
+	Date: 2015-08-18 ; Times: 1
+	Date: 2015-08-21 ; Times: 1
+	Date: 2015-08-24 ; Times: 1
+	Date: 2015-08-25 ; Times: 3
+	Date: 2015-08-27 ; Times: 1
+	Date: 2015-08-28 ; Times: 2
+	Date: 2015-08-29 ; Times: 1
+	Date: 2015-08-31 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "mykiss" ; Times: 1
+	Query: "type:specimen stateprovince:"Delaware" country:"United States"" ; Times: 1
+	Query: "type:specimen stateprovince:"New York" country:"United States"" ; Times: 1
+	Query: "stateprovince:"New York" country:"United States"" ; Times: 1
+	Query: "stateprovince:"Delaware" country:"United States"" ; Times: 1
+	Query: "country:"panama"" ; Times: 1
+	Query: "canis" ; Times: 1
+	Query: "amazona" ; Times: 1
+	Query: "riverside county" ; Times: 1
+	Query: "type:specimen stateprovince:"Maryland" country:"United States"" ; Times: 1
+	Query: "mus" ; Times: 1
+	Query: "country:"bolivia"" ; Times: 1
+	Query: "stateprovince:"Maryland" country:"United States"" ; Times: 1
+	Query: "stateprovince:"Pennsylvania"" ; Times: 1
+	Query: "type:specimen stateprovince:"New Jersey" country:"United States"" ; Times: 1
+	Query: "distance(location,geopoint(-3.5426625084420342,-59.47265803813934))<1104168" ; Times: 1
+	Query: "venezuela" ; Times: 2
+	Query: "stateprovince:"New Jersey" country:"United States"" ; Times: 1
+	Query: "type:specimen stateprovince:"Pennsylvania" country:"United States"" ; Times: 1
+	Query: "Psychrolutes" ; Times: 1
+	Query: "country:Brazil" ; Times: 2
+	Query: "stateprovince:"Baja California" country:"Mexico" genus:Lepomis" ; Times: 1
+	Query: "country:"peru"" ; Times: 1
+	Query: "Prionace glauca" ; Times: 1
+	Query: "tabasco" ; Times: 2
+	Query: "stateprovince:"Pennsylvania" country:"United States"" ; Times: 1
+	Query: "country:"ecuador"" ; Times: 1
+	Query: "distance(location,geopoint(32.379961464357315,-119.94873046875))<100000" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 452
+Total number of records retrieved from searches: 2027
+Number of download events that retrieved data from the resource: 31
+Total number of records downloaded: 46147
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 452
+Total number of records retrieved from searches: 2027
+Number of download events that retrieved data from the resource: 31
+Total number of records downloaded: 46147
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
