@@ -1,0 +1,114 @@
+Report for Institution Code CAS, Resource ich
+Usage stats for March 2016, generated on 2016/04/20
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 64
+Number of records retrieved in searches: 450
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Unknown ; Times: 1
+	Country: United States ; Times: 32
+	Country: Germany ; Times: 1
+	Country: Puerto Rico ; Times: 4
+	Country: Russia ; Times: 25
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-03-03 ; Times: 9
+	Date: 2016-03-08 ; Times: 11
+	Date: 2016-03-09 ; Times: 4
+	Date: 2016-03-06 ; Times: 4
+	Date: 2016-03-07 ; Times: 3
+	Date: 2016-03-04 ; Times: 2
+	Date: 2016-03-01 ; Times: 10
+	Date: 2016-03-02 ; Times: 7
+	Date: 2016-03-10 ; Times: 6
+	Date: 2016-03-13 ; Times: 4
+	Date: 2016-03-12 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "rhabdamia cypselurus" ; Times: 3
+	Query: "wizard" ; Times: 3
+	Query: "rhabdamia" ; Times: 4
+	Query: "gymnothorax johnsoni" ; Times: 3
+	Query: "preparations:skeletal" ; Times: 1
+	Query: "pacific marten" ; Times: 1
+	Query: "Urobatis halleri" ; Times: 1
+	Query: "234977" ; Times: 1
+	Query: "rhabdamia cypselurus cas" ; Times: 2
+	Query: "95588" ; Times: 1
+	Query: "coryogalops cas" ; Times: 1
+	Query: "Hermosilla azurea" ; Times: 1
+	Query: "Amphistichus argenteus" ; Times: 1
+	Query: "CAS 205255" ; Times: 1
+	Query: "paraliparis dactylosus" ; Times: 1
+	Query: "rhabdamia cypselura" ; Times: 1
+	Query: "uropterygius polyspilus" ; Times: 2
+	Query: "distance(location,geopoint(37.02009820136811,15.46875))&lt;100000" ; Times: 1
+	Query: "CAS 230941" ; Times: 2
+	Query: "Rhinobatos productus" ; Times: 1
+	Query: "Oncorhynchus clarki henshawi" ; Times: 1
+	Query: "elassodiscus tremebundus" ; Times: 1
+	Query: "cas 50430" ; Times: 1
+	Query: "Antimora" ; Times: 2
+	Query: "Lythrypnus zebra" ; Times: 1
+	Query: "gymnothorax punctatus" ; Times: 1
+	Query: "EJE type:specimen institutioncode:CAS" ; Times: 1
+	Query: "Zapteryx exasperata" ; Times: 1
+	Query: "235104" ; Times: 1
+	Query: "Xenistius californiensis" ; Times: 1
+	Query: "29992" ; Times: 2
+	Query: "Sebastes umbrosus" ; Times: 1
+	Query: "dasycottus setiger" ; Times: 1
+	Query: "enophrys bison" ; Times: 1
+	Query: "careproctus colletti" ; Times: 1
+	Query: "gymnothorax griseus red sea" ; Times: 1
+	Query: "cas 214888" ; Times: 1
+	Query: "Gymnothorax rueppelliae" ; Times: 1
+	Query: "U vert" ; Times: 1
+	Query: "cas 214887" ; Times: 2
+	Query: "CAS 208956" ; Times: 2
+	Query: "Noturus gilberti (Virginia)" ; Times: 1
+	Query: "hippoglossoides elassodon" ; Times: 1
+	Query: "235105" ; Times: 1
+	Query: "rhabdamia cypselura cas" ; Times: 1
+	Query: "golden trout" ; Times: 1
+	Query: "11054" ; Times: 1
+	Query: "echidna nebulosa red sea" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 41 (out of 230 download events in this period)
+Total number of records downloaded: 55388
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 38
+	Country: Canada ; Times: 1
+	Country: Colombia ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-03-02 ; Times: 2
+	Date: 2016-03-03 ; Times: 2
+	Date: 2016-03-08 ; Times: 4
+	Date: 2016-03-09 ; Times: 9
+	Date: 2016-03-06 ; Times: 1
+	Date: 2016-03-14 ; Times: 7
+	Date: 2016-03-11 ; Times: 3
+	Date: 2016-03-10 ; Times: 5
+	Date: 2016-03-13 ; Times: 6
+	Date: 2016-03-12 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "cas 50430" ; Times: 1
+	Query: "country:&#34;Colombia&#34;" ; Times: 1
+	Query: "tissue" ; Times: 35
+	Query: "Indian Cove" ; Times: 1
+	Query: "Alces alces" ; Times: 1
+	Query: "country:&#34;Colombia&#34; mappable:1" ; Times: 1
+	Query: "EJE type:specimen institutioncode:CAS" ; Times: 1
+
+
+End of report.
