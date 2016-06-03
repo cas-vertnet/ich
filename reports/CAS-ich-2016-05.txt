@@ -1,0 +1,173 @@
+Report for Institution Code CAS, Resource ich
+Usage stats for May 2016, generated on 2016/06/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 167
+Number of records retrieved in searches: 2628
+Number of different countries where searches have been originated: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 3
+	Country: United States ; Times: 139
+	Country: Netherlands ; Times: 1
+	Country: Mexico ; Times: 7
+	Country: Unknown ; Times: 1
+	Country: France ; Times: 3
+	Country: United Kingdom ; Times: 1
+	Country: China ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: Belgium ; Times: 1
+	Country: Germany ; Times: 1
+	Country: Russia ; Times: 8
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-05-19 ; Times: 1
+	Date: 2016-05-18 ; Times: 1
+	Date: 2016-05-17 ; Times: 1
+	Date: 2016-05-16 ; Times: 1
+	Date: 2016-05-15 ; Times: 2
+	Date: 2016-05-14 ; Times: 4
+	Date: 2016-05-13 ; Times: 4
+	Date: 2016-05-11 ; Times: 1
+	Date: 2016-05-10 ; Times: 2
+	Date: 2016-05-31 ; Times: 78
+	Date: 2016-05-30 ; Times: 2
+	Date: 2016-05-08 ; Times: 5
+	Date: 2016-05-09 ; Times: 2
+	Date: 2016-05-02 ; Times: 4
+	Date: 2016-05-03 ; Times: 1
+	Date: 2016-05-04 ; Times: 2
+	Date: 2016-05-05 ; Times: 11
+	Date: 2016-05-07 ; Times: 4
+	Date: 2016-05-26 ; Times: 7
+	Date: 2016-05-24 ; Times: 1
+	Date: 2016-05-25 ; Times: 4
+	Date: 2016-05-22 ; Times: 8
+	Date: 2016-05-23 ; Times: 12
+	Date: 2016-05-20 ; Times: 3
+	Date: 2016-05-28 ; Times: 2
+	Date: 2016-05-29 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "distance(location,geopoint(20.549036,-105.187516))&lt;15000" ; Times: 1
+	Query: "specificepithet:exilis genus:Strongylura" ; Times: 1
+	Query: "rhinobatos productus" ; Times: 4
+	Query: "specificepithet:macdonaldi genus:Cynoscion" ; Times: 4
+	Query: "specificepithet:carpio genus:Cyprinus" ; Times: 1
+	Query: "specificepithet:querna genus:Azevia" ; Times: 2
+	Query: "wizard" ; Times: 3
+	Query: "specificepithet:productus genus:Rhinobatos" ; Times: 3
+	Query: "specificepithet:mazatlanus genus:Achirus" ; Times: 3
+	Query: "specificepithet:exasperata genus:Zapteryx" ; Times: 3
+	Query: "specificepithet:woolmani genus:Paralichthys" ; Times: 3
+	Query: "distance(location,geopoint(20.515036,-105.587516))&lt;15000" ; Times: 1
+	Query: "specificepithet:acanthistius genus:Cephalopholis" ; Times: 2
+	Query: "Hanna AND Catalina Island" ; Times: 1
+	Query: "catalognumber:53509" ; Times: 1
+	Query: "specificepithet:auroguttatus genus:Paralabrax" ; Times: 3
+	Query: "specificepithet:bairdii stateprovince:&#34;michigan&#34; year &gt;= 1830" ; Times: 1
+	Query: "ISM AND Island" ; Times: 1
+	Query: "catalognumber:59092" ; Times: 1
+	Query: "CAS 206986" ; Times: 1
+	Query: "Pterois miles" ; Times: 2
+	Query: "distance(location,geopoint(27.301036,-112.763516))&lt;15000" ; Times: 1
+	Query: "CAS 84060" ; Times: 1
+	Query: "RUSI" ; Times: 1
+	Query: "specificepithet:glauca genus:Prionace" ; Times: 2
+	Query: "specificepithet:harengus genus:Clupea" ; Times: 2
+	Query: "specificepithet:leucas genus:Carcharhinus" ; Times: 1
+	Query: "CAS 18076" ; Times: 1
+	Query: "catalognumber:95656 OR catalognumber:103274 OR catalognumber:186655 OR catalognumber:186656 OR catalognumber:220658 OR catalognumber:220659 OR catalognumber:220660 OR catalognumber:220661 OR catalognumber:224152 OR catalognumber:224153 OR catalognumber:285575 OR catalognumber:298234 OR catalognumber:301935 OR catalognumber:357942" ; Times: 1
+	Query: "Oncorhynchus clarki henshawi" ; Times: 2
+	Query: "hypopomus artedi" ; Times: 3
+	Query: "specificepithet:panamensis genus:Cyclopsetta" ; Times: 5
+	Query: "CAS 38138" ; Times: 1
+	Query: "distance(location,geopoint(26.131036,-111.749516))&lt;15000" ; Times: 2
+	Query: "distance(location,geopoint(20.827036,-105.509516))&lt;15000" ; Times: 1
+	Query: "catalognumber:44571" ; Times: 1
+	Query: "205638" ; Times: 1
+	Query: "Sicydium Ecuador" ; Times: 1
+	Query: "specificepithet:constellatus genus:Platophrys" ; Times: 2
+	Query: "Anguis" ; Times: 1
+	Query: "specificepithet:crossotus genus:Etropus" ; Times: 8
+	Query: "specificepithet:sinaloae genus:Paralichthys" ; Times: 3
+	Query: "specificepithet:tetrophthalmus genus:Hippoglossina" ; Times: 3
+	Query: "distance(location,geopoint(26.131036,-111.905516))&lt;15000" ; Times: 1
+	Query: "specificepithet:megalops genus:Micropogon" ; Times: 3
+	Query: "specificepithet:barracuda genus:Sphyraena" ; Times: 1
+	Query: "Abell AND Santa Barbara Island" ; Times: 1
+	Query: "distance(location,geopoint(21.139036,-110.423516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(27.067036,-108.317516))&lt;15000" ; Times: 1
+	Query: "specificepithet:aestuarius genus:Paralichthys" ; Times: 3
+	Query: "64234" ; Times: 1
+	Query: "specificepithet:albacares genus:Thunnus" ; Times: 2
+	Query: "specificepithet:magdalenae genus:Paralichthys" ; Times: 4
+	Query: "specificepithet:gilberti genus:Citharichthys" ; Times: 3
+	Query: "Rimator" ; Times: 1
+	Query: "57306" ; Times: 1
+	Query: "catalognumber:46487" ; Times: 1
+	Query: "206986" ; Times: 1
+	Query: "catalognumber:44144" ; Times: 1
+	Query: "32603" ; Times: 1
+	Query: "R-67076" ; Times: 1
+	Query: "catalognumber:66486" ; Times: 1
+	Query: "specificepithet:californicus genus:Paralichthys" ; Times: 4
+	Query: "specificepithet:punctatus genus:Ictalurus" ; Times: 4
+	Query: "specificepithet:panamensis genus:Azevia" ; Times: 1
+	Query: "specificepithet:californica genus:Squatina" ; Times: 3
+	Query: "distance(location,geopoint(27.223036,-112.919516))&lt;15000" ; Times: 2
+	Query: "specificepithet:constellatus genus:Bothus" ; Times: 3
+	Query: "distance(location,geopoint(26.131036,-111.671516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(20.549036,-105.407516))&lt;15000" ; Times: 1
+	Query: "specificepithet:henlei genus:Mustelus" ; Times: 3
+	Query: "Anacapa AND 1942" ; Times: 1
+	Query: "specificepithet:hians genus:Ablennes" ; Times: 1
+	Query: "distance(location,geopoint(20.219036,-112.557516))&lt;15000" ; Times: 2
+	Query: "parapriacanthus" ; Times: 4
+	Query: "lampetra minima" ; Times: 1
+	Query: "specificepithet:fasciatus genus:Epinephelus" ; Times: 2
+	Query: "ostorhinchus fasciatus" ; Times: 1
+	Query: "COCODRILO" ; Times: 1
+	Query: "Lampetra hubbsi" ; Times: 2
+	Query: "CAS 84057" ; Times: 1
+	Query: "specificepithet:acanthistius genus:Epinephelus" ; Times: 3
+	Query: "specificepithet:querna genus:Cyclopsetta" ; Times: 5
+	Query: "distance(location,geopoint(27.223036,-112.295516))&lt;15000" ; Times: 1
+	Query: "specificepithet:ovale genus:Syacium" ; Times: 3
+	Query: "catalognumber:56127" ; Times: 1
+	Query: "trematomus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 16 (out of 327 download events in this period)
+Total number of records downloaded: 6983
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 11
+	Country: Unknown ; Times: 1
+	Country: China ; Times: 1
+	Country: United Kingdom ; Times: 2
+	Country: Colombia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-05-17 ; Times: 2
+	Date: 2016-05-15 ; Times: 1
+	Date: 2016-05-31 ; Times: 10
+	Date: 2016-05-12 ; Times: 2
+	Date: 2016-05-30 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:crossotus genus:Etropus" ; Times: 5
+	Query: "Canis type:specimen" ; Times: 1
+	Query: "distance(location,geopoint(0.6626806178531492,-71.103515625))&lt;936470" ; Times: 1
+	Query: "mongolia" ; Times: 1
+	Query: "gasterosteus" ; Times: 1
+	Query: "Canis type:specimen distance(location,geopoint(37.71859032558813,-95.44921875))&lt;2776004" ; Times: 1
+	Query: "specificepithet:californicus genus:Paralichthys" ; Times: 3
+	Query: "Anguis" ; Times: 2
+	Query: "Rimator" ; Times: 1
+
+
+End of report.
