@@ -1,0 +1,186 @@
+Report for Institution Code CAS, Resource ich
+Usage stats for September 2016, generated on 2016/10/31
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 168
+Number of records retrieved in searches: 2753
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 6
+	Country: United States ; Times: 113
+	Country: Netherlands ; Times: 25
+	Country: Portugal ; Times: 2
+	Country: Mexico ; Times: 17
+	Country: Unknown ; Times: 2
+	Country: United Kingdom ; Times: 2
+	Country: Russia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-09-13 ; Times: 4
+	Date: 2016-09-12 ; Times: 9
+	Date: 2016-09-11 ; Times: 5
+	Date: 2016-09-10 ; Times: 4
+	Date: 2016-09-17 ; Times: 1
+	Date: 2016-09-16 ; Times: 1
+	Date: 2016-09-15 ; Times: 1
+	Date: 2016-09-14 ; Times: 10
+	Date: 2016-09-30 ; Times: 1
+	Date: 2016-09-19 ; Times: 1
+	Date: 2016-09-18 ; Times: 3
+	Date: 2016-09-24 ; Times: 16
+	Date: 2016-09-03 ; Times: 8
+	Date: 2016-09-08 ; Times: 13
+	Date: 2016-09-09 ; Times: 2
+	Date: 2016-09-04 ; Times: 5
+	Date: 2016-09-23 ; Times: 2
+	Date: 2016-09-06 ; Times: 10
+	Date: 2016-09-07 ; Times: 5
+	Date: 2016-09-01 ; Times: 2
+	Date: 2016-09-02 ; Times: 3
+	Date: 2016-09-25 ; Times: 1
+	Date: 2016-09-05 ; Times: 61
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:cruentatus genus:Priacanthus" ; Times: 1
+	Query: "234374" ; Times: 1
+	Query: "milkfish" ; Times: 1
+	Query: "specificepithet:mordax genus:Engraulis" ; Times: 1
+	Query: "specificepithet:otrynter genus:Carangoides" ; Times: 1
+	Query: "specificepithet:rondeletii genus:Hirundichthys" ; Times: 1
+	Query: "specificepithet:maculatofasciatus genus:Paralabrax" ; Times: 1
+	Query: "specificepithet:macrocephalus genus:Uropterygius" ; Times: 1
+	Query: "specificepithet:archidium genus:Elattarchus" ; Times: 1
+	Query: "specificepithet:williamsi genus:Symphurus" ; Times: 1
+	Query: "wizard" ; Times: 2
+	Query: "specificepithet:emmelas genus:Cherublemma" ; Times: 1
+	Query: "specificepithet:affinis genus:Caulolatilus" ; Times: 1
+	Query: "specificepithet:princeps genus:Caulolatilus" ; Times: 1
+	Query: "locality:Lagoa Santa" ; Times: 2
+	Query: "specificepithet:furcirhinus genus:Pontinus" ; Times: 1
+	Query: "Poecilia reticulata" ; Times: 1
+	Query: "locality:Lagoa dos Patos country:&#34;brazil&#34;" ; Times: 1
+	Query: "specificepithet:sanguineus genus:Antennarius" ; Times: 1
+	Query: "13921" ; Times: 1
+	Query: "82991" ; Times: 1
+	Query: "specificepithet:lewini genus:Sphyrna" ; Times: 1
+	Query: "Oreochromis aureus" ; Times: 1
+	Query: "specificepithet:remora genus:Remora" ; Times: 1
+	Query: "227520" ; Times: 1
+	Query: "specificepithet:californiensis genus:Atherinopsis" ; Times: 1
+	Query: "specificepithet:concentricus genus:Urobatis" ; Times: 1
+	Query: "mycteroperca xenarcha" ; Times: 1
+	Query: "specificepithet:nebulifer genus:Paralabrax" ; Times: 1
+	Query: "catalognumber:12498" ; Times: 1
+	Query: "Mistichthys luzonensis" ; Times: 1
+	Query: "specificepithet:thoburni genus:Xenomugil" ; Times: 1
+	Query: "specificepithet:politus genus:Seriphus" ; Times: 1
+	Query: "specificepithet:etheostoma genus:Aboma" ; Times: 1
+	Query: "genus:moxostoma stateprovince:&#34;iowa&#34;" ; Times: 1
+	Query: "specificepithet:margaritatus genus:Porichthys" ; Times: 1
+	Query: "specificepithet:bipinnulata genus:Elagatis" ; Times: 1
+	Query: "Tapirus" ; Times: 1
+	Query: "Elephas" ; Times: 1
+	Query: "specificepithet:leucas genus:Carcharhinus" ; Times: 1
+	Query: "specificepithet:atricauda genus:Symphurus" ; Times: 1
+	Query: "specificepithet:panamensis genus:Gymnothorax" ; Times: 1
+	Query: "Tilapia zillii" ; Times: 1
+	Query: "specificepithet:papillifer genus:Gobiesox" ; Times: 1
+	Query: "Oncorhynchus clarki henshawi" ; Times: 31
+	Query: "specificepithet:velox genus:Carcharhinus" ; Times: 1
+	Query: "21963" ; Times: 2
+	Query: "Oreochromis mossambicus" ; Times: 1
+	Query: "Remora remora" ; Times: 5
+	Query: "laysan albatross year &gt;= 1900 year &lt;= 1950" ; Times: 1
+	Query: "27582" ; Times: 1
+	Query: "25239" ; Times: 1
+	Query: "70064" ; Times: 1
+	Query: "specificepithet:elongatus genus:Symphurus" ; Times: 1
+	Query: "69273" ; Times: 1
+	Query: "specificepithet:peruana genus:Seriola" ; Times: 1
+	Query: "specificepithet:griseus genus:Hexanchus" ; Times: 1
+	Query: "specificepithet:rectifraenum genus:Stegastes" ; Times: 1
+	Query: "locality:atka stateprovince:&#34;alaska&#34;" ; Times: 1
+	Query: "specificepithet:brunneus genus:Echiophis" ; Times: 1
+	Query: "specificepithet:elater genus:Zalieutes" ; Times: 1
+	Query: "Archbold Biological Station type:specimen" ; Times: 1
+	Query: "specificepithet:declivifrons genus:Abudefduf" ; Times: 1
+	Query: "218939" ; Times: 1
+	Query: "specificepithet:crossotus genus:Etropus" ; Times: 1
+	Query: "specificepithet:proboscideus genus:Chaenomugil" ; Times: 1
+	Query: "77230" ; Times: 1
+	Query: "newtoni" ; Times: 1
+	Query: "locality:akutan stateprovince:&#34;alaska&#34;" ; Times: 1
+	Query: "specificepithet:longirostris genus:Euleptorhamphus" ; Times: 1
+	Query: "Aguascalientes" ; Times: 1
+	Query: " Oncorhynchus clarki henshawi" ; Times: 6
+	Query: "specificepithet:hopkinsi genus:Hynnis" ; Times: 1
+	Query: "specificepithet:sanctilaurentii genus:Engyophrys" ; Times: 1
+	Query: "specificepithet:melampygus genus:Caranx" ; Times: 1
+	Query: "locality:Moyobamba country:&#34;peru&#34;" ; Times: 1
+	Query: "Ctenopharyngodon idella" ; Times: 1
+	Query: "specificepithet:macdonaldi genus:Sebastes" ; Times: 1
+	Query: "carpenter egg california" ; Times: 1
+	Query: "specificepithet:elongatus genus:Menticirrhus" ; Times: 1
+	Query: "specificepithet:mariajorisae genus:Citharichthys" ; Times: 1
+	Query: "Cyprinus carpio" ; Times: 4
+	Query: "72673" ; Times: 1
+	Query: "specificepithet:dubius genus:Scarus" ; Times: 1
+	Query: "catalognumber:229581 institutioncode:CAS" ; Times: 1
+	Query: "Carassius auratus" ; Times: 2
+	Query: "specificepithet:lineatus genus:Euthynnus" ; Times: 1
+	Query: "specificepithet:obscurus genus:Carcharhinus" ; Times: 2
+	Query: "specificepithet:hippurus genus:Coryphaena" ; Times: 1
+	Query: "specificepithet:nigricans genus:Acanthurus" ; Times: 1
+	Query: "specificepithet:orqueta genus:Chloroscombrus" ; Times: 1
+	Query: "specificepithet:lugubris genus:Caranx" ; Times: 1
+	Query: "specificepithet:albacares genus:Thunnus" ; Times: 1
+	Query: "specificepithet:reticulatus genus:Cynoscion" ; Times: 1
+	Query: "specificepithet:compressus genus:Scarus" ; Times: 1
+	Query: "specificepithet:hispidus genus:Arothron" ; Times: 1
+	Query: "14798" ; Times: 1
+	Query: "specificepithet:petenense genus:Dorosoma" ; Times: 1
+	Query: "specificepithet:crestonis genus:Acanthurus" ; Times: 1
+	Query: "Thamnophis hammondii" ; Times: 1
+	Query: "99447" ; Times: 1
+	Query: "specificepithet:pinnatibarbatus genus:Cheilopogon" ; Times: 1
+	Query: "ensifera ensifera" ; Times: 2
+	Query: "12359" ; Times: 1
+	Query: "specificepithet:clathratus genus:Paralabrax" ; Times: 1
+	Query: "Oreochromis niloticus" ; Times: 3
+	Query: "specificepithet:hians genus:Ablennes" ; Times: 2
+	Query: "specificepithet:rosenblatti genus:Coralliozetus" ; Times: 1
+	Query: "specificepithet:maculatus genus:Gobiomorus" ; Times: 1
+	Query: "specificepithet:azureus genus:Carcharhinus" ; Times: 1
+	Query: "specificepithet:idiastes genus:Sphyraena" ; Times: 1
+	Query: "(Archbold Biological Station)" ; Times: 2
+	Query: "44736" ; Times: 1
+	Query: "specificepithet:colliei genus:Hydrolagus" ; Times: 1
+	Query: "Cardinalis cardinalis 1" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 5 (out of 811 download events in this period)
+Total number of records downloaded: 16260
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United States ; Times: 2
+	Country: Thailand ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-09-12 ; Times: 1
+	Date: 2016-09-06 ; Times: 1
+	Date: 2016-09-11 ; Times: 1
+	Date: 2016-09-02 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:formosa genus:Heterandria stateprovince:&#34;Louisiana&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "tadpole" ; Times: 1
+	Query: "type:specimen country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "thailand" ; Times: 2
+
+
+End of report.
