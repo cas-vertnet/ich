@@ -1,0 +1,443 @@
+Report for Institution Code CAS, Resource ich
+Usage stats for July 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 440
+Number of records retrieved in searches: 4388
+Number of different countries where searches have been originated: 23
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 9
+	Country: Canada ; Times: 3
+	Country: Unknown ; Times: 7
+	Country: France ; Times: 2
+	Country: Peru ; Times: 4
+	Country: Argentina ; Times: 4
+	Country: Australia ; Times: 2
+	Country: Iran ; Times: 1
+	Country: Guatemala ; Times: 1
+	Country: China ; Times: 7
+	Country: Chile ; Times: 1
+	Country: Germany ; Times: 5
+	Country: Ukraine ; Times: 2
+	Country: United States ; Times: 341
+	Country: New Zealand ; Times: 1
+	Country: Russia ; Times: 3
+	Country: Mexico ; Times: 25
+	Country: South Africa ; Times: 1
+	Country: India ; Times: 2
+	Country: United Kingdom ; Times: 11
+	Country: Austria ; Times: 3
+	Country: Colombia ; Times: 1
+	Country: Japan ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-07-07 ; Times: 4
+	Date: 2018-07-01 ; Times: 18
+	Date: 2018-07-02 ; Times: 15
+	Date: 2018-07-03 ; Times: 14
+	Date: 2018-07-28 ; Times: 3
+	Date: 2018-07-29 ; Times: 4
+	Date: 2018-07-08 ; Times: 3
+	Date: 2018-07-09 ; Times: 16
+	Date: 2018-07-04 ; Times: 11
+	Date: 2018-07-05 ; Times: 11
+	Date: 2018-07-06 ; Times: 8
+	Date: 2018-07-21 ; Times: 6
+	Date: 2018-07-26 ; Times: 18
+	Date: 2018-07-27 ; Times: 16
+	Date: 2018-07-24 ; Times: 53
+	Date: 2018-07-25 ; Times: 21
+	Date: 2018-07-13 ; Times: 17
+	Date: 2018-07-12 ; Times: 17
+	Date: 2018-07-11 ; Times: 13
+	Date: 2018-07-10 ; Times: 28
+	Date: 2018-07-17 ; Times: 14
+	Date: 2018-07-16 ; Times: 27
+	Date: 2018-07-15 ; Times: 4
+	Date: 2018-07-14 ; Times: 1
+	Date: 2018-07-31 ; Times: 25
+	Date: 2018-07-30 ; Times: 15
+	Date: 2018-07-19 ; Times: 17
+	Date: 2018-07-18 ; Times: 5
+	Date: 2018-07-22 ; Times: 5
+	Date: 2018-07-23 ; Times: 24
+	Date: 2018-07-20 ; Times: 7
+
+List of queries that retrieved data from the resource: 
+	Query: "tachira" ; Times: 1
+	Query: "sea otter" ; Times: 1
+	Query: "89544" ; Times: 1
+	Query: "serrasalmus eigenmanni" ; Times: 1
+	Query: "Ensifera ensifera" ; Times: 2
+	Query: "18318" ; Times: 1
+	Query: "243717" ; Times: 1
+	Query: "44690" ; Times: 1
+	Query: "platydoras costatus" ; Times: 1
+	Query: "catalognumber:230899 institutioncode:CAS" ; Times: 2
+	Query: "(cameta)" ; Times: 2
+	Query: "34490" ; Times: 1
+	Query: "Olson" ; Times: 1
+	Query: "locality:green rock" ; Times: 1
+	Query: "37260" ; Times: 1
+	Query: "Barbodes lindog" ; Times: 1
+	Query: "puntius guganio" ; Times: 1
+	Query: "3418" ; Times: 1
+	Query: "Ancistrus dolichopterus." ; Times: 1
+	Query: "47680" ; Times: 1
+	Query: "(auriculatus)" ; Times: 1
+	Query: "specificepithet:versicolor" ; Times: 1
+	Query: "catalognumber:44449" ; Times: 1
+	Query: "catalognumber:44448" ; Times: 1
+	Query: "Scarus perrico" ; Times: 1
+	Query: "207771" ; Times: 1
+	Query: "wizard" ; Times: 1
+	Query: "W48-16" ; Times: 2
+	Query: "county:&#34;Johnson&#34;" ; Times: 1
+	Query: "18420" ; Times: 1
+	Query: "57433" ; Times: 1
+	Query: "arapaima" ; Times: 2
+	Query: "country:&#34;Bolivia&#34;" ; Times: 2
+	Query: "Channa micropeltes" ; Times: 2
+	Query: "serrasalmus maculatus" ; Times: 1
+	Query: "Tomeurus" ; Times: 1
+	Query: "Ebosia" ; Times: 1
+	Query: "233675" ; Times: 1
+	Query: "22763" ; Times: 2
+	Query: "catalognumber:9286 institutioncode:CAS" ; Times: 1
+	Query: "calotomus carolinus" ; Times: 1
+	Query: "hyphessobrycon metae" ; Times: 1
+	Query: "labeo senegalensis" ; Times: 1
+	Query: "82901" ; Times: 1
+	Query: "locality:San Mateo Creek county:&#34;san mateo&#34; year &lt;= 1950" ; Times: 1
+	Query: "74358" ; Times: 1
+	Query: "20167" ; Times: 1
+	Query: "catalognumber:9266 institutioncode:CAS" ; Times: 1
+	Query: "14764" ; Times: 1
+	Query: "Ophidion scrippsae" ; Times: 2
+	Query: "241758" ; Times: 1
+	Query: "Scarus compressus" ; Times: 1
+	Query: "catalognumber:206819 institutioncode:CAS" ; Times: 1
+	Query: "Lycodinae" ; Times: 1
+	Query: "Oncorhynchus clarki henshawi" ; Times: 28
+	Query: "hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "stateprovince:&#34;Oaxaca&#34;" ; Times: 1
+	Query: "6399" ; Times: 1
+	Query: "jaguar" ; Times: 1
+	Query: "7252" ; Times: 1
+	Query: "Dentatherinidae" ; Times: 1
+	Query: "29686" ; Times: 1
+	Query: "Puntius filamentosus" ; Times: 1
+	Query: "Felix" ; Times: 1
+	Query: "clupea harengus" ; Times: 1
+	Query: "Orca Expedition Isla" ; Times: 1
+	Query: "hydrophis institutioncode:CAS" ; Times: 3
+	Query: "90043" ; Times: 4
+	Query: "92002" ; Times: 1
+	Query: "2259" ; Times: 1
+	Query: "Dendrochirus brachypterus" ; Times: 1
+	Query: "Scarus ghobban" ; Times: 1
+	Query: "Gadus morhua" ; Times: 1
+	Query: "rasbora elegans" ; Times: 2
+	Query: "W49-99" ; Times: 3
+	Query: "2796" ; Times: 1
+	Query: "13018" ; Times: 1
+	Query: "orca" ; Times: 1
+	Query: "30999" ; Times: 1
+	Query: "234277" ; Times: 2
+	Query: "catalognumber:20886" ; Times: 1
+	Query: "karnataka" ; Times: 2
+	Query: "genus:Chelidoperca" ; Times: 1
+	Query: "6188 ansp" ; Times: 1
+	Query: "Pacific Sea snake" ; Times: 1
+	Query: "W57-66" ; Times: 1
+	Query: "locality:reliz county:&#34;monterey&#34; stateprovince:&#34;california&#34; year &gt;= 1900 year &lt;= 1950" ; Times: 1
+	Query: "&#34;Harris County&#34;" ; Times: 2
+	Query: "stateprovince:&#34;Baja California&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "chimalapa" ; Times: 1
+	Query: "Astrotia" ; Times: 1
+	Query: "harris county" ; Times: 1
+	Query: "Cetorhinus" ; Times: 1
+	Query: "genus:notropis stateprovince:&#34;NEW YORK&#34;" ; Times: 1
+	Query: "WM 3" ; Times: 3
+	Query: "locality:san andreas lake" ; Times: 1
+	Query: "izabal" ; Times: 1
+	Query: "Heterodon" ; Times: 2
+	Query: "20055" ; Times: 1
+	Query: "locality:Cameta country:&#34;Brazil&#34;" ; Times: 1
+	Query: "alepisaurus ferox" ; Times: 1
+	Query: "serrasalmus humeralis" ; Times: 1
+	Query: "catalognumber:74644 institutioncode:CAS" ; Times: 1
+	Query: "cas 233206" ; Times: 1
+	Query: "9524" ; Times: 1
+	Query: "sphoeroides pachygaster" ; Times: 2
+	Query: "locality:reliz county:&#34;monterey&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "county:&#34;nevada&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Orca Expedition" ; Times: 1
+	Query: "83545" ; Times: 1
+	Query: "Barbodes hemictenus" ; Times: 1
+	Query: "Bison bison" ; Times: 12
+	Query: "19663" ; Times: 1
+	Query: "33717" ; Times: 1
+	Query: "brunei" ; Times: 1
+	Query: "16129" ; Times: 1
+	Query: "catalognumber:61475 institutioncode:CAS" ; Times: 3
+	Query: "Agosia chrysogaster pima" ; Times: 2
+	Query: "Hunter Island" ; Times: 1
+	Query: "Ensifera ensifera mappable:1" ; Times: 1
+	Query: "Crenicichla johanna" ; Times: 1
+	Query: "SNHM" ; Times: 1
+	Query: "hutchinsi" ; Times: 1
+	Query: "3318" ; Times: 1
+	Query: "megalops" ; Times: 1
+	Query: "Ancistrus" ; Times: 1
+	Query: "witch" ; Times: 6
+	Query: "Schultze" ; Times: 1
+	Query: "catalognumber:62612 institutioncode:CAS" ; Times: 1
+	Query: "SU 57399" ; Times: 2
+	Query: "Agosia chrysogaster cochise" ; Times: 1
+	Query: "26423" ; Times: 1
+	Query: "Hyphessobrycon peruvianus" ; Times: 1
+	Query: "catalognumber:39412 institutioncode:CAS" ; Times: 1
+	Query: "bamberg" ; Times: 2
+	Query: "county:&#34;placer&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Sea snake" ; Times: 1
+	Query: "locality:fish lake county:&#34;nye&#34; stateprovince:&#34;nevada&#34;" ; Times: 1
+	Query: "catalognumber:9271 institutioncode:CAS" ; Times: 1
+	Query: "catalognumber:9261 institutioncode:CAS" ; Times: 2
+	Query: "Santa Catarina" ; Times: 5
+	Query: "6505" ; Times: 1
+	Query: "vogt" ; Times: 1
+	Query: "specificepithet:semisquamatum" ; Times: 1
+	Query: "genus:Trigonectes" ; Times: 1
+	Query: "W49-179" ; Times: 3
+	Query: "catalognumber:9287 institutioncode:CAS" ; Times: 2
+	Query: "FMNH" ; Times: 1
+	Query: "recordedby:J.D. Allen" ; Times: 1
+	Query: "68499" ; Times: 1
+	Query: "2250" ; Times: 3
+	Query: "Aberdeen" ; Times: 2
+	Query: "genus:guttulatum OR holmbergi" ; Times: 1
+	Query: "53355" ; Times: 1
+	Query: "7931" ; Times: 1
+	Query: "catalognumber:52844" ; Times: 1
+	Query: "Chihuahua" ; Times: 1
+	Query: "215593" ; Times: 1
+	Query: "16252" ; Times: 1
+	Query: "stateprovince:&#34;Michigan&#34;" ; Times: 1
+	Query: "county:&#34;marin&#34; stateprovince:&#34;california&#34; year &gt;= 1928 year &lt;= 1928 month &gt;= 11 month &lt;= 11" ; Times: 1
+	Query: "locality:San Mateo Creek county:&#34;San Mateo&#34; year &lt;= 1950" ; Times: 1
+	Query: "Drew Davis" ; Times: 2
+	Query: "23651" ; Times: 1
+	Query: "Barbodes manalak" ; Times: 1
+	Query: "country:&#34;Ukraine&#34; continent:Europe" ; Times: 2
+	Query: "19692" ; Times: 1
+	Query: "catalognumber:62606 institutioncode:CAS" ; Times: 1
+	Query: "Hyphessobrycon metae" ; Times: 1
+	Query: "locality:mill valley county:&#34;marin&#34;" ; Times: 1
+	Query: "catalognumber:207765 institutioncode:CAS" ; Times: 2
+	Query: "CAS 201660" ; Times: 1
+	Query: "red deer" ; Times: 3
+	Query: "Pterois antennata" ; Times: 2
+	Query: "Pterois radiata" ; Times: 1
+	Query: "catalognumber:62599 institutioncode:CAS" ; Times: 1
+	Query: "ditaenia" ; Times: 1
+	Query: "erimyzon sucetta" ; Times: 1
+	Query: "labeo sorex" ; Times: 1
+	Query: "locality:Cametá country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Anguilla marmorata" ; Times: 1
+	Query: "catalognumber:39414 institutioncode:CAS" ; Times: 1
+	Query: "42239" ; Times: 1
+	Query: "MRAC" ; Times: 1
+	Query: "Assam" ; Times: 1
+	Query: "89930" ; Times: 1
+	Query: "catalognumber:9288 institutioncode:CAS" ; Times: 1
+	Query: "danio rerio" ; Times: 1
+	Query: "73161" ; Times: 1
+	Query: "26817" ; Times: 2
+	Query: "Pterois volitans" ; Times: 1
+	Query: "24926" ; Times: 1
+	Query: "catalognumber:74646 institutioncode:CAS" ; Times: 1
+	Query: "Barbodes lanaoensis" ; Times: 1
+	Query: "230183" ; Times: 1
+	Query: "catalognumber:68214 institutioncode:CAS" ; Times: 1
+	Query: "Martin Island" ; Times: 1
+	Query: "229410" ; Times: 2
+	Query: "catalognumber:27771" ; Times: 1
+	Query: "catalognumber:39413 institutioncode:CAS" ; Times: 1
+	Query: "32613" ; Times: 1
+	Query: "chromis vntype:specimen genus:chromis hastissue:1" ; Times: 1
+	Query: "catalognumber:68216 institutioncode:CAS" ; Times: 1
+	Query: "53348" ; Times: 1
+	Query: "Isla Natividad" ; Times: 1
+	Query: "Pterois mombasae" ; Times: 1
+	Query: "c 5862" ; Times: 1
+	Query: "49649-1" ; Times: 1
+	Query: "Hyphessobrycon scholzei" ; Times: 1
+	Query: "pig" ; Times: 1
+	Query: "specificepithet:rerio genus:danio" ; Times: 4
+	Query: "rhinichthys osculus" ; Times: 1
+	Query: "32863" ; Times: 2
+	Query: "catalognumber:61462 institutioncode:CAS" ; Times: 3
+	Query: "8933" ; Times: 1
+	Query: "schultz creek" ; Times: 1
+	Query: "963" ; Times: 1
+	Query: "Samar Philippines" ; Times: 1
+	Query: "5958" ; Times: 1
+	Query: "USNM 83" ; Times: 1
+	Query: "Latimeria" ; Times: 2
+	Query: "8589" ; Times: 1
+	Query: "5083" ; Times: 1
+	Query: "monster" ; Times: 1
+	Query: "201475" ; Times: 1
+	Query: "Hyphessobrycon rosaceus" ; Times: 1
+	Query: "vntype:specimen specificepithet:rerio genus:danio" ; Times: 3
+	Query: "serrasalmus brandtii" ; Times: 1
+	Query: "6063" ; Times: 1
+	Query: "specificepithet:rerio genus:Danio" ; Times: 2
+	Query: "1196 p" ; Times: 1
+	Query: "14651" ; Times: 1
+	Query: "Comal county" ; Times: 1
+	Query: "7287" ; Times: 1
+	Query: "catalognumber:9359" ; Times: 1
+	Query: "7373 F" ; Times: 1
+	Query: "Alepisaurus ferox" ; Times: 1
+	Query: "recordedby:De schauensee" ; Times: 1
+	Query: "5840" ; Times: 1
+	Query: "catalognumber:97853 institutioncode:CAS" ; Times: 2
+	Query: "serrasalmus irritans" ; Times: 1
+	Query: "specificepithet:californica genus:myliobatis" ; Times: 15
+	Query: "Hypophthalmichthys" ; Times: 1
+	Query: "san miguel i. california" ; Times: 1
+	Query: "san martin" ; Times: 1
+	Query: "midas" ; Times: 1
+	Query: "county:&#34;monterey&#34; stateprovince:&#34;california&#34; recordedby:Meek" ; Times: 1
+	Query: "catalognumber:24164" ; Times: 1
+	Query: "14616" ; Times: 1
+	Query: "Trigonectes" ; Times: 1
+	Query: "cas 215036" ; Times: 1
+	Query: "paucidens" ; Times: 1
+	Query: "15899" ; Times: 1
+	Query: "clupeonella" ; Times: 1
+	Query: "catalognumber:74643 institutioncode:CAS" ; Times: 1
+	Query: "catalognumber:91157 institutioncode:CAS" ; Times: 1
+	Query: "cole California" ; Times: 2
+	Query: "56062" ; Times: 1
+	Query: "locality:Cameta stateprovince:&#34;Para&#34; country:&#34;Brazil&#34;" ; Times: 1
+	Query: "19982" ; Times: 1
+	Query: "Hyphessobrycon minor" ; Times: 1
+	Query: "39041" ; Times: 1
+	Query: "pigeon guillemot" ; Times: 1
+	Query: "39043" ; Times: 1
+	Query: "CAS 228094" ; Times: 2
+	Query: "2422" ; Times: 1
+	Query: "6188" ; Times: 1
+	Query: "7815" ; Times: 2
+	Query: "serrasalmus elongatus" ; Times: 1
+	Query: "catalognumber:52756 institutioncode:CAS" ; Times: 2
+	Query: "2706" ; Times: 1
+	Query: "elephant" ; Times: 1
+	Query: "65253" ; Times: 1
+	Query: "Cirrhinus molitorella" ; Times: 2
+	Query: "22213" ; Times: 2
+	Query: "Pterois miles" ; Times: 1
+	Query: "recordedby:John D. Allen" ; Times: 1
+	Query: "W50-78" ; Times: 1
+	Query: "stateprovince:&#34;california&#34; recordedby:snyder year &gt;= 1909 year &lt;= 1909" ; Times: 1
+	Query: "1552" ; Times: 1
+	Query: "76389" ; Times: 1
+	Query: "Hyphessobrycon reticulatus" ; Times: 1
+	Query: "3704" ; Times: 4
+	Query: "sargocentron inaequalis" ; Times: 1
+	Query: "w48-16" ; Times: 1
+	Query: "W62-28" ; Times: 1
+	Query: "Scarus rubroviolaceus" ; Times: 3
+	Query: "ansp 6188" ; Times: 2
+	Query: "Orca" ; Times: 2
+	Query: "13625" ; Times: 1
+	Query: "Orca Expedition Isla San" ; Times: 1
+	Query: "W50-77" ; Times: 1
+	Query: "locality:san andreas" ; Times: 1
+	Query: "albion" ; Times: 1
+	Query: "W50-116" ; Times: 1
+	Query: "county:&#34;Harney&#34; stateprovince:&#34;Oregon&#34; institutioncode:CAS" ; Times: 1
+	Query: "W50-87" ; Times: 1
+	Query: "county:&#34;marin&#34; recordedby:thompson" ; Times: 1
+	Query: "29140" ; Times: 1
+	Query: "genus:Dendrochirus" ; Times: 2
+	Query: "catalognumber:210725 institutioncode:CAS" ; Times: 2
+	Query: "Dendrochirus zebra" ; Times: 1
+	Query: "24679" ; Times: 2
+	Query: "13038" ; Times: 1
+	Query: "stateprovince:&#34;california&#34; recordedby:Meek year &gt;= 1850 year &lt;= 1920" ; Times: 1
+	Query: "catalognumber:233206 institutioncode:CAS" ; Times: 1
+	Query: "12781" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 34 (out of 977 download events in this period)
+Total number of records downloaded: 416412
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Ukraine ; Times: 1
+	Country: Mexico ; Times: 14
+	Country: India ; Times: 1
+	Country: United States ; Times: 15
+	Country: United Kingdom ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-07-13 ; Times: 1
+	Date: 2018-07-12 ; Times: 8
+	Date: 2018-07-10 ; Times: 1
+	Date: 2018-07-08 ; Times: 1
+	Date: 2018-07-16 ; Times: 1
+	Date: 2018-07-15 ; Times: 2
+	Date: 2018-07-05 ; Times: 1
+	Date: 2018-07-20 ; Times: 1
+	Date: 2018-07-07 ; Times: 2
+	Date: 2018-07-26 ; Times: 5
+	Date: 2018-07-01 ; Times: 1
+	Date: 2018-07-24 ; Times: 1
+	Date: 2018-07-27 ; Times: 3
+	Date: 2018-07-21 ; Times: 2
+	Date: 2018-07-17 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "Comal county" ; Times: 1
+	Query: "Chihuahua" ; Times: 1
+	Query: "karnataka" ; Times: 1
+	Query: "Pterois miles" ; Times: 1
+	Query: "Pacific Sea snake" ; Times: 1
+	Query: "locality:San Mateo Creek county:&#34;San Mateo&#34; year &lt;= 1950" ; Times: 1
+	Query: "country:&#34;Ukraine&#34; continent:Europe" ; Times: 1
+	Query: "specificepithet:californica genus:myliobatis" ; Times: 1
+	Query: "(cameta)" ; Times: 1
+	Query: "Pterois antennata" ; Times: 1
+	Query: "Scarus perrico" ; Times: 1
+	Query: "locality:Cameta country:&#34;Brazil&#34;" ; Times: 1
+	Query: "calotomus carolinus" ; Times: 1
+	Query: "locality:Cameta stateprovince:&#34;Para&#34; country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Pterois volitans" ; Times: 1
+	Query: "country:&#34;Tanzania&#34;" ; Times: 1
+	Query: "chromis vntype:specimen genus:chromis hastissue:1" ; Times: 1
+	Query: "locality:San Mateo Creek county:&#34;san mateo&#34; year &lt;= 1950" ; Times: 1
+	Query: "point reyes national seashore" ; Times: 1
+	Query: "Santa Catarina" ; Times: 2
+	Query: "Scarus rubroviolaceus" ; Times: 1
+	Query: "institutioncode:CAS" ; Times: 2
+	Query: "Scarus compressus" ; Times: 1
+	Query: "Pterois mombasae" ; Times: 1
+	Query: "country:&#34;Aruba&#34;" ; Times: 1
+	Query: "chimalapa" ; Times: 1
+	Query: "Dendrochirus zebra" ; Times: 1
+	Query: "Dendrochirus brachypterus" ; Times: 1
+	Query: "recordedby:J.D. Allen" ; Times: 1
+	Query: "Pterois radiata" ; Times: 1
+	Query: "Scarus ghobban" ; Times: 1
+	Query: "Aberdeen" ; Times: 1
+
+
+End of report.
