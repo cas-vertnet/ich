@@ -1,0 +1,437 @@
+Report for Institution Code CAS, Resource ich
+Usage stats for September 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 490
+Number of records retrieved in searches: 6054
+Number of different countries where searches have been originated: 25
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Turkey ; Times: 1
+	Country: Canada ; Times: 4
+	Country: Ireland ; Times: 1
+	Country: Unknown ; Times: 3
+	Country: France ; Times: 7
+	Country: Peru ; Times: 1
+	Country: Norway ; Times: 1
+	Country: Australia ; Times: 2
+	Country: Singapore ; Times: 1
+	Country: Guatemala ; Times: 1
+	Country: Germany ; Times: 22
+	Country: Belgium ; Times: 16
+	Country: China ; Times: 15
+	Country: Netherlands ; Times: 1
+	Country: Finland ; Times: 1
+	Country: United States ; Times: 299
+	Country: Sweden ; Times: 4
+	Country: Switzerland ; Times: 1
+	Country: Russia ; Times: 5
+	Country: Brazil ; Times: 5
+	Country: Portugal ; Times: 36
+	Country: Mexico ; Times: 49
+	Country: South Africa ; Times: 1
+	Country: India ; Times: 8
+	Country: United Kingdom ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-09-23 ; Times: 4
+	Date: 2018-09-02 ; Times: 2
+	Date: 2018-09-03 ; Times: 5
+	Date: 2018-09-26 ; Times: 28
+	Date: 2018-09-01 ; Times: 11
+	Date: 2018-09-20 ; Times: 21
+	Date: 2018-09-21 ; Times: 22
+	Date: 2018-09-04 ; Times: 36
+	Date: 2018-09-05 ; Times: 20
+	Date: 2018-09-08 ; Times: 1
+	Date: 2018-09-09 ; Times: 7
+	Date: 2018-09-28 ; Times: 16
+	Date: 2018-09-29 ; Times: 2
+	Date: 2018-09-30 ; Times: 6
+	Date: 2018-09-11 ; Times: 20
+	Date: 2018-09-10 ; Times: 18
+	Date: 2018-09-13 ; Times: 46
+	Date: 2018-09-12 ; Times: 14
+	Date: 2018-09-15 ; Times: 11
+	Date: 2018-09-14 ; Times: 5
+	Date: 2018-09-17 ; Times: 19
+	Date: 2018-09-16 ; Times: 13
+	Date: 2018-09-19 ; Times: 39
+	Date: 2018-09-18 ; Times: 8
+	Date: 2018-09-24 ; Times: 39
+	Date: 2018-09-25 ; Times: 21
+	Date: 2018-09-27 ; Times: 23
+	Date: 2018-09-06 ; Times: 21
+	Date: 2018-09-07 ; Times: 12
+
+List of queries that retrieved data from the resource: 
+	Query: "sea otter" ; Times: 1
+	Query: "scientificname:(Lepisosteus platostomus) country:United States mappable:1" ; Times: 1
+	Query: "river otter" ; Times: 1
+	Query: "Sarotherodon galilaeus" ; Times: 2
+	Query: "hoplias microlepis" ; Times: 1
+	Query: "5178" ; Times: 1
+	Query: "scientificname:(Lucania goodei) country:United States mappable:1" ; Times: 1
+	Query: "lacm" ; Times: 2
+	Query: "99925" ; Times: 1
+	Query: "locality:Lobos de afuera country:&#34;Peru&#34;" ; Times: 2
+	Query: "Lampanyctus ater" ; Times: 1
+	Query: "CAS 232071" ; Times: 1
+	Query: "Guadalupe Island 1896" ; Times: 1
+	Query: "Centropomus undecimalis" ; Times: 1
+	Query: "SIO 61-176" ; Times: 1
+	Query: "Diaphus theta" ; Times: 1
+	Query: "vntype:specimen stateprovince:&#34;yucatan&#34; country:&#34;mexico&#34;" ; Times: 1
+	Query: "hoplerythrinus" ; Times: 1
+	Query: "gasterosteus california &#34;aptos&#34; vntype:specimen" ; Times: 1
+	Query: "iguana" ; Times: 1
+	Query: "sharks" ; Times: 2
+	Query: "Pimephales promelas" ; Times: 1
+	Query: "cas 223917" ; Times: 1
+	Query: "genus:Enneapterygius specificepithet:etheostoma " ; Times: 1
+	Query: "skeleton vntype:specimen genus:Alosa" ; Times: 1
+	Query: "scientificname:(Novumbra hubbsi) country:United States mappable:1" ; Times: 1
+	Query: "wizard" ; Times: 4
+	Query: "gasterosteus california &#34;san luis obispo&#34; vntype:specimen" ; Times: 2
+	Query: "Leporinus fasciatus" ; Times: 1
+	Query: "Gambusia nobilis" ; Times: 2
+	Query: "Guatemala" ; Times: 1
+	Query: "gambusia dominicensis" ; Times: 1
+	Query: "ucla 18402" ; Times: 1
+	Query: "CAS 96888" ; Times: 1
+	Query: "Talismania antillarum" ; Times: 1
+	Query: "Macropinna" ; Times: 1
+	Query: "Ageneiosus atronasus" ; Times: 1
+	Query: "Aipysurus" ; Times: 1
+	Query: "heterodon" ; Times: 1
+	Query: "Megachasma pelagios" ; Times: 6
+	Query: "CAS 220255" ; Times: 1
+	Query: "scientificname:(Lucania parva) country:United States mappable:1" ; Times: 2
+	Query: "22579" ; Times: 1
+	Query: "Macrourus berglax" ; Times: 1
+	Query: "14840" ; Times: 1
+	Query: "country:&#34;Bulgaria&#34;" ; Times: 1
+	Query: "80729" ; Times: 1
+	Query: "Gymnothorax miliaris" ; Times: 1
+	Query: "Poecilia reticulata" ; Times: 1
+	Query: "Astronesthes chrysophekadion" ; Times: 1
+	Query: "John Nichols" ; Times: 1
+	Query: "fishes catalog" ; Times: 1
+	Query: "recordedby:Holland" ; Times: 1
+	Query: "CAS 4977" ; Times: 2
+	Query: "seal teeth" ; Times: 1
+	Query: "jaguar" ; Times: 1
+	Query: "Oncorhynchus kisutch" ; Times: 1
+	Query: "Potamotrygon scobina" ; Times: 2
+	Query: "catalognumber:13929 institutioncode:CAS" ; Times: 1
+	Query: "Icichthys lockingtoni" ; Times: 1
+	Query: "&#34;Osgood&#34;" ; Times: 1
+	Query: "Farallon 1898" ; Times: 1
+	Query: "scientificname:(Semotilus corporalis) country:United States mappable:1" ; Times: 2
+	Query: "country:&#34;cuba&#34;" ; Times: 1
+	Query: "bison" ; Times: 1
+	Query: "octopus" ; Times: 1
+	Query: "anemone" ; Times: 1
+	Query: "specificepithet:nakamurae genus:Lycodes" ; Times: 1
+	Query: "orca" ; Times: 1
+	Query: "specificepithet:manadensis" ; Times: 1
+	Query: "catalognumber:10678" ; Times: 1
+	Query: "dasyatis" ; Times: 1
+	Query: "gasterosteus california &#34;manchester&#34; vntype:specimen" ; Times: 1
+	Query: "gasterosteus california &#34;carmel&#34; vntype:specimen" ; Times: 1
+	Query: "34893-1" ; Times: 1
+	Query: "hypostomus oculeus" ; Times: 1
+	Query: "Fundulus heteroclitus" ; Times: 2
+	Query: "westermanni" ; Times: 1
+	Query: "Danio rerio" ; Times: 2
+	Query: "49597" ; Times: 1
+	Query: "specificepithet:gilberti stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "scientificname:(Oncorhynchus gorbuscha) country:United States mappable:1" ; Times: 1
+	Query: "Reading" ; Times: 1
+	Query: "salvelinus malma" ; Times: 2
+	Query: "scientificname:(Notropis heterolepis) country:United States mappable:1" ; Times: 1
+	Query: "CAS 10795" ; Times: 1
+	Query: "Guadalupe Island 1901" ; Times: 1
+	Query: "Geophagus surinamensis" ; Times: 1
+	Query: "big sur genus:gasterosteus" ; Times: 1
+	Query: "lucania goodei" ; Times: 1
+	Query: "astyanax cave" ; Times: 1
+	Query: "Goodwin" ; Times: 1
+	Query: "Aulostomus maculatus" ; Times: 1
+	Query: "photoblepharon steinitzi" ; Times: 1
+	Query: "sarotherodon galilaeus" ; Times: 3
+	Query: "scientificname:(Clinostomus elongatus) country:United States mappable:1" ; Times: 1
+	Query: "kml" ; Times: 1
+	Query: "OSU" ; Times: 1
+	Query: "specificepithet:wigginsi" ; Times: 1
+	Query: "genus:Snyderichthys specificepithet:copei" ; Times: 1
+	Query: "Salmo salar" ; Times: 2
+	Query: "scientificname:(Salmo salar) country:United States mappable:1" ; Times: 1
+	Query: "catalognumber:218689 institutioncode:CAS" ; Times: 2
+	Query: "scientificname:(Oncorhynchus nerka) country:United States mappable:1" ; Times: 1
+	Query: "Oncorhynchus clarki henshawi" ; Times: 18
+	Query: "scientificname:(Couesius plumbeus) country:United States mappable:1" ; Times: 1
+	Query: "pine snake" ; Times: 1
+	Query: "temminckii indiana" ; Times: 2
+	Query: "catalognumber:41858" ; Times: 1
+	Query: "Acipenser transmontanus" ; Times: 1
+	Query: "Herwigia kreffti" ; Times: 1
+	Query: "monster" ; Times: 6
+	Query: "14042" ; Times: 1
+	Query: "Yarrella blackfordi" ; Times: 2
+	Query: "scientificname:(Ictiobus bubalus) country:United States mappable:1" ; Times: 1
+	Query: "scientificname:(Fundulus seminolis) country:United States mappable:1" ; Times: 1
+	Query: "CAS 92676" ; Times: 1
+	Query: "Hemigrammus ocellifer" ; Times: 1
+	Query: "scientificname:(Lepisosteus platyrhincus) country:United States mappable:1" ; Times: 1
+	Query: "depressiceps" ; Times: 1
+	Query: "16088" ; Times: 1
+	Query: "gasterosteus california &#34;big lagoon&#34; vntype:specimen" ; Times: 1
+	Query: "witch" ; Times: 10
+	Query: "09-08 stateprovince:&#34;Texas&#34;" ; Times: 2
+	Query: "&#34;home&#34; gasterosteus" ; Times: 1
+	Query: "university of texas" ; Times: 1
+	Query: "Xiphister atropurpureus" ; Times: 1
+	Query: "Danaphryne nigrifilis" ; Times: 10
+	Query: "country:&#34;Guatemala&#34;" ; Times: 1
+	Query: "43401" ; Times: 1
+	Query: "scientificname:(Oncorhynchus tshawytscha) country:United States mappable:1" ; Times: 1
+	Query: "Goodwin AND Island" ; Times: 1
+	Query: "Rimicola muscarum" ; Times: 1
+	Query: "lackey" ; Times: 1
+	Query: "san fransisco" ; Times: 1
+	Query: "CAS 90096" ; Times: 2
+	Query: "95155" ; Times: 1
+	Query: "95154" ; Times: 1
+	Query: "tigre" ; Times: 1
+	Query: "95156" ; Times: 1
+	Query: "genus:lythrypnus institutioncode:CAS lengthtype:standard length" ; Times: 1
+	Query: "Carcharodon carcharias" ; Times: 1
+	Query: "distance(location,geopoint(-12.006230714144326,-37.878616699745066))&lt;100000" ; Times: 1
+	Query: "&#34;Lucania goodei&#34;" ; Times: 2
+	Query: "body size" ; Times: 1
+	Query: "Silas" ; Times: 1
+	Query: "27792" ; Times: 1
+	Query: "white shark" ; Times: 13
+	Query: "Salvelinus malma" ; Times: 1
+	Query: "&#34;hypostomus asperatus&#34;" ; Times: 1
+	Query: "216441" ; Times: 1
+	Query: "genus:astyanax country:&#34;mexico&#34;" ; Times: 1
+	Query: "Gadella imberbis" ; Times: 1
+	Query: "tribulosus" ; Times: 1
+	Query: "catalognumber:210025 institutioncode:CAS" ; Times: 1
+	Query: "Squatina squatina" ; Times: 1
+	Query: "stateprovince:&#34;california&#34; recordedby:wheeler" ; Times: 1
+	Query: "Stomias longibarbatus" ; Times: 1
+	Query: "Pycnomma semisquamatum" ; Times: 1
+	Query: "catalognumber:28502 institutioncode:CAS" ; Times: 1
+	Query: "common otter" ; Times: 1
+	Query: "carcharodon carcharias" ; Times: 1
+	Query: "elassodiscus" ; Times: 1
+	Query: "Talismania homoptera" ; Times: 2
+	Query: "Peckoltia brevis" ; Times: 1
+	Query: "Muraena melanotis" ; Times: 1
+	Query: "catalognumber:9346 institutioncode:CAS" ; Times: 1
+	Query: "kobe" ; Times: 1
+	Query: "scientificname:(Hiodon alosoides) country:United States mappable:1" ; Times: 1
+	Query: "Bison bison" ; Times: 10
+	Query: "Hypsoblennius gentilis" ; Times: 1
+	Query: "hoplias aimara" ; Times: 1
+	Query: "stateprovince:&#34;alaska&#34; year &gt;= 1916 year &lt;= 1916" ; Times: 1
+	Query: "ancient" ; Times: 1
+	Query: "eureka genus:gasterosteus county:&#34;Humboldt&#34;" ; Times: 1
+	Query: "locality:Anadyr country:&#34;Russia&#34;" ; Times: 1
+	Query: "genus:Melanocetus specificepithet:johnsoni" ; Times: 1
+	Query: "Liparis callyodon" ; Times: 1
+	Query: "molokai" ; Times: 2
+	Query: "101 genus:gasterosteus county:&#34;Humboldt&#34;" ; Times: 1
+	Query: "lythrypnus pulchellus" ; Times: 1
+	Query: "hippocampus abdominalis" ; Times: 1
+	Query: "Guentherus altivela" ; Times: 1
+	Query: "Cyprinus carpio" ; Times: 2
+	Query: "CAS 229616" ; Times: 1
+	Query: "catalognumber:90151 institutioncode:CAS" ; Times: 1
+	Query: "du pont" ; Times: 7
+	Query: "CAS-ICH 47127" ; Times: 1
+	Query: "scientificname:(Platygobio gracilis) country:United States mappable:1" ; Times: 2
+	Query: "genus:Alutera specificepithet:scripta" ; Times: 1
+	Query: "(yaqui)" ; Times: 1
+	Query: "33513" ; Times: 1
+	Query: "Ceratoscopelus townsendi" ; Times: 1
+	Query: "anguilla rostrata New York" ; Times: 1
+	Query: "cave san francisco" ; Times: 1
+	Query: "SFC 10" ; Times: 1
+	Query: "Clupea harengus" ; Times: 2
+	Query: "vntype:specimen specificepithet:galeatus" ; Times: 1
+	Query: "Liparis mucosus" ; Times: 2
+	Query: "gambusia nobilis" ; Times: 2
+	Query: "devil" ; Times: 1
+	Query: "brown bear" ; Times: 1
+	Query: "scientificname:(Catostomus commersonii OR Catostomus commersoni OR Catostomus commersonnii) country:United States mappable:1" ; Times: 1
+	Query: "monopterus" ; Times: 1
+	Query: "institutioncode:CAS lengthtype:standard length" ; Times: 1
+	Query: "Guadalupe Island 1894" ; Times: 1
+	Query: "scientificname:(Pogonichthys macrolepidotus) country:United States mappable:1" ; Times: 1
+	Query: "stateprovince:&#34;San Luis Potosi&#34;" ; Times: 1
+	Query: "Lepidopus" ; Times: 1
+	Query: "Polyodon spathula" ; Times: 2
+	Query: "Boreogadus saida mappable:1" ; Times: 16
+	Query: "scientificname:(Exoglossum maxillingua) country:United States mappable:1" ; Times: 2
+	Query: "Salmo" ; Times: 2
+	Query: "A robert country:&#34;brazil&#34;" ; Times: 1
+	Query: "gasterosteus california &#34;garcia&#34; vntype:specimen" ; Times: 2
+	Query: "gasterosteus california &#34;freshwater lagoon&#34; vntype:specimen" ; Times: 1
+	Query: "Goodwin AND Farallon Island" ; Times: 1
+	Query: "Peckoltia vittata" ; Times: 1
+	Query: "scientificname:(Poecilia latipinna) country:United States mappable:1" ; Times: 2
+	Query: "genus:gasterosteus stateprovince:&#34;california&#34; year &gt;= 1890 year &lt;= 1970" ; Times: 2
+	Query: "scientificname:(Apeltes quadracus) country:United States mappable:1" ; Times: 1
+	Query: "Apodichthys fucorum" ; Times: 1
+	Query: "county:&#34;Dade&#34; stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "vntype:specimen stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "acanthurus bahianus" ; Times: 1
+	Query: "NMNH" ; Times: 1
+	Query: "Heterodon" ; Times: 3
+	Query: "scientificname:(Nocomis micropogon) country:United States mappable:1" ; Times: 1
+	Query: "fur seal" ; Times: 1
+	Query: "genus:astyanax stateprovince:&#34;san luis potosi&#34; country:&#34;mexico&#34;" ; Times: 2
+	Query: "Channa maculata" ; Times: 1
+	Query: "specificepithet:undulatus genus:menticirrhus" ; Times: 1
+	Query: "ukpam" ; Times: 1
+	Query: "Hemichromis fasciatus" ; Times: 1
+	Query: "furcifer" ; Times: 2
+	Query: "Sebastes flavidus" ; Times: 1
+	Query: "Ctenopharyngodon idella" ; Times: 1
+	Query: "lochites" ; Times: 1
+	Query: "LYTHRYPNUS ZEBRA" ; Times: 1
+	Query: "scientificname:(Etheostoma exile) country:United States mappable:1" ; Times: 1
+	Query: "planirostris" ; Times: 1
+	Query: "Sebastes serranoides" ; Times: 1
+	Query: "CAS 215112" ; Times: 2
+	Query: "Myrophis plumbeus" ; Times: 1
+	Query: "16678" ; Times: 1
+	Query: "Myrichthys pardalis" ; Times: 1
+	Query: "Gambusia holbrooki" ; Times: 3
+	Query: "(hollywood beach)" ; Times: 1
+	Query: "Hemichromis bimaculatus" ; Times: 1
+	Query: "scientificname:(Acipenser transmontanus) country:United States mappable:1" ; Times: 1
+	Query: "catalognumber:205825 institutioncode:CAS" ; Times: 1
+	Query: "Ulvicola sanctaerosae" ; Times: 1
+	Query: "24094" ; Times: 1
+	Query: "Guadalupe Island 1899" ; Times: 1
+	Query: "lama" ; Times: 1
+	Query: "Cichlasoma gephyrum" ; Times: 1
+	Query: "barathronus" ; Times: 1
+	Query: "Astronesthes macropogon" ; Times: 1
+	Query: "coryogalops" ; Times: 1
+	Query: "orick genus:gasterosteus county:&#34;Humboldt&#34;" ; Times: 1
+	Query: "Guadalupe Island 1895" ; Times: 1
+	Query: "aguascalientes" ; Times: 1
+	Query: "Guadalupe Island 1897" ; Times: 1
+	Query: "212301" ; Times: 1
+	Query: "Astronesthes leucopogon" ; Times: 1
+	Query: "93278" ; Times: 1
+	Query: "Astronesthes martensii" ; Times: 1
+	Query: "distance(location,geopoint(-11.986814717847798,-37.96911656929285))&lt;100000" ; Times: 1
+	Query: "scientificname:(Salvelinus namaycush) country:United States mappable:1" ; Times: 1
+	Query: "Ocyurus chrysurus" ; Times: 2
+	Query: "43935" ; Times: 1
+	Query: "locality:Corinto" ; Times: 3
+	Query: "nicefori" ; Times: 1
+	Query: "Guadalupe Island 1898" ; Times: 2
+	Query: "Chauliodus dentatus" ; Times: 1
+	Query: "scientificname:(Lepisosteus osseus) country:United States mappable:1" ; Times: 2
+	Query: "county:&#34;pennington&#34; stateprovince:&#34;south dakota&#34;" ; Times: 1
+	Query: "Hypsoblennius jenkinsi" ; Times: 1
+	Query: "palmas" ; Times: 3
+	Query: "big sur genus:gasterosteus basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Carassius auratus" ; Times: 2
+	Query: "scientificname:(Moxostoma anisurum) country:United States mappable:1" ; Times: 1
+	Query: "catalognumber:59437" ; Times: 1
+	Query: "acanthurus tractus" ; Times: 4
+	Query: "cavia" ; Times: 1
+	Query: "Doryrhamphus excisus" ; Times: 1
+	Query: "Diaphus adenomus" ; Times: 1
+	Query: "95157" ; Times: 1
+	Query: "scientificname:(Cyprinodon variegatus) country:United States mappable:1" ; Times: 3
+	Query: "CAS 95949" ; Times: 1
+	Query: "Sardinella aurita" ; Times: 2
+	Query: "recordedby:W. Stone" ; Times: 1
+	Query: "R 15654" ; Times: 1
+	Query: "Guadalupe Island 1893" ; Times: 1
+	Query: "scientificname:(Percopsis omiscomaycus) country:United States mappable:1" ; Times: 1
+	Query: "Polymetme thaeocoryla" ; Times: 1
+	Query: "Salmo sp" ; Times: 1
+	Query: "gasterosteus california vntype:specimen" ; Times: 4
+	Query: "locality:Borneo" ; Times: 1
+	Query: "pempheris mangula" ; Times: 1
+	Query: "33106" ; Times: 1
+	Query: "Idiacanthus atlanticus" ; Times: 1
+	Query: "torpedo californica" ; Times: 1
+	Query: "astyanax san luis potosi" ; Times: 1
+	Query: "macrocystis pyrifera" ; Times: 2
+	Query: "county:&#34;sheridan&#34; stateprovince:&#34;wyoming&#34;" ; Times: 1
+	Query: "Scyliorhinus retifer" ; Times: 2
+	Query: "genus:gasterosteus county:&#34;Humboldt&#34;" ; Times: 13
+	Query: "CAS 96855" ; Times: 1
+	Query: "CAS 92706" ; Times: 1
+	Query: "hoplias brasiliensis" ; Times: 1
+	Query: "genus:gasterosteus stateprovince:&#34;california&#34;" ; Times: 2
+	Query: "CAS 95706" ; Times: 1
+	Query: "sphoeroides nephelus" ; Times: 1
+	Query: "Galeocerdo cuvier" ; Times: 12
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 20 (out of 846 download events in this period)
+Total number of records downloaded: 6616
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Turkey ; Times: 1
+	Country: United States ; Times: 13
+	Country: Mexico ; Times: 2
+	Country: United Kingdom ; Times: 1
+	Country: Germany ; Times: 1
+	Country: Norway ; Times: 1
+	Country: Brazil ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-09-04 ; Times: 1
+	Date: 2018-09-03 ; Times: 1
+	Date: 2018-09-13 ; Times: 1
+	Date: 2018-09-11 ; Times: 1
+	Date: 2018-09-25 ; Times: 1
+	Date: 2018-09-26 ; Times: 2
+	Date: 2018-09-27 ; Times: 1
+	Date: 2018-09-06 ; Times: 3
+	Date: 2018-09-07 ; Times: 4
+	Date: 2018-09-17 ; Times: 1
+	Date: 2018-09-16 ; Times: 1
+	Date: 2018-09-20 ; Times: 2
+	Date: 2018-09-14 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "gambusia holbrooki" ; Times: 1
+	Query: "river otter" ; Times: 1
+	Query: "county:&#34;pennington&#34; stateprovince:&#34;south dakota&#34;" ; Times: 1
+	Query: "haslifestage:1" ; Times: 1
+	Query: "acatlan puebla" ; Times: 1
+	Query: "&#34;Salvelinus alpinus&#34;" ; Times: 1
+	Query: "Astronesthes martensii" ; Times: 1
+	Query: "kml" ; Times: 1
+	Query: "hasmass:1" ; Times: 1
+	Query: "haslength:1" ; Times: 1
+	Query: "balaenoptera borealis" ; Times: 1
+	Query: "country:&#34;cuba&#34;" ; Times: 1
+	Query: "A. robert country:&#34;brazil&#34;" ; Times: 1
+	Query: "distance(location,geopoint(-12.006230714144326,-37.878616699745066))&lt;100000" ; Times: 1
+	Query: "hassex:1" ; Times: 1
+	Query: "Macropinna" ; Times: 1
+	Query: "Gambusia nobilis" ; Times: 2
+	Query: "continent:South America" ; Times: 1
+	Query: "locality:Anadyr country:&#34;Russia&#34;" ; Times: 1
+
+
+End of report.
