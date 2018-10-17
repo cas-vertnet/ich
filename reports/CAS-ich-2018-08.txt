@@ -1,0 +1,695 @@
+Report for Institution Code CAS, Resource ich
+Usage stats for August 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 972
+Number of records retrieved in searches: 7399
+Number of different countries where searches have been originated: 22
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 7
+	Country: Canada ; Times: 5
+	Country: Unknown ; Times: 6
+	Country: Peru ; Times: 30
+	Country: Bolivia ; Times: 1
+	Country: Australia ; Times: 5
+	Country: Germany ; Times: 6
+	Country: China ; Times: 6
+	Country: Spain ; Times: 1
+	Country: Ukraine ; Times: 2
+	Country: Netherlands ; Times: 1
+	Country: Denmark ; Times: 8
+	Country: United States ; Times: 792
+	Country: New Zealand ; Times: 4
+	Country: Russia ; Times: 7
+	Country: Mexico ; Times: 60
+	Country: South Africa ; Times: 1
+	Country: India ; Times: 1
+	Country: United Kingdom ; Times: 5
+	Country: Malaysia ; Times: 2
+	Country: Colombia ; Times: 20
+	Country: Japan ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-08-30 ; Times: 16
+	Date: 2018-08-31 ; Times: 10
+	Date: 2018-08-18 ; Times: 12
+	Date: 2018-08-19 ; Times: 6
+	Date: 2018-08-16 ; Times: 18
+	Date: 2018-08-23 ; Times: 133
+	Date: 2018-08-14 ; Times: 14
+	Date: 2018-08-15 ; Times: 27
+	Date: 2018-08-12 ; Times: 4
+	Date: 2018-08-13 ; Times: 13
+	Date: 2018-08-10 ; Times: 120
+	Date: 2018-08-11 ; Times: 4
+	Date: 2018-08-02 ; Times: 11
+	Date: 2018-08-08 ; Times: 17
+	Date: 2018-08-03 ; Times: 9
+	Date: 2018-08-17 ; Times: 6
+	Date: 2018-08-27 ; Times: 161
+	Date: 2018-08-26 ; Times: 2
+	Date: 2018-08-25 ; Times: 11
+	Date: 2018-08-24 ; Times: 117
+	Date: 2018-08-09 ; Times: 44
+	Date: 2018-08-22 ; Times: 35
+	Date: 2018-08-21 ; Times: 26
+	Date: 2018-08-20 ; Times: 46
+	Date: 2018-08-05 ; Times: 8
+	Date: 2018-08-04 ; Times: 11
+	Date: 2018-08-07 ; Times: 14
+	Date: 2018-08-06 ; Times: 18
+	Date: 2018-08-01 ; Times: 40
+	Date: 2018-08-29 ; Times: 7
+	Date: 2018-08-28 ; Times: 12
+
+List of queries that retrieved data from the resource: 
+	Query: "catalognumber:21622 institutioncode:CAS" ; Times: 2
+	Query: "catalognumber:241772 institutioncode:CAS" ; Times: 2
+	Query: "35547" ; Times: 1
+	Query: "serrasalmus rhombeus" ; Times: 1
+	Query: "CAS 231775" ; Times: 2
+	Query: "catalognumber:63905 institutioncode:CAS" ; Times: 2
+	Query: "catalognumber:63899 institutioncode:CAS" ; Times: 2
+	Query: "49831" ; Times: 1
+	Query: "Balistes buniva" ; Times: 2
+	Query: "osteochilus spilurus" ; Times: 1
+	Query: "35625" ; Times: 1
+	Query: "Melichthys vidua mappable:1" ; Times: 1
+	Query: "genus:Pterois" ; Times: 1
+	Query: "21408" ; Times: 1
+	Query: "wizard" ; Times: 1
+	Query: "Balistes punctatus mappable:1" ; Times: 1
+	Query: "Balistes aculeatus" ; Times: 1
+	Query: "CAS 108905" ; Times: 2
+	Query: "Balistes rectangulus mappable:1" ; Times: 1
+	Query: "aphanius" ; Times: 1
+	Query: "New mexico" ; Times: 1
+	Query: "Balistapus rectangulus mappable:1" ; Times: 1
+	Query: "continent:central america" ; Times: 1
+	Query: "Melichthys niger" ; Times: 1
+	Query: "Cichla monoculus" ; Times: 1
+	Query: "Rhytiodus microlepis" ; Times: 1
+	Query: "&#34;Hypostomus cordovae&#34;" ; Times: 1
+	Query: "Balistes bursa" ; Times: 1
+	Query: "catalognumber:13452 institutioncode:CAS" ; Times: 2
+	Query: "catalognumber:13603 institutioncode:CAS" ; Times: 3
+	Query: "catalognumber:19827 institutioncode:CAS" ; Times: 2
+	Query: "country:&#34;cuba&#34;" ; Times: 2
+	Query: "cetomimidae" ; Times: 2
+	Query: "Rhinecanthus rectangulus mappable:1" ; Times: 1
+	Query: "catalognumber:204070 institutioncode:CAS" ; Times: 2
+	Query: "Panda" ; Times: 1
+	Query: "Odonus niger mappable:1" ; Times: 1
+	Query: "catalognumber:65725 institutioncode:CAS" ; Times: 2
+	Query: "rats" ; Times: 1
+	Query: "order:Osmeriformes country:&#34;Peru&#34;" ; Times: 1
+	Query: "&#34;Hypostomus commersoni&#34;" ; Times: 1
+	Query: "66407 o" ; Times: 1
+	Query: "26688" ; Times: 1
+	Query: "UCLA" ; Times: 1
+	Query: "69084" ; Times: 1
+	Query: "catalognumber:63919 institutioncode:CAS" ; Times: 2
+	Query: "17984" ; Times: 1
+	Query: "25891" ; Times: 1
+	Query: "Balistoides conspicillum" ; Times: 1
+	Query: "catalognumber:55227 institutioncode:CAS" ; Times: 2
+	Query: "Anguilla japonica" ; Times: 1
+	Query: "Xanthichthys lineopunctatus mappable:1" ; Times: 1
+	Query: "cas entomology" ; Times: 1
+	Query: "ogcocephalus" ; Times: 1
+	Query: "Brycon erythropterum" ; Times: 1
+	Query: "catalognumber:223729 institutioncode:CAS" ; Times: 2
+	Query: "arapaima gigas" ; Times: 1
+	Query: "13900" ; Times: 1
+	Query: "catalognumber:65723 institutioncode:CAS" ; Times: 2
+	Query: "bodoquena" ; Times: 3
+	Query: "Verrunculus polylepis" ; Times: 1
+	Query: "Mylossoma duriventris" ; Times: 3
+	Query: "South Sentinel" ; Times: 1
+	Query: "witch" ; Times: 7
+	Query: "catalognumber:13639 institutioncode:CAS" ; Times: 2
+	Query: "Hypostomus alatus" ; Times: 1
+	Query: "&#34;Channa micropeltes&#34;" ; Times: 1
+	Query: "&#34;Hypostomus alatus&#34;" ; Times: 1
+	Query: "niue" ; Times: 1
+	Query: "Balistes maculatus mappable:1" ; Times: 1
+	Query: "catalognumber:225292 institutioncode:CAS" ; Times: 2
+	Query: "catalognumber:63909 institutioncode:CAS" ; Times: 2
+	Query: "stateprovince:&#34;Bengal&#34;" ; Times: 1
+	Query: "catalognumber:87400 institutioncode:CAS" ; Times: 2
+	Query: "catalognumber:6961 institutioncode:CAS" ; Times: 1
+	Query: "Farallon" ; Times: 1
+	Query: "megalepis" ; Times: 1
+	Query: "Balistes conspicillum mappable:1" ; Times: 1
+	Query: "Hypostomus argus" ; Times: 2
+	Query: "Bison bison" ; Times: 5
+	Query: "Orestias" ; Times: 1
+	Query: "Schizodon fasciatus" ; Times: 2
+	Query: "genus:Snyderichthys specificepithet:copei" ; Times: 3
+	Query: "Cichlasoma sanctifranciscense" ; Times: 1
+	Query: "Sufflamen bursa mappable:1" ; Times: 1
+	Query: "Pterois volitans" ; Times: 21
+	Query: "Balistapus aculeatus mappable:1" ; Times: 1
+	Query: "catalognumber:55225 institutioncode:CAS" ; Times: 2
+	Query: "Schizodon trifasciatus" ; Times: 1
+	Query: "genus:Alutera specificepithet:scripta" ; Times: 3
+	Query: "Anisotremus virginicus" ; Times: 1
+	Query: "county:&#34;marin&#34; stateprovince:&#34;california&#34; year &gt;= 1944 year &lt;= 1944" ; Times: 1
+	Query: "32613" ; Times: 2
+	Query: "Pangasius myanmar" ; Times: 2
+	Query: "catalognumber:224367 institutioncode:CAS" ; Times: 1
+	Query: "15862" ; Times: 2
+	Query: "catalognumber:12142 institutioncode:CAS" ; Times: 2
+	Query: "coyote" ; Times: 2
+	Query: "59754" ; Times: 1
+	Query: "76835" ; Times: 1
+	Query: "Chesapeake Bay" ; Times: 1
+	Query: "Normanichthys" ; Times: 3
+	Query: "Balistes conspicillum" ; Times: 1
+	Query: "76624" ; Times: 1
+	Query: "Engraulis mordax" ; Times: 1
+	Query: "Pangasius macronema" ; Times: 2
+	Query: "Balistes bursa mappable:1" ; Times: 1
+	Query: "82879" ; Times: 1
+	Query: "&#34;Hypostomus jaguribensis&#34;" ; Times: 1
+	Query: "stateprovince:&#34;california&#34; recordedby:white year &gt;= 1950 year &lt;= 1980" ; Times: 2
+	Query: "CAS 223537" ; Times: 2
+	Query: "Xanthichthys auromarginatus" ; Times: 1
+	Query: "Leporinus trifasciatus" ; Times: 1
+	Query: "stateprovince:&#34;california&#34; recordedby:white year &gt;= 1960 year &lt;= 1980" ; Times: 2
+	Query: "Canthidermis maculatus" ; Times: 2
+	Query: "catalognumber:212781 institutioncode:CAS" ; Times: 2
+	Query: "catalognumber:55223 institutioncode:CAS" ; Times: 2
+	Query: "Rhinecanthus aculeatus aculeatus mappable:1" ; Times: 1
+	Query: "Melichthys buniva mappable:1" ; Times: 1
+	Query: "ensifera ensifera" ; Times: 1
+	Query: "&#34;sunset beach&#34; county:&#34;orange&#34;" ; Times: 1
+	Query: "Colossoma macropomum" ; Times: 1
+	Query: "Ocyurus chrysurus" ; Times: 1
+	Query: "specificepithet:bivittatus country:&#34;Honduras&#34;" ; Times: 1
+	Query: "98047" ; Times: 1
+	Query: "vogelsang lake" ; Times: 1
+	Query: "CAS 238898" ; Times: 2
+	Query: "catalognumber:63883 institutioncode:CAS" ; Times: 2
+	Query: "Egg size" ; Times: 1
+	Query: "specificepithet:cyanomos genus:Neopomacentrus" ; Times: 1
+	Query: "92542" ; Times: 1
+	Query: "country:&#34;cuba&#34; (schwartz)" ; Times: 2
+	Query: "dana point orange county" ; Times: 1
+	Query: "Sufflamen chrysopterum" ; Times: 1
+	Query: "beebei" ; Times: 2
+	Query: "country:&#34;malaysia&#34;" ; Times: 2
+	Query: "CAS 96855" ; Times: 1
+	Query: "genus:astyanax stateprovince:&#34;Texas&#34; year &lt;= 1955" ; Times: 1
+	Query: "country:&#34;Netherlands&#34;" ; Times: 1
+	Query: "Sufflamen chrysopterus" ; Times: 1
+	Query: "Gymnocorymbus ternetzi" ; Times: 1
+	Query: "Pseudobalistes flavimarginatus mappable:1" ; Times: 1
+	Query: "Balistes verrucosus" ; Times: 2
+	Query: "catalognumber:96077 institutioncode:CAS" ; Times: 2
+	Query: "catalognumber:65693 institutioncode:CAS" ; Times: 2
+	Query: "10699" ; Times: 1
+	Query: "Genus Fringilla" ; Times: 1
+	Query: "genus:Enneapterygius specificepithet:etheostoma " ; Times: 3
+	Query: "9832" ; Times: 1
+	Query: "Pangasius nasutus" ; Times: 1
+	Query: "Leporinus friderici" ; Times: 1
+	Query: "catalognumber:63900 institutioncode:CAS" ; Times: 2
+	Query: "catalognumber:27236 institutioncode:CAS" ; Times: 2
+	Query: "Balistes vidua mappable:1" ; Times: 1
+	Query: "41411" ; Times: 1
+	Query: "9665" ; Times: 1
+	Query: "catalognumber:229243 institutioncode:CAS" ; Times: 2
+	Query: "catalognumber:14361 institutioncode:CAS" ; Times: 2
+	Query: "vimba vimba" ; Times: 1
+	Query: "catalognumber:206022 institutioncode:CAS" ; Times: 2
+	Query: "catalognumber:93785 institutioncode:CAS" ; Times: 4
+	Query: "prochilodus nigricans" ; Times: 1
+	Query: "locality:sand creek stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "Bedotiidae" ; Times: 1
+	Query: "Raw" ; Times: 1
+	Query: "Abalistes stellatus mappable:1" ; Times: 3
+	Query: "V 1128" ; Times: 2
+	Query: "Balistapus undulatus" ; Times: 1
+	Query: "Melichthys bispinosus mappable:1" ; Times: 1
+	Query: "Canthidermis rotundatus mappable:1" ; Times: 1
+	Query: "33004" ; Times: 1
+	Query: "catalognumber:65089 institutioncode:CAS" ; Times: 2
+	Query: "catalognumber:46769" ; Times: 1
+	Query: "Balistes chrysopterus" ; Times: 1
+	Query: "Abalistes stellaris mappable:1" ; Times: 2
+	Query: "apteronotus leptorhynchus vntype:specimen" ; Times: 1
+	Query: "Canthidermis viola mappable:1" ; Times: 1
+	Query: "Balistes verrucosus mappable:1" ; Times: 2
+	Query: "Chaetobranchus flavescens" ; Times: 1
+	Query: "catalognumber:63898 institutioncode:CAS" ; Times: 2
+	Query: "oklahoma" ; Times: 1
+	Query: "Balistes viridescens mappable:1" ; Times: 1
+	Query: "vntype:specimen (apteronotus leptorhynchus)" ; Times: 1
+	Query: "catalognumber:5280 institutioncode:CAS" ; Times: 2
+	Query: "&#34;Pangasius sanitwongsei&#34;" ; Times: 1
+	Query: "peprilus ovatus" ; Times: 2
+	Query: "Canthidermis viola" ; Times: 1
+	Query: "30447" ; Times: 1
+	Query: "Oncorhynchus clarki henshawi" ; Times: 19
+	Query: "Balistes niger mappable:1" ; Times: 1
+	Query: "british columbia" ; Times: 1
+	Query: "monster" ; Times: 1
+	Query: "catalognumber:211269" ; Times: 1
+	Query: "catalognumber:204039 institutioncode:CAS" ; Times: 2
+	Query: "stateprovince:&#34;iowa&#34; (etheostoma caeruleum)" ; Times: 1
+	Query: "catalognumber:47752 institutioncode:CAS" ; Times: 2
+	Query: "Cochliodon hondae" ; Times: 1
+	Query: "catalognumber:26268 institutioncode:CAS" ; Times: 2
+	Query: "catalognumber:80762 institutioncode:CAS" ; Times: 2
+	Query: "catalognumber:207163 institutioncode:CAS" ; Times: 2
+	Query: "specificepithet:pangasius genus:Pangasius" ; Times: 1
+	Query: "26380" ; Times: 1
+	Query: "216116" ; Times: 1
+	Query: "Melichthys radula" ; Times: 1
+	Query: "Rhinecanthus echarpe" ; Times: 1
+	Query: "country:&#34;Bolivia&#34;" ; Times: 1
+	Query: "hypostomus boulengeri" ; Times: 1
+	Query: "KUDA" ; Times: 1
+	Query: "Witch Creek" ; Times: 1
+	Query: "39306" ; Times: 1
+	Query: "latimeria vntype:specimen" ; Times: 2
+	Query: "Pseudobalistes flavimarginatus" ; Times: 1
+	Query: "specificepithet:tragula genus:Upeneus" ; Times: 1
+	Query: "Hypleurochilus geminatus" ; Times: 2
+	Query: "trachycephalus institutioncode:CAS basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Balistes capistratus" ; Times: 1
+	Query: "catalognumber:91629 institutioncode:CAS" ; Times: 2
+	Query: "Pangasius lithostoma" ; Times: 1
+	Query: "lampanyctus steinbecki" ; Times: 2
+	Query: "Balistes capriscus mappable:1" ; Times: 2
+	Query: "Prochilodus nigricans" ; Times: 4
+	Query: "catalognumber:40960 institutioncode:CAS" ; Times: 2
+	Query: "morejohn" ; Times: 2
+	Query: "catalognumber:51160" ; Times: 1
+	Query: "Channa micropeltes" ; Times: 2
+	Query: "catalognumber:202974 institutioncode:CAS" ; Times: 3
+	Query: "82383" ; Times: 1
+	Query: "Noturus munitus" ; Times: 1
+	Query: "3449" ; Times: 1
+	Query: "Boreogadus saida mappable:1" ; Times: 3
+	Query: "catalognumber:202964 institutioncode:CAS" ; Times: 3
+	Query: "CAS 229233" ; Times: 2
+	Query: "Gasterosteus aculeatus" ; Times: 1
+	Query: "serrasalmus serrulatus" ; Times: 1
+	Query: "catalognumber:63907 institutioncode:CAS" ; Times: 2
+	Query: "catalognumber:63897 institutioncode:CAS" ; Times: 3
+	Query: "Balistes capriscus" ; Times: 2
+	Query: "county:&#34;Duval&#34; stateprovince:&#34;Florida&#34; year &gt;= 1850 year &lt;= 1950" ; Times: 1
+	Query: "Balistes undulatus" ; Times: 1
+	Query: "latimeria" ; Times: 2
+	Query: "&#34;sunset beach&#34;" ; Times: 1
+	Query: "Pangasius larnaudii" ; Times: 1
+	Query: "specificepithet:japonicus genus:Stephanolepis" ; Times: 1
+	Query: "catalognumber:9782 institutioncode:CAS" ; Times: 2
+	Query: "catalognumber:205825 institutioncode:CAS" ; Times: 1
+	Query: "eugerres plumieri" ; Times: 2
+	Query: "cas 230357" ; Times: 1
+	Query: "chuuk" ; Times: 1
+	Query: "Balistes niger" ; Times: 1
+	Query: "CAS 228094" ; Times: 1
+	Query: "39048" ; Times: 3
+	Query: "43649" ; Times: 1
+	Query: "Pine Valley Creek" ; Times: 2
+	Query: "hypostomus argus" ; Times: 1
+	Query: "Pygocentrus nattereri" ; Times: 2
+	Query: "Melanotaenia maccullochi" ; Times: 1
+	Query: "catalognumber:13476 institutioncode:CAS" ; Times: 2
+	Query: "orestias" ; Times: 1
+	Query: "Schizodon" ; Times: 1
+	Query: "Balistes forcipatus mappable:1" ; Times: 2
+	Query: "catalognumber:63906 institutioncode:CAS" ; Times: 2
+	Query: "carnegie museum" ; Times: 3
+	Query: "214277" ; Times: 1
+	Query: "Balistoides conspicillum mappable:1" ; Times: 1
+	Query: "Sterna aleutica" ; Times: 121
+	Query: "catalognumber:227908 institutioncode:CAS" ; Times: 2
+	Query: "Sufflamen verres" ; Times: 1
+	Query: "stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "Hypostomus lima" ; Times: 1
+	Query: "catalognumber:10940 institutioncode:CAS" ; Times: 2
+	Query: "Balistes carolinensis" ; Times: 2
+	Query: "Balistes vidua" ; Times: 1
+	Query: "Aphyosemion" ; Times: 2
+	Query: "Balistes naufragium" ; Times: 1
+	Query: "sterna aleutica" ; Times: 1
+	Query: "23 Nov 2013" ; Times: 1
+	Query: "catalognumber:21645 institutioncode:CAS" ; Times: 2
+	Query: "24493" ; Times: 1
+	Query: "Balistes rectangulus" ; Times: 1
+	Query: "Pseudobalistes fuscus mappable:1" ; Times: 1
+	Query: "Balistes polylepis mappable:1" ; Times: 1
+	Query: "Apteronotus" ; Times: 2
+	Query: "stateprovince:&#34;california&#34; recordedby:loomis year &gt;= 1969 year &lt;= 1975" ; Times: 1
+	Query: "catalognumber:67859" ; Times: 1
+	Query: "catalognumber:219472 institutioncode:CAS" ; Times: 3
+	Query: "catalognumber:13587 institutioncode:CAS" ; Times: 2
+	Query: "specificepithet:leptorhynchus genus:apteronotus" ; Times: 1
+	Query: "34645" ; Times: 1
+	Query: "Balistes forcipatus" ; Times: 2
+	Query: "Pangasius pangasius" ; Times: 3
+	Query: "25211" ; Times: 1
+	Query: "&#34;Rhinecanthus aculeatus&#34;" ; Times: 3
+	Query: "61905" ; Times: 2
+	Query: "South Sentinel Andaman" ; Times: 1
+	Query: "jaguar" ; Times: 3
+	Query: "catalognumber:228094 institutioncode:CAS" ; Times: 2
+	Query: "Rhinecanthus assasi" ; Times: 1
+	Query: "specificepithet:emiliae genus:Opsopoeodus" ; Times: 1
+	Query: "Balistes lima" ; Times: 1
+	Query: "catalognumber:226960 institutioncode:CAS" ; Times: 1
+	Query: "Hypostomus latirostris" ; Times: 2
+	Query: "Xanthichthys caeruleolineatus" ; Times: 1
+	Query: "Centropomus undecimalis" ; Times: 3
+	Query: "catalognumber:78705 institutioncode:CAS" ; Times: 2
+	Query: "catalognumber:229227 institutioncode:CAS" ; Times: 2
+	Query: "Melichthys vidua" ; Times: 1
+	Query: "Xanthichthys mento mappable:1" ; Times: 1
+	Query: "catalognumber:212754 institutioncode:CAS" ; Times: 2
+	Query: "Pricei" ; Times: 4
+	Query: "montezumae" ; Times: 1
+	Query: "embiotoca" ; Times: 1
+	Query: "Canthidermis rotundatus" ; Times: 1
+	Query: "catalognumber:65699 institutioncode:CAS" ; Times: 2
+	Query: "CAS 241554" ; Times: 1
+	Query: "Astronotus ocellatus" ; Times: 2
+	Query: "11363" ; Times: 2
+	Query: "Rhinecanthus rectangulus" ; Times: 1
+	Query: "catalognumber:223558 institutioncode:CAS" ; Times: 2
+	Query: "Abalistes stellaris" ; Times: 2
+	Query: "&#34;labeo pierrei&#34;" ; Times: 1
+	Query: "Hypostomus dlouhyi" ; Times: 2
+	Query: "catalognumber:63882 institutioncode:CAS" ; Times: 2
+	Query: "Abalistes stellatus" ; Times: 3
+	Query: "catalognumber:212985 institutioncode:CAS" ; Times: 3
+	Query: "catalognumber:200713 institutioncode:CAS" ; Times: 2
+	Query: "genus:Trigonectes" ; Times: 1
+	Query: "Zungaro zungaro" ; Times: 1
+	Query: "stateprovince:&#34;cajamarca&#34; country:&#34;Perú&#34;" ; Times: 1
+	Query: "catalognumber:13584 institutioncode:CAS" ; Times: 2
+	Query: "Sciaenidae lima peru" ; Times: 1
+	Query: "11297" ; Times: 1
+	Query: "Balistapus undulatus mappable:1" ; Times: 1
+	Query: "Canthidermis maculatus mappable:1" ; Times: 2
+	Query: "cancer" ; Times: 1
+	Query: "catalognumber:21661 institutioncode:CAS" ; Times: 3
+	Query: "hassex:1 hasmass:1" ; Times: 3
+	Query: "bicarinatus" ; Times: 1
+	Query: "stateprovince:&#34;mexico&#34;" ; Times: 1
+	Query: "devil" ; Times: 2
+	Query: "Balistes rotundatus" ; Times: 1
+	Query: "genus:Melanocetus specificepithet:johnsoni" ; Times: 4
+	Query: "catalognumber:207165 institutioncode:CAS" ; Times: 2
+	Query: "24921" ; Times: 1
+	Query: "Pacific country:&#34;peru&#34;" ; Times: 1
+	Query: "stateprovince:&#34;california&#34; recordedby:clark year &gt;= 1958 year &lt;= 1970" ; Times: 1
+	Query: "catalognumber:234600 institutioncode:CAS" ; Times: 2
+	Query: "country:&#34;bahrain&#34;" ; Times: 1
+	Query: "catalognumber:63901 institutioncode:CAS" ; Times: 2
+	Query: "genus:Boulengerina" ; Times: 1
+	Query: "catalognumber:205205 institutioncode:CAS" ; Times: 2
+	Query: "13353" ; Times: 1
+	Query: "Sufflamen verres mappable:1" ; Times: 1
+	Query: "catalognumber:65099 institutioncode:CAS" ; Times: 1
+	Query: "catalognumber:13586 institutioncode:CAS" ; Times: 2
+	Query: "92685" ; Times: 2
+	Query: "Xanthichthys ringens mappable:1" ; Times: 2
+	Query: "Apteronotus leptorhynchus" ; Times: 1
+	Query: "Rhinecanthus lunula" ; Times: 1
+	Query: "Xanthichthys auromarginatus mappable:1" ; Times: 1
+	Query: "catalognumber:13585 institutioncode:CAS" ; Times: 2
+	Query: "absconditus" ; Times: 1
+	Query: "catalognumber:62654 institutioncode:CAS" ; Times: 2
+	Query: "catalognumber:21643 institutioncode:CAS" ; Times: 2
+	Query: "specificepithet:cirrhifer genus:Stephanolepis" ; Times: 2
+	Query: "catalognumber:34683 institutioncode:CAS" ; Times: 2
+	Query: "Aphanotorulus ammophilus" ; Times: 2
+	Query: "Sufflamen bursa" ; Times: 1
+	Query: "48541" ; Times: 1
+	Query: "Balistes lima mappable:1" ; Times: 1
+	Query: "catalognumber:64122 institutioncode:CAS" ; Times: 2
+	Query: "Balistes buniva mappable:1" ; Times: 2
+	Query: "32593" ; Times: 7
+	Query: "Melichthys piceus" ; Times: 1
+	Query: "family:Galaxiidae country:&#34;Peru&#34;" ; Times: 5
+	Query: "catalognumber:63881 institutioncode:CAS" ; Times: 3
+	Query: "stateprovince:&#34;California&#34; year &gt;= 1992 year &lt;= 1992 month &gt;= 7 month &lt;= 9 institutioncode:CAS" ; Times: 1
+	Query: "Cichlasoma dimerus" ; Times: 1
+	Query: "210887" ; Times: 1
+	Query: "Xanthichthys mento" ; Times: 1
+	Query: "218257" ; Times: 1
+	Query: "specificepithet:bensasi genus:Upeneus" ; Times: 2
+	Query: "Melichthys buniva" ; Times: 1
+	Query: "Balistes undulatus mappable:1" ; Times: 1
+	Query: "P.G. Frank" ; Times: 3
+	Query: "catalognumber:224764 institutioncode:CAS" ; Times: 2
+	Query: "Balistoides viridescens" ; Times: 1
+	Query: "Zonata" ; Times: 5
+	Query: "catalognumber:38957 institutioncode:CAS" ; Times: 2
+	Query: "vntype:specimen locality:Santa Rosa Island" ; Times: 1
+	Query: "26582" ; Times: 1
+	Query: "catalognumber:238943 institutioncode:CAS" ; Times: 2
+	Query: "Sufflamen albicaudatum" ; Times: 1
+	Query: "catalognumber:44220 institutioncode:CAS" ; Times: 2
+	Query: "tortuga" ; Times: 1
+	Query: "catalognumber:17915 institutioncode:CAS" ; Times: 2
+	Query: "22213" ; Times: 1
+	Query: "13171" ; Times: 2
+	Query: "crayfish" ; Times: 2
+	Query: "Pangasius krempfi" ; Times: 2
+	Query: "Balistapus rectangulus" ; Times: 1
+	Query: "CAS 223514" ; Times: 2
+	Query: "immaculatus" ; Times: 1
+	Query: "Pseudobalistes fuscus" ; Times: 1
+	Query: "catalognumber:209459 institutioncode:CAS" ; Times: 2
+	Query: "Iguana iguana" ; Times: 1
+	Query: "DOL" ; Times: 1
+	Query: "CAS 216022" ; Times: 2
+	Query: "catalognumber:223565 institutioncode:CAS" ; Times: 2
+	Query: "Sufflamen albicaudatum mappable:1" ; Times: 1
+	Query: "Balistes flavimarginatus" ; Times: 1
+	Query: "51957" ; Times: 1
+	Query: "Balistapus aculeatus" ; Times: 1
+	Query: "Rhinecanthus verrucosus" ; Times: 1
+	Query: "Balistes chrysopterus mappable:1" ; Times: 1
+	Query: "Paralabrax auroguttatus" ; Times: 2
+	Query: "Rhinecanthus verrucosus mappable:1" ; Times: 1
+	Query: "30046" ; Times: 1
+	Query: "campbelli" ; Times: 1
+	Query: "Balistes maculatus" ; Times: 1
+	Query: "catalognumber:21629 institutioncode:CAS" ; Times: 2
+	Query: "CRUSTACEANS" ; Times: 1
+	Query: "confusus" ; Times: 1
+	Query: "Sufflamen chrysoptera" ; Times: 1
+	Query: "Balistes vetula mappable:1" ; Times: 1
+	Query: "oaxaca" ; Times: 1
+	Query: "11472" ; Times: 1
+	Query: "Hypostomus johnii" ; Times: 2
+	Query: "Xanthichthys ringens" ; Times: 2
+	Query: "96782" ; Times: 1
+	Query: "25004" ; Times: 1
+	Query: "catalognumber:223383 institutioncode:CAS" ; Times: 2
+	Query: "60030" ; Times: 1
+	Query: "Balistes polylepis" ; Times: 1
+	Query: "orchid" ; Times: 1
+	Query: "lucania goodei" ; Times: 1
+	Query: "ROM" ; Times: 1
+	Query: "Pelamis" ; Times: 1
+	Query: "Ituglanis" ; Times: 2
+	Query: "serrasalmus spilopleura" ; Times: 1
+	Query: "rattlesnake" ; Times: 2
+	Query: "Rhinecanthus aculeatus aculeatus" ; Times: 1
+	Query: "specificepithet:fallax genus:Neopomacentrus" ; Times: 1
+	Query: "Balistes verres mappable:1" ; Times: 1
+	Query: "catalognumber:65728 institutioncode:CAS" ; Times: 2
+	Query: "69162" ; Times: 1
+	Query: "88945" ; Times: 1
+	Query: "Balistes fuscus" ; Times: 1
+	Query: "Balistes vetula" ; Times: 1
+	Query: "catalognumber:7064" ; Times: 1
+	Query: "70707" ; Times: 1
+	Query: "catalognumber:93794 institutioncode:CAS" ; Times: 2
+	Query: "Dunni" ; Times: 1
+	Query: "CAS-206503" ; Times: 1
+	Query: "apteronotus vntype:specimen" ; Times: 2
+	Query: "Balistoides viridescens mappable:1" ; Times: 1
+	Query: "Verrunculus polylepis mappable:1" ; Times: 1
+	Query: "locality:sand creek" ; Times: 1
+	Query: "catalognumber:213389 institutioncode:CAS" ; Times: 1
+	Query: "Carcharodon" ; Times: 1
+	Query: "Odontaspis ferox" ; Times: 1
+	Query: "catalognumber:63908 institutioncode:CAS" ; Times: 2
+	Query: "Hypleurochilus caudovittatus" ; Times: 1
+	Query: "Hypostomus boulengeri" ; Times: 1
+	Query: "Pangasius bocourti" ; Times: 1
+	Query: "catalognumber:208915 institutioncode:CAS" ; Times: 2
+	Query: "tumor" ; Times: 1
+	Query: "cas 99737" ; Times: 2
+	Query: "Balistes capistratus mappable:1" ; Times: 1
+	Query: "Balistes fuscus mappable:1" ; Times: 1
+	Query: "cas 99738" ; Times: 1
+	Query: "Lebiasina bimaculata" ; Times: 1
+	Query: "Brycon amazonicus" ; Times: 1
+	Query: "Brycon hilarii" ; Times: 1
+	Query: "Melichthys bispinosus" ; Times: 1
+	Query: "catalognumber:9781 institutioncode:CAS" ; Times: 2
+	Query: "stateprovince:&#34;Ontario&#34; country:&#34;Canada&#34; continent:North America" ; Times: 1
+	Query: "Pelamis (Japan)" ; Times: 1
+	Query: "catalognumber:10419 institutioncode:CAS" ; Times: 2
+	Query: "Pterois antennata" ; Times: 17
+	Query: "Balistes rotundatus mappable:1" ; Times: 1
+	Query: "Rhinecanthus assasi mappable:1" ; Times: 1
+	Query: "Balistes viridescens" ; Times: 1
+	Query: "shells" ; Times: 1
+	Query: "Assam" ; Times: 2
+	Query: "petersius" ; Times: 1
+	Query: "Balistes aculeatus mappable:1" ; Times: 1
+	Query: "Sufflamen chrysopterum mappable:1" ; Times: 1
+	Query: "locality:Rodeo" ; Times: 1
+	Query: "Balistes naufragium mappable:1" ; Times: 1
+	Query: "cas ent" ; Times: 1
+	Query: "catalognumber:214824 institutioncode:CAS" ; Times: 2
+	Query: "238142" ; Times: 1
+	Query: "catalognumber:65111 institutioncode:CAS" ; Times: 2
+	Query: "1907-02-17" ; Times: 1
+	Query: "60257" ; Times: 2
+	Query: "catalognumber:223384 institutioncode:CAS" ; Times: 2
+	Query: "Abyssus" ; Times: 1
+	Query: "Hypostomus hondae" ; Times: 1
+	Query: "57648" ; Times: 1
+	Query: "Odonus niger" ; Times: 1
+	Query: "Balistes punctatus" ; Times: 1
+	Query: "27449" ; Times: 1
+	Query: "genus:Neopomacentrus" ; Times: 1
+	Query: "Melichthys radula mappable:1" ; Times: 1
+	Query: "Lates calcarifer" ; Times: 2
+	Query: "Xanthichthys lineopunctatus" ; Times: 1
+	Query: "Sufflamen capistratus mappable:1" ; Times: 1
+	Query: "Balistes verres" ; Times: 1
+	Query: "Nativitatis" ; Times: 1
+	Query: "country:&#34;Peru&#34; Mylossoma duriventris" ; Times: 2
+	Query: "Rhinecanthus echarpe mappable:1" ; Times: 1
+	Query: "genus:Xiphophorus" ; Times: 2
+	Query: "24949" ; Times: 1
+	Query: "89692" ; Times: 1
+	Query: "specificepithet:pardalis genus:Cantherhines" ; Times: 1
+	Query: "catalognumber:38098 institutioncode:CAS" ; Times: 2
+	Query: "93971" ; Times: 1
+	Query: "catalognumber:64121 institutioncode:CAS" ; Times: 2
+	Query: "catalognumber:16759" ; Times: 1
+	Query: "12116" ; Times: 1
+	Query: "Hypostomus jaguribensis" ; Times: 2
+	Query: "V-1128" ; Times: 1
+	Query: "catalognumber:17539 institutioncode:CAS" ; Times: 3
+	Query: "catalognumber:209076 institutioncode:CAS" ; Times: 2
+	Query: "Carassius auratus" ; Times: 1
+	Query: "boreogadus saida" ; Times: 1
+	Query: "Melichthys niger mappable:1" ; Times: 1
+	Query: "Sufflamen capistratus" ; Times: 1
+	Query: "(etheostoma caeruleum)" ; Times: 2
+	Query: "Balistes carolinensis mappable:1" ; Times: 2
+	Query: "Page" ; Times: 2
+	Query: "Rhinecanthus aculeatus mappable:1" ; Times: 1
+	Query: "bivalve" ; Times: 1
+	Query: "Rhinecanthus aculeatus" ; Times: 1
+	Query: "Balistes flavimarginatus mappable:1" ; Times: 1
+	Query: "Hydrophis institutioncode:CAS" ; Times: 2
+	Query: "Hypostomus luetkeni" ; Times: 2
+	Query: "catalognumber:21624 institutioncode:CAS" ; Times: 2
+	Query: "teeth" ; Times: 1
+	Query: "catalognumber:208784 institutioncode:CAS" ; Times: 2
+	Query: "Cirrhilabrus jordani" ; Times: 1
+	Query: "catalognumber:21628 institutioncode:CAS" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 52 (out of 1416 download events in this period)
+Total number of records downloaded: 5015
+Number of different countries: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United Kingdom ; Times: 3
+	Country: Colombia ; Times: 3
+	Country: Mexico ; Times: 3
+	Country: Unknown ; Times: 1
+	Country: United States ; Times: 16
+	Country: Peru ; Times: 21
+	Country: Denmark ; Times: 2
+	Country: New Zealand ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-08-27 ; Times: 1
+	Date: 2018-08-10 ; Times: 3
+	Date: 2018-08-18 ; Times: 3
+	Date: 2018-08-22 ; Times: 2
+	Date: 2018-08-19 ; Times: 2
+	Date: 2018-08-30 ; Times: 2
+	Date: 2018-08-26 ; Times: 1
+	Date: 2018-08-24 ; Times: 1
+	Date: 2018-08-09 ; Times: 3
+	Date: 2018-08-03 ; Times: 1
+	Date: 2018-08-21 ; Times: 5
+	Date: 2018-08-20 ; Times: 9
+	Date: 2018-08-23 ; Times: 2
+	Date: 2018-08-07 ; Times: 1
+	Date: 2018-08-06 ; Times: 4
+	Date: 2018-08-01 ; Times: 4
+	Date: 2018-08-13 ; Times: 3
+	Date: 2018-08-29 ; Times: 1
+	Date: 2018-08-28 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "Brycon amazonicus" ; Times: 1
+	Query: "Hoplias malabaricus" ; Times: 1
+	Query: "cancer" ; Times: 1
+	Query: "Brycon hilarii" ; Times: 1
+	Query: "sterna aleutica" ; Times: 3
+	Query: "Cichla monoculus" ; Times: 1
+	Query: "sphoeroides hastissue:1" ; Times: 1
+	Query: "Leporinus trifasciatus" ; Times: 1
+	Query: "genus:madatyphlops OR typhlops" ; Times: 1
+	Query: "Laticauda colubrina" ; Times: 1
+	Query: "hassex:1 hasmass:1" ; Times: 2
+	Query: "Pelamis (Japan)" ; Times: 1
+	Query: "Ecuador" ; Times: 1
+	Query: "Pterois antennata" ; Times: 1
+	Query: "Chaetobranchus flavescens" ; Times: 1
+	Query: "eugerres plumieri" ; Times: 1
+	Query: "Pelamis" ; Times: 1
+	Query: "Ara" ; Times: 2
+	Query: "Schizodon fasciatus" ; Times: 1
+	Query: "Astronotus ocellatus" ; Times: 1
+	Query: "vntype:specimen (apteronotus leptorhynchus)" ; Times: 1
+	Query: "Colossoma macropomum" ; Times: 1
+	Query: "country:&#34;Peru&#34;" ; Times: 1
+	Query: "Brycon erythropterum" ; Times: 3
+	Query: "Anisotremus virginicus" ; Times: 1
+	Query: "specificepithet:pangasius genus:Pangasius" ; Times: 1
+	Query: "Prochilodus nigricans" ; Times: 1
+	Query: "genus:Boulengerina" ; Times: 1
+	Query: "Pangasius myanmar" ; Times: 1
+	Query: "&#34;Chesapeake Bay&#34;" ; Times: 1
+	Query: "Mylossoma duriventris" ; Times: 1
+	Query: "&#34;Rhinecanthus aculeatus&#34;" ; Times: 1
+	Query: "Rhytiodus microlepis" ; Times: 1
+	Query: "Leporinus friderici" ; Times: 2
+	Query: "Ituglanis" ; Times: 1
+	Query: "&#34;Channa micropeltes&#34;" ; Times: 1
+	Query: "prochilodus nigricans" ; Times: 2
+	Query: "Raw" ; Times: 1
+	Query: "oaxaca" ; Times: 1
+	Query: "niue" ; Times: 1
+	Query: "Zungaro zungaro" ; Times: 1
+	Query: "Paralabrax auroguttatus" ; Times: 1
+	Query: "Sterna aleutica" ; Times: 2
+
+
+End of report.
