@@ -1,0 +1,654 @@
+Report for Institution Code CAS, Resource ich
+Usage stats for June 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 1028
+Number of records retrieved in searches: 16556
+Number of different countries where searches have been originated: 18
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: Brazil ; Times: 6
+	Country: Netherlands ; Times: 5
+	Country: Mexico ; Times: 79
+	Country: Unknown ; Times: 17
+	Country: Panama ; Times: 2
+	Country: Finland ; Times: 2
+	Country: France ; Times: 4
+	Country: United States ; Times: 874
+	Country: Ecuador ; Times: 3
+	Country: Germany ; Times: 5
+	Country: United Kingdom ; Times: 2
+	Country: Colombia ; Times: 4
+	Country: Kuwait ; Times: 2
+	Country: China ; Times: 16
+	Country: Argentina ; Times: 2
+	Country: Russia ; Times: 3
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-06-07 ; Times: 31
+	Date: 2018-06-06 ; Times: 29
+	Date: 2018-06-05 ; Times: 47
+	Date: 2018-06-04 ; Times: 48
+	Date: 2018-06-29 ; Times: 48
+	Date: 2018-06-02 ; Times: 11
+	Date: 2018-06-01 ; Times: 17
+	Date: 2018-06-25 ; Times: 21
+	Date: 2018-06-24 ; Times: 5
+	Date: 2018-06-27 ; Times: 14
+	Date: 2018-06-26 ; Times: 6
+	Date: 2018-06-21 ; Times: 318
+	Date: 2018-06-20 ; Times: 95
+	Date: 2018-06-23 ; Times: 1
+	Date: 2018-06-22 ; Times: 7
+	Date: 2018-06-09 ; Times: 2
+	Date: 2018-06-08 ; Times: 21
+	Date: 2018-06-10 ; Times: 6
+	Date: 2018-06-11 ; Times: 8
+	Date: 2018-06-12 ; Times: 31
+	Date: 2018-06-13 ; Times: 142
+	Date: 2018-06-14 ; Times: 12
+	Date: 2018-06-15 ; Times: 21
+	Date: 2018-06-16 ; Times: 21
+	Date: 2018-06-17 ; Times: 8
+	Date: 2018-06-18 ; Times: 21
+	Date: 2018-06-19 ; Times: 14
+	Date: 2018-06-30 ; Times: 2
+	Date: 2018-06-03 ; Times: 8
+	Date: 2018-06-28 ; Times: 13
+
+List of queries that retrieved data from the resource: 
+	Query: "vntype:specimen stateprovince:&#34;Washington&#34; country:&#34;United States&#34; continent:North America" ; Times: 1
+	Query: "Naso caesius mappable:1" ; Times: 2
+	Query: "Acanthurus matoides" ; Times: 4
+	Query: "Naso thynnoides" ; Times: 3
+	Query: "CAS 231775" ; Times: 4
+	Query: "Ctenochaetus striatus mappable:1" ; Times: 4
+	Query: "&#34;labeo porcellus&#34;" ; Times: 1
+	Query: "Paracanthurus hepatus" ; Times: 2
+	Query: "Fundulus grandis" ; Times: 1
+	Query: "Pimephales promelas" ; Times: 1
+	Query: "catalognumber:66171" ; Times: 1
+	Query: "mzusp" ; Times: 1
+	Query: "wizard" ; Times: 1
+	Query: "Xesurus laticlavius" ; Times: 1
+	Query: "specificepithet:barbus genus:Barbus" ; Times: 1
+	Query: "specificepithet:coeruleus" ; Times: 1
+	Query: "Acanthurus lineatus" ; Times: 3
+	Query: "Xesurus scalprum mappable:1" ; Times: 1
+	Query: "ac-294" ; Times: 1
+	Query: "chameleon" ; Times: 1
+	Query: "CAS 234173" ; Times: 2
+	Query: "ac-356" ; Times: 1
+	Query: "country:&#34;Ecuador&#34;" ; Times: 3
+	Query: "distance(location,geopoint(39.334214047124,-86.568406210183))&lt;11612" ; Times: 1
+	Query: "Naso sp." ; Times: 2
+	Query: "pterois volitans" ; Times: 10
+	Query: "Ctenochaetus tominiensis" ; Times: 2
+	Query: "specificepithet:grammodes" ; Times: 2
+	Query: "Acanthurus triostegus mappable:1" ; Times: 2
+	Query: "99460" ; Times: 2
+	Query: "Ctenochaetus hawaiiensis mappable:1" ; Times: 2
+	Query: "gila intermedia" ; Times: 1
+	Query: "98464" ; Times: 1
+	Query: "Naso vlamingii" ; Times: 2
+	Query: "recordedby:Breese" ; Times: 1
+	Query: "Siganus labyrinthodes" ; Times: 1
+	Query: "tridentopsis pearsoni" ; Times: 1
+	Query: "Naso brevirostris" ; Times: 3
+	Query: "Hartman" ; Times: 2
+	Query: "Acanthurus achilles" ; Times: 3
+	Query: "Zebrasoma flavescens" ; Times: 3
+	Query: "Epinephelus jordani" ; Times: 1
+	Query: "Kuala Lumpur" ; Times: 1
+	Query: "Acanthurus nigricans mappable:1" ; Times: 9
+	Query: "gomezi" ; Times: 1
+	Query: "59971" ; Times: 1
+	Query: "catalognumber:31699 institutioncode:CAS" ; Times: 1
+	Query: "ogcocephalus" ; Times: 1
+	Query: "Acanthurus celebicus mappable:1" ; Times: 1
+	Query: "70092" ; Times: 1
+	Query: "catalognumber:1328 institutioncode:CAS" ; Times: 1
+	Query: "DSM" ; Times: 1
+	Query: "witch" ; Times: 14
+	Query: "Teuthis achilles" ; Times: 2
+	Query: "Trichomycterus" ; Times: 1
+	Query: "catalognumber:2453 institutioncode:CAS" ; Times: 1
+	Query: "Acanthurus chronixis mappable:1" ; Times: 3
+	Query: "cas 96943" ; Times: 1
+	Query: "specificepithet:minutus institutioncode:CAS" ; Times: 1
+	Query: "andersonii" ; Times: 1
+	Query: "Acanthurus umbra" ; Times: 1
+	Query: "raccoon" ; Times: 2
+	Query: "Teuthis bahianus" ; Times: 2
+	Query: "Ctenochaetus binotatus" ; Times: 3
+	Query: "catalognumber:51692 institutioncode:CAS" ; Times: 2
+	Query: "trichomycterus nigromaculatus" ; Times: 2
+	Query: "Acanthurus nigros mappable:1" ; Times: 1
+	Query: "Acanthurus nigrofuscus" ; Times: 2
+	Query: "hypsibarbus malcolmi" ; Times: 1
+	Query: "Bison bison" ; Times: 2
+	Query: "Acanthurus japonicus mappable:1" ; Times: 4
+	Query: "Teuthis leucopareius" ; Times: 2
+	Query: "Orestias" ; Times: 1
+	Query: "16088 vntype:specimen" ; Times: 1
+	Query: "fluviphylax" ; Times: 1
+	Query: "Diptera" ; Times: 1
+	Query: "Xesurus clarionis" ; Times: 1
+	Query: "Pterois volitans" ; Times: 16
+	Query: "nmnh" ; Times: 1
+	Query: "horses" ; Times: 1
+	Query: "Zebrasoma rostratum mappable:1" ; Times: 2
+	Query: "mountain beaver" ; Times: 1
+	Query: "bolivianus" ; Times: 1
+	Query: "CAS 77983" ; Times: 1
+	Query: "Acanthurus guttatus" ; Times: 4
+	Query: "stateprovince:&#34;california&#34; recordedby:hubbs year &gt;= 1948 year &lt;= 1948" ; Times: 1
+	Query: "Acanthurus thompsoni mappable:1" ; Times: 2
+	Query: "Acanthurus bipunctatus" ; Times: 2
+	Query: "rabbit" ; Times: 1
+	Query: "aphanius" ; Times: 1
+	Query: "coyote" ; Times: 1
+	Query: "Acanthurus randalli mappable:1" ; Times: 2
+	Query: "Naso caeruleacauda" ; Times: 2
+	Query: "CM 7731" ; Times: 1
+	Query: "boleophthalmus" ; Times: 1
+	Query: "mosquito" ; Times: 1
+	Query: "Crossocheilus siamensis" ; Times: 1
+	Query: "Acanthurus reversus" ; Times: 2
+	Query: "deltae" ; Times: 1
+	Query: "scoloplax" ; Times: 1
+	Query: "genus:evorthodus institutioncode:CAS" ; Times: 1
+	Query: "stateprovince:&#34;new mexico&#34;" ; Times: 2
+	Query: "hong kong" ; Times: 1
+	Query: "lenguado" ; Times: 1
+	Query: "Naso lopezi" ; Times: 2
+	Query: "Acanthurus gahhm" ; Times: 4
+	Query: "Acanthurus gahhm mappable:1" ; Times: 4
+	Query: "Acanthurus xanthopterus mappable:1" ; Times: 2
+	Query: "Acanthurus leucosternon" ; Times: 4
+	Query: "Naso minor mappable:1" ; Times: 2
+	Query: "Teuthis dussumieri mappable:1" ; Times: 2
+	Query: "56785" ; Times: 1
+	Query: "Oncorhynchus tshawytscha" ; Times: 1
+	Query: "haight" ; Times: 1
+	Query: "elephant" ; Times: 2
+	Query: "bmnh" ; Times: 1
+	Query: "Xesurus laticlavius mappable:1" ; Times: 1
+	Query: "64465" ; Times: 1
+	Query: "28940" ; Times: 1
+	Query: "Mosquito" ; Times: 4
+	Query: "Teuthis coeruleus" ; Times: 4
+	Query: "Acanthurus celebicus" ; Times: 1
+	Query: "Hepatus hepatus" ; Times: 3
+	Query: "CAS 223990" ; Times: 3
+	Query: "distance(location,geopoint(43.6460140694535,-96.2317194161254))&lt;17309" ; Times: 1
+	Query: "Mycteroperca pardalis" ; Times: 1
+	Query: "specificepithet:buckleyi " ; Times: 1
+	Query: "Tridentopsis cahuali" ; Times: 1
+	Query: "Cyprinodon macularius" ; Times: 1
+	Query: "catalognumber:24535 institutioncode:CAS" ; Times: 2
+	Query: "Tomicodon absitus" ; Times: 3
+	Query: "fieldnumber:ACD" ; Times: 1
+	Query: "94944" ; Times: 2
+	Query: "county:&#34;Washtenaw&#34; stateprovince:&#34;Michigan&#34;" ; Times: 2
+	Query: "catalognumber:24536 institutioncode:CAS" ; Times: 3
+	Query: "Ctenochaetus cyanocheilus" ; Times: 2
+	Query: "genus:bathygobius locality:clipperton" ; Times: 1
+	Query: "Acanthurus dussumieri mappable:1" ; Times: 3
+	Query: "stichaeus punctatus" ; Times: 1
+	Query: "distance(location,geopoint(44.9652418541295,-83.2617639840543))&lt;22285" ; Times: 1
+	Query: "Acanthurus randalli" ; Times: 2
+	Query: "plectranthias winniensis" ; Times: 1
+	Query: "Ctenochaetus tominiensis mappable:1" ; Times: 2
+	Query: "distance(location,geopoint(45.1119776310102,-94.507046023876))&lt;45034" ; Times: 1
+	Query: "Canada Goose" ; Times: 1
+	Query: "iguana" ; Times: 4
+	Query: "chihuahua" ; Times: 1
+	Query: "catalognumber:33306" ; Times: 1
+	Query: "catalognumber:50692 institutioncode:CAS" ; Times: 1
+	Query: "Ctenodon ctenodon" ; Times: 1
+	Query: "labeo potail" ; Times: 1
+	Query: "CAS 200019" ; Times: 2
+	Query: "Teuthis crestonis" ; Times: 1
+	Query: "cynolebiidae" ; Times: 1
+	Query: "catalognumber:1329 institutioncode:CAS" ; Times: 3
+	Query: "Zebrasoma xanthurum" ; Times: 2
+	Query: "Acanthurus caeruleus" ; Times: 2
+	Query: "Acanthurus leucopareius mappable:1" ; Times: 3
+	Query: "distance(location,geopoint(44.0205215254591,-83.4491953173319))&lt;16895" ; Times: 2
+	Query: "Naso unicornis" ; Times: 2
+	Query: "distance(location,geopoint(45.2753844185115,-94.1628331295119))&lt;22822" ; Times: 1
+	Query: "cas 95623" ; Times: 1
+	Query: "specificepithet:microlepis family:Cichlidae" ; Times: 1
+	Query: "locality:Guadalupe Island" ; Times: 1
+	Query: "JAGUAR" ; Times: 1
+	Query: "Acanthurus triostegus sandvicensis mappable:1" ; Times: 1
+	Query: "Ctenochaetus cyanoguttatus" ; Times: 2
+	Query: "CAS SU 15115" ; Times: 1
+	Query: "Naso unicornis mappable:1" ; Times: 2
+	Query: "Acanthurus caeruleus mappable:1" ; Times: 2
+	Query: "Mecklenburg Harbor" ; Times: 1
+	Query: "Acanthurus unicornis mappable:1" ; Times: 1
+	Query: "CAS 234165" ; Times: 2
+	Query: "Flavescens iowa" ; Times: 2
+	Query: "Prochilodus lineatus" ; Times: 1
+	Query: "Naso lopezi mappable:1" ; Times: 2
+	Query: "distance(location,geopoint(36.9940289363794,-90.1823658933356))&lt;23608" ; Times: 1
+	Query: "Salminus brasiliensis" ; Times: 1
+	Query: "family:Gobiidae locality:clipperton" ; Times: 1
+	Query: "bioko" ; Times: 1
+	Query: "hippocampus erectus" ; Times: 1
+	Query: "Acanthurus auranticavus mappable:1" ; Times: 3
+	Query: "Oncorhynchus clarki henshawi" ; Times: 27
+	Query: "lebiasina" ; Times: 2
+	Query: "labeo dussumieri" ; Times: 1
+	Query: "monster" ; Times: 3
+	Query: "James Bishop" ; Times: 1
+	Query: "James Hartman" ; Times: 1
+	Query: "Acanthurus glaucopareius mappable:1" ; Times: 1
+	Query: "catalognumber:29294" ; Times: 2
+	Query: "Xesurus scalprum" ; Times: 1
+	Query: "fmnh 2014" ; Times: 1
+	Query: "Zebrasoma veliferum" ; Times: 2
+	Query: "Labeo greenii" ; Times: 1
+	Query: "catalognumber:955 institutioncode:CAS" ; Times: 2
+	Query: "seahorse" ; Times: 1
+	Query: "seal fur" ; Times: 1
+	Query: "68899" ; Times: 1
+	Query: "Acanthurus elongatus" ; Times: 2
+	Query: "distance(location,geopoint(44.8059502237725,-93.6644673554555))&lt;12831" ; Times: 1
+	Query: "Teuthis umbra mappable:1" ; Times: 2
+	Query: "Ctenochaetus cyanocheilus mappable:1" ; Times: 2
+	Query: "Chihuahua" ; Times: 1
+	Query: "95780" ; Times: 5
+	Query: "Acanthurus japonicus" ; Times: 4
+	Query: "Mylesinus paucisquamatus" ; Times: 2
+	Query: "Sea Otter" ; Times: 1
+	Query: "Acanthurus aliala mappable:1" ; Times: 1
+	Query: "distance(location,geopoint(45.7550856505649,-85.6091847628693))&lt;33017" ; Times: 1
+	Query: "specificepithet:cataphractus" ; Times: 2
+	Query: "monkey" ; Times: 1
+	Query: "Acanthurus sp." ; Times: 1
+	Query: "Teuthis olivaceus" ; Times: 1
+	Query: "basilan" ; Times: 1
+	Query: "64939" ; Times: 1
+	Query: "lingcod" ; Times: 1
+	Query: "Acanthurus matoides mappable:1" ; Times: 4
+	Query: "catalognumber:25016 institutioncode:CAS" ; Times: 3
+	Query: "Teuthis bahianus mappable:1" ; Times: 2
+	Query: "79409" ; Times: 1
+	Query: "Ctenochaetus marginatus" ; Times: 2
+	Query: "cornutum" ; Times: 1
+	Query: "Xesurus punctatus" ; Times: 1
+	Query: "cas 99918" ; Times: 1
+	Query: "cas 99919" ; Times: 1
+	Query: "Acanthurus fuliginosus mappable:1" ; Times: 2
+	Query: "59215" ; Times: 1
+	Query: "psychrolutes" ; Times: 1
+	Query: "Acanthurus unicornis" ; Times: 1
+	Query: "Acanthurus bahianus mappable:1" ; Times: 3
+	Query: "country:&#34;Oman&#34;" ; Times: 1
+	Query: "Naso hexacanthus" ; Times: 2
+	Query: "Gillichthys mirabilis" ; Times: 3
+	Query: "42139-1" ; Times: 1
+	Query: "Prionurus microlepidotus mappable:1" ; Times: 2
+	Query: "paraliparis dactylosus" ; Times: 2
+	Query: "Ctenochaetus striatus" ; Times: 4
+	Query: "catalognumber:1128 institutioncode:CAS" ; Times: 2
+	Query: "county:&#34;san luis obispo&#34; recordedby:hubbs year &gt;= 1948 year &lt;= 1948" ; Times: 1
+	Query: "distance(location,geopoint(43.7119288265328,-93.0336932352666))&lt;15465" ; Times: 2
+	Query: "Naso maculatus mappable:1" ; Times: 2
+	Query: "cas 230357" ; Times: 3
+	Query: "catalognumber:36199 institutioncode:CAS" ; Times: 3
+	Query: "panda" ; Times: 1
+	Query: "Gila bicolor" ; Times: 7
+	Query: "Acanthurus sohal mappable:1" ; Times: 2
+	Query: "CAS 17783" ; Times: 2
+	Query: "39043" ; Times: 3
+	Query: "39047" ; Times: 1
+	Query: "50623" ; Times: 4
+	Query: "orestias" ; Times: 3
+	Query: "Acanthurus lituratus mappable:1" ; Times: 1
+	Query: "santa monica vntype:specimen" ; Times: 1
+	Query: "cas 89687" ; Times: 1
+	Query: "Acanthurus crestonis" ; Times: 1
+	Query: "stateprovince:&#34;california&#34; recordedby:snyder year &gt;= 1909 year &lt;= 1909" ; Times: 1
+	Query: "vntype:specimen (Casuarius casuarius)" ; Times: 1
+	Query: "Acanthurus nigroris" ; Times: 3
+	Query: "CAS 218722" ; Times: 2
+	Query: "Acanthurus coeruleus" ; Times: 3
+	Query: "Seal Fur" ; Times: 2
+	Query: "catalognumber:120 institutioncode:CAS" ; Times: 2
+	Query: "catalognumber:50355" ; Times: 1
+	Query: "Acanthurus monroviae mappable:1" ; Times: 2
+	Query: "rainbow trout" ; Times: 4
+	Query: "Xesurus clarionis mappable:1" ; Times: 1
+	Query: "Acanthurus chirurgus mappable:1" ; Times: 6
+	Query: "Acanthurus achilles mappable:1" ; Times: 3
+	Query: "95500" ; Times: 1
+	Query: "ZISP" ; Times: 1
+	Query: "distance(location,geopoint(39.2400334086807,-86.5684060061948))&lt;11509" ; Times: 1
+	Query: "Zebrasoma rostratum" ; Times: 2
+	Query: "Acanthurus guttatus mappable:1" ; Times: 4
+	Query: "Teuthis achilles mappable:1" ; Times: 2
+	Query: "Zebrasoma scopas" ; Times: 2
+	Query: "Naso vlamingii mappable:1" ; Times: 2
+	Query: "Naso annulatus" ; Times: 2
+	Query: "catalognumber:51693 institutioncode:CAS" ; Times: 2
+	Query: "Teuthis umbra" ; Times: 2
+	Query: "Teuthis atrimentatus mappable:1" ; Times: 1
+	Query: "Zebrasoma desjardinii mappable:1" ; Times: 3
+	Query: "mylesinus" ; Times: 2
+	Query: "65362" ; Times: 1
+	Query: "catalognumber:50693 institutioncode:CAS" ; Times: 3
+	Query: "Mountain Beaver" ; Times: 3
+	Query: "Acanthurus tennentii mappable:1" ; Times: 2
+	Query: "CAS 223979" ; Times: 2
+	Query: "Acanthurus leucocheilus mappable:1" ; Times: 3
+	Query: "Seriola lalandi" ; Times: 1
+	Query: "Mycteroperca xenarcha" ; Times: 1
+	Query: "52549" ; Times: 1
+	Query: "Catostomus insignis" ; Times: 1
+	Query: "sea turtle" ; Times: 2
+	Query: "BMNH 2000" ; Times: 1
+	Query: "Acanthurus mata mappable:1" ; Times: 6
+	Query: "Zebrasoma veliferum mappable:1" ; Times: 2
+	Query: "gulo gulo" ; Times: 1
+	Query: "corniger" ; Times: 1
+	Query: "Siphateles bicolor" ; Times: 12
+	Query: "orca" ; Times: 2
+	Query: "nebulifer" ; Times: 1
+	Query: "Naso sp. mappable:1" ; Times: 2
+	Query: "Acanthurus bariene" ; Times: 7
+	Query: "Teuthis dussumieri" ; Times: 2
+	Query: "Puntius lineatus" ; Times: 1
+	Query: "proteus" ; Times: 3
+	Query: "Teuthis atrimentatus" ; Times: 1
+	Query: "Gila intermedia" ; Times: 1
+	Query: "Naso lituratus" ; Times: 3
+	Query: "Ctenochaetus strigosus mappable:1" ; Times: 7
+	Query: "Aulostomus chinensis" ; Times: 1
+	Query: "CAS 205335" ; Times: 2
+	Query: "Acanthurus leucopareius" ; Times: 3
+	Query: "heterodon" ; Times: 1
+	Query: "CAS 0995" ; Times: 1
+	Query: "Teuthis sandvicensis mappable:1" ; Times: 1
+	Query: "catalognumber:5788" ; Times: 1
+	Query: "Teuthis guttatus mappable:1" ; Times: 2
+	Query: "Cephalopholis leopardus" ; Times: 2
+	Query: "Acanthurus thompsoni" ; Times: 2
+	Query: "CAS 234152" ; Times: 2
+	Query: "specificepithet:microphthalmus family:Cichlidae" ; Times: 2
+	Query: "Naso lituratus mappable:1" ; Times: 3
+	Query: "Acanthurus lituratus" ; Times: 1
+	Query: "locality:bradley institutioncode:CAS" ; Times: 1
+	Query: "distance(location,geopoint(44.954125234549,-93.1744568655617))&lt;12380" ; Times: 1
+	Query: "Ctenochaetus truncatus mappable:1" ; Times: 2
+	Query: "catalognumber:24532 institutioncode:CAS" ; Times: 3
+	Query: "pigeon guillemot" ; Times: 1
+	Query: "Beaver" ; Times: 1
+	Query: "Haemulon steindachneri" ; Times: 2
+	Query: "Acanthurus elongatus mappable:1" ; Times: 2
+	Query: "19696" ; Times: 1
+	Query: "cas 64229" ; Times: 1
+	Query: "Scomberomorus sierra" ; Times: 1
+	Query: "Zebrasoma velifer mappable:1" ; Times: 3
+	Query: "thermophilus" ; Times: 1
+	Query: "Mycteroperca rosacea" ; Times: 1
+	Query: "Ctenochaetus magnus" ; Times: 1
+	Query: "Acanthurus lineatus mappable:1" ; Times: 3
+	Query: "Ictalurus furcatus" ; Times: 1
+	Query: "specificepithet:intermedia genus:Gila" ; Times: 1
+	Query: "cupido" ; Times: 1
+	Query: "catalognumber:24531 institutioncode:CAS" ; Times: 2
+	Query: "Naso fageni" ; Times: 3
+	Query: "Acanthurus nigroris mappable:1" ; Times: 3
+	Query: "distance(location,geopoint(37.703859764372,-89.602791061395))&lt;13804" ; Times: 1
+	Query: "Teuthis olivaceus mappable:1" ; Times: 1
+	Query: "Naso caeruleacauda mappable:1" ; Times: 2
+	Query: "Carassius auratus" ; Times: 1
+	Query: "Naso maculatus" ; Times: 2
+	Query: "Acanthurus pyroferus mappable:1" ; Times: 4
+	Query: "Rhinichthys obtusus" ; Times: 1
+	Query: "brown bear" ; Times: 1
+	Query: "15540" ; Times: 1
+	Query: "Hepatus hepatus mappable:1" ; Times: 3
+	Query: "CAS 214651" ; Times: 2
+	Query: "Acanthurus aliala" ; Times: 1
+	Query: "Naso fageni mappable:1" ; Times: 3
+	Query: "CAS 215714" ; Times: 2
+	Query: "Acanthurus hepatus mappable:1" ; Times: 3
+	Query: "Prionurus laticlavius mappable:1" ; Times: 2
+	Query: "cas 99920" ; Times: 2
+	Query: "Ctenochaetus truncatus" ; Times: 2
+	Query: "county:&#34;Washtenaw&#34;" ; Times: 2
+	Query: "genus:Bathygobius locality:clipperton institutioncode:CAS" ; Times: 1
+	Query: "Teuthis leucopareius mappable:1" ; Times: 2
+	Query: "Acanthurus nigricans" ; Times: 9
+	Query: "Epinephelus chlorostigma" ; Times: 1
+	Query: "Prionurus laticlavius" ; Times: 2
+	Query: "Labeo rohita" ; Times: 1
+	Query: "hypsibarbus pierrei" ; Times: 1
+	Query: "Hyphessobrycon bentosi" ; Times: 1
+	Query: "Dentatherina" ; Times: 1
+	Query: "specificepithet:grammodes family:Cichlidae" ; Times: 1
+	Query: "Acanthurus xanthopterus" ; Times: 2
+	Query: "21294" ; Times: 1
+	Query: "Barbodes binotatus" ; Times: 1
+	Query: "Teuthis lineatus" ; Times: 2
+	Query: "Acanthurus chronixis" ; Times: 3
+	Query: "cas 95622" ; Times: 1
+	Query: "catalognumber:40552 institutioncode:CAS" ; Times: 4
+	Query: "Acanthurus chirurgus" ; Times: 6
+	Query: "88765" ; Times: 1
+	Query: "Teuthis triostegus" ; Times: 1
+	Query: "Teuthis guttatus" ; Times: 2
+	Query: "Acanthurus bleekeri" ; Times: 3
+	Query: "catalognumber:18721" ; Times: 1
+	Query: "Prionurus punctatus mappable:1" ; Times: 2
+	Query: "Acanthurus leucocheilus" ; Times: 3
+	Query: "Acanthurus fuliginosus" ; Times: 2
+	Query: "Sphyraena barracuda mappable:1" ; Times: 1
+	Query: "Naso brevirostris mappable:1" ; Times: 3
+	Query: "golden trout" ; Times: 1
+	Query: "Teuthis bipunctatus" ; Times: 1
+	Query: "CAS SAU" ; Times: 1
+	Query: "sea otter" ; Times: 2
+	Query: "cas 97089" ; Times: 1
+	Query: "Acanthurus bleekeri mappable:1" ; Times: 4
+	Query: "&#34;Malapterurus beninensis&#34;" ; Times: 1
+	Query: "Acanthurus olivaceus mappable:1" ; Times: 3
+	Query: "Zebrasoma desjardinii" ; Times: 3
+	Query: "Naso caesius" ; Times: 2
+	Query: "Acanthurus sp. mappable:1" ; Times: 1
+	Query: "Mycteroperca jordani" ; Times: 1
+	Query: "Ctenochaetus flavicauda" ; Times: 2
+	Query: "hassex:1 hasmass:1" ; Times: 1
+	Query: "locality:Delta stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "Teuthis hepatus mappable:1" ; Times: 3
+	Query: "Ctenochaetus hawaiiensis" ; Times: 2
+	Query: "Acanthurus triostegus sandvicensis" ; Times: 1
+	Query: "catalognumber:16943" ; Times: 1
+	Query: "Acanthurus bariene mappable:1" ; Times: 7
+	Query: "49503" ; Times: 1
+	Query: "16262" ; Times: 1
+	Query: "tarpon" ; Times: 1
+	Query: "distance(location,geopoint(45.0501439614529,-93.7973836220047))&lt;15301" ; Times: 1
+	Query: "Acanthurus coeruleus mappable:1" ; Times: 3
+	Query: "Oxynotus" ; Times: 1
+	Query: "vntype:specimen specificepithet:bimaculatus country:&#34;Brazil&#34;" ; Times: 1
+	Query: "CAS 214458" ; Times: 2
+	Query: "Naso minor" ; Times: 2
+	Query: "catalognumber:165 institutioncode:CAS" ; Times: 2
+	Query: "catalognumber:40553 institutioncode:CAS" ; Times: 4
+	Query: "Zebrasoma velifer" ; Times: 3
+	Query: "Prionurus microlepidotus" ; Times: 2
+	Query: "Ctenochaetus magnus mappable:1" ; Times: 1
+	Query: "catalognumber:24533 institutioncode:CAS" ; Times: 4
+	Query: "Teuthis bipunctatus mappable:1" ; Times: 1
+	Query: "cas 96899" ; Times: 1
+	Query: "11605" ; Times: 1
+	Query: "Paracanthurus hepatus mappable:1" ; Times: 2
+	Query: "zonata" ; Times: 2
+	Query: "cas 97106" ; Times: 1
+	Query: "catalognumber:25013 institutioncode:CAS" ; Times: 3
+	Query: "Teuthis triostegus mappable:1" ; Times: 1
+	Query: "Zebrasoma flavescens mappable:1" ; Times: 3
+	Query: "Acanthurus auranticavus" ; Times: 3
+	Query: "Ctenochaetus strigosus" ; Times: 7
+	Query: "229846" ; Times: 1
+	Query: "36384`1" ; Times: 1
+	Query: "Teuthis sandvicensis" ; Times: 1
+	Query: "Acanthurus hepatus" ; Times: 3
+	Query: "CAS 11712" ; Times: 1
+	Query: "Teuthis tractus" ; Times: 2
+	Query: "catalognumber:928 institutioncode:CAS" ; Times: 2
+	Query: "Poeciliopsis occidentalis" ; Times: 1
+	Query: "lamprey" ; Times: 1
+	Query: "catalognumber:263 institutioncode:CAS" ; Times: 3
+	Query: "Barbus barbus" ; Times: 1
+	Query: "Acanthurus tennentii" ; Times: 2
+	Query: "Acanthurus triostegus" ; Times: 2
+	Query: "Pulchra" ; Times: 1
+	Query: "Naso hexacanthus mappable:1" ; Times: 2
+	Query: "locality:palmyra" ; Times: 1
+	Query: "whale shark" ; Times: 1
+	Query: "locality:pillar point institutioncode:CAS" ; Times: 1
+	Query: "Teuthis hepatus" ; Times: 3
+	Query: "Naso thynnoides mappable:1" ; Times: 3
+	Query: "cas 87007" ; Times: 1
+	Query: "99456" ; Times: 1
+	Query: "99457" ; Times: 1
+	Query: "Zebrasoma xanthurum mappable:1" ; Times: 2
+	Query: "catalognumber:13728" ; Times: 1
+	Query: "distance(location,geopoint(45.2768308818963,-93.7703836750571))&lt;20247" ; Times: 1
+	Query: "distance(location,geopoint(44.6577752129955,-93.6644673554555))&lt;12850" ; Times: 1
+	Query: "Acanthurus leucosternon mappable:1" ; Times: 4
+	Query: "Acanthurus umbra mappable:1" ; Times: 1
+	Query: "Acanthurus nigrofuscus mappable:1" ; Times: 2
+	Query: "Acanthurus olivaceus" ; Times: 3
+	Query: "Acanthurus glaucopareius" ; Times: 1
+	Query: "catalognumber:24534 institutioncode:CAS" ; Times: 2
+	Query: "stateprovince:&#34;arizona&#34; year &gt;= 1915 year &lt;= 1915" ; Times: 1
+	Query: "Acanthurus monroviae" ; Times: 2
+	Query: "Zebrasoma scopas mappable:1" ; Times: 2
+	Query: "Acanthurus nigricauda" ; Times: 4
+	Query: "azurina hirundo" ; Times: 1
+	Query: "locality:port simpson" ; Times: 3
+	Query: "Tomicodon zebra" ; Times: 2
+	Query: "Acanthurus nigros" ; Times: 1
+	Query: "specificepithet:wallacei" ; Times: 1
+	Query: "Teuthis lineatus mappable:1" ; Times: 2
+	Query: "Acanthurus triostegus triostegus mappable:1" ; Times: 1
+	Query: "pig" ; Times: 1
+	Query: "Chlamydoselachus" ; Times: 1
+	Query: "Acanthurus dussumieri" ; Times: 3
+	Query: "Prionurus punctatus" ; Times: 2
+	Query: "Acanthurus pyroferus" ; Times: 4
+	Query: "catalognumber:39197 institutioncode:CAS" ; Times: 1
+	Query: "Ctenochaetus binotatus mappable:1" ; Times: 3
+	Query: "Acanthurus tractus" ; Times: 2
+	Query: "Acanthurus sohal" ; Times: 2
+	Query: "distance(location,geopoint(45.1848948054053,-95.9776427090496))&lt;8093" ; Times: 1
+	Query: "Acanthurus nigricauda mappable:1" ; Times: 4
+	Query: "31224" ; Times: 1
+	Query: "mammoth" ; Times: 1
+	Query: "cas 90566" ; Times: 1
+	Query: "Pterygoplichthys" ; Times: 2
+	Query: "LACM Spear" ; Times: 1
+	Query: "Teuthis crestonis mappable:1" ; Times: 1
+	Query: "zmuc" ; Times: 1
+	Query: "Lebiasina bimaculata" ; Times: 2
+	Query: "Acanthurus mata" ; Times: 5
+	Query: "catalognumber:92 institutioncode:CAS" ; Times: 2
+	Query: "Acanthurus bahianus" ; Times: 3
+	Query: "catalognumber:6882" ; Times: 2
+	Query: "atractosteus tropicus" ; Times: 22
+	Query: "Acanthurus triostegus triostegus" ; Times: 1
+	Query: "family:Synanceiidae" ; Times: 1
+	Query: "Typhlobelus ternetzi" ; Times: 1
+	Query: "Carnegie museum" ; Times: 1
+	Query: "Hydrophis institutioncode:CAS" ; Times: 1
+	Query: "70533" ; Times: 1
+	Query: "50785" ; Times: 1
+	Query: "Xesurus punctatus mappable:1" ; Times: 1
+	Query: "Labrichthys unilineatus" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 54 (out of 1169 download events in this period)
+Total number of records downloaded: 18356
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: United States ; Times: 30
+	Country: Mexico ; Times: 10
+	Country: Panama ; Times: 2
+	Country: United Kingdom ; Times: 1
+	Country: Ecuador ; Times: 9
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-06-01 ; Times: 5
+	Date: 2018-06-06 ; Times: 3
+	Date: 2018-06-05 ; Times: 6
+	Date: 2018-06-07 ; Times: 8
+	Date: 2018-06-11 ; Times: 2
+	Date: 2018-06-12 ; Times: 1
+	Date: 2018-06-04 ; Times: 3
+	Date: 2018-06-29 ; Times: 2
+	Date: 2018-06-16 ; Times: 1
+	Date: 2018-06-19 ; Times: 10
+	Date: 2018-06-18 ; Times: 5
+	Date: 2018-06-14 ; Times: 2
+	Date: 2018-06-27 ; Times: 1
+	Date: 2018-06-21 ; Times: 1
+	Date: 2018-06-30 ; Times: 1
+	Date: 2018-06-08 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "sea otter" ; Times: 2
+	Query: "county:&#34;pierce&#34; stateprovince:&#34;washington&#34; continent:North America" ; Times: 1
+	Query: "stateprovince:&#34;california&#34; recordedby:hubbs year &gt;= 1948 year &lt;= 1948" ; Times: 1
+	Query: "Scomberomorus sierra" ; Times: 1
+	Query: "county:&#34;san luis obispo&#34; recordedby:hubbs year &gt;= 1948 year &lt;= 1948" ; Times: 1
+	Query: "Prochilodus lineatus" ; Times: 1
+	Query: "Mycteroperca rosacea" ; Times: 1
+	Query: "panda" ; Times: 1
+	Query: "whale shark" ; Times: 1
+	Query: "Salminus brasiliensis" ; Times: 1
+	Query: "koala" ; Times: 1
+	Query: "sphoeroides parvus vntype:specimen" ; Times: 1
+	Query: "Mycteroperca jordani" ; Times: 1
+	Query: "Labeo rohita" ; Times: 1
+	Query: "Cutthroat Trout" ; Times: 2
+	Query: "Pterygoplichthys" ; Times: 2
+	Query: "lingcod" ; Times: 1
+	Query: "moose" ; Times: 1
+	Query: "Mountain Beaver" ; Times: 1
+	Query: "elephant" ; Times: 1
+	Query: "oregon" ; Times: 1
+	Query: "Seriola lalandi" ; Times: 1
+	Query: "stateprovince:&#34;california&#34; recordedby:snyder year &gt;= 1909 year &lt;= 1909" ; Times: 1
+	Query: "country:&#34;Ecuador&#34;" ; Times: 9
+	Query: "chihuahua" ; Times: 2
+	Query: "Mycteroperca xenarcha" ; Times: 1
+	Query: "coyote" ; Times: 1
+	Query: "pterois volitans" ; Times: 1
+	Query: "penguin" ; Times: 2
+	Query: "atractosteus tropicus" ; Times: 1
+	Query: "Mycteroperca pardalis" ; Times: 1
+	Query: "sea turtle" ; Times: 1
+	Query: "hasmass:1" ; Times: 1
+	Query: "rainbow trout" ; Times: 2
+	Query: "pigeon guillemot" ; Times: 1
+	Query: "alces alces" ; Times: 1
+	Query: "&#34;Malapterurus beninensis&#34;" ; Times: 1
+	Query: "golden trout" ; Times: 1
+	Query: "orca" ; Times: 2
+
+
+End of report.
