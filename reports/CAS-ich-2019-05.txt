@@ -1,0 +1,1194 @@
+Report for Institution Code CAS, Resource ich
+Usage stats for May 2019, generated on 2019/06/05
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 2954
+Number of records retrieved in searches: 28654
+Number of different countries where searches have been originated: 30
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 30
+	Country: Canada ; Times: 2
+	Country: Italy ; Times: 11
+	Country: Unknown ; Times: 5
+	Country: Panama ; Times: 3
+	Country: Micronesia ; Times: 1
+	Country: France ; Times: 1768
+	Country: Peru ; Times: 1
+	Country: Argentina ; Times: 1
+	Country: Venezuela ; Times: 1
+	Country: Singapore ; Times: 1
+	Country: Norway ; Times: 1
+	Country: Germany ; Times: 9
+	Country: Chile ; Times: 1
+	Country: Belgium ; Times: 8
+	Country: China ; Times: 1
+	Country: Dominican Republic ; Times: 1
+	Country: Netherlands ; Times: 1
+	Country: Denmark ; Times: 1
+	Country: United States ; Times: 620
+	Country: New Zealand ; Times: 357
+	Country: Russia ; Times: 3
+	Country: Portugal ; Times: 40
+	Country: Mexico ; Times: 13
+	Country: India ; Times: 3
+	Country: United Kingdom ; Times: 54
+	Country: Malaysia ; Times: 1
+	Country: Greece ; Times: 11
+	Country: Japan ; Times: 4
+	Country: Comoros ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-05-30 ; Times: 5
+	Date: 2019-05-31 ; Times: 10
+	Date: 2019-05-09 ; Times: 13
+	Date: 2019-05-08 ; Times: 7
+	Date: 2019-05-07 ; Times: 10
+	Date: 2019-05-06 ; Times: 370
+	Date: 2019-05-05 ; Times: 3
+	Date: 2019-05-04 ; Times: 3
+	Date: 2019-05-03 ; Times: 18
+	Date: 2019-05-02 ; Times: 3
+	Date: 2019-05-01 ; Times: 6
+	Date: 2019-05-25 ; Times: 486
+	Date: 2019-05-24 ; Times: 161
+	Date: 2019-05-27 ; Times: 133
+	Date: 2019-05-26 ; Times: 434
+	Date: 2019-05-21 ; Times: 27
+	Date: 2019-05-20 ; Times: 22
+	Date: 2019-05-23 ; Times: 729
+	Date: 2019-05-22 ; Times: 190
+	Date: 2019-05-29 ; Times: 118
+	Date: 2019-05-28 ; Times: 21
+	Date: 2019-05-18 ; Times: 1
+	Date: 2019-05-10 ; Times: 9
+	Date: 2019-05-11 ; Times: 1
+	Date: 2019-05-12 ; Times: 1
+	Date: 2019-05-13 ; Times: 16
+	Date: 2019-05-14 ; Times: 11
+	Date: 2019-05-15 ; Times: 56
+	Date: 2019-05-16 ; Times: 62
+	Date: 2019-05-17 ; Times: 28
+
+List of queries that retrieved data from the resource: 
+	Query: "taeniatus peru" ; Times: 1
+	Query: "Etmopterus molleri" ; Times: 1
+	Query: "scarus compressus" ; Times: 1
+	Query: "fieldnumber:RMB" ; Times: 1
+	Query: "Mustelus norrisi" ; Times: 1
+	Query: "217679" ; Times: 1
+	Query: "Bythaelurus giddingsi" ; Times: 1
+	Query: "Mustelus mustelus" ; Times: 1
+	Query: "catalognumber:224998 institutioncode:CAS" ; Times: 2
+	Query: "Aetobatus flagellum" ; Times: 1
+	Query: "Pseudocarcharias kamoharai" ; Times: 1
+	Query: "Malacoctenus versicolor mappable:1" ; Times: 10
+	Query: "Nicholsina usta usta mappable:1" ; Times: 3
+	Query: "Auxis rochei rochei mappable:1" ; Times: 1
+	Query: "47124" ; Times: 26
+	Query: "Entomacrodus nigricans mappable:1" ; Times: 1
+	Query: "Malacocephalus occidentalis mappable:1" ; Times: 1
+	Query: "Etmopterus granulosus" ; Times: 1
+	Query: "Torpedo fuscomaculata" ; Times: 1
+	Query: "catalognumber:200720 institutioncode:CAS" ; Times: 10
+	Query: "Ariomma regulus mappable:1" ; Times: 1
+	Query: "Tylosurus acus acus mappable:1" ; Times: 20
+	Query: "Sphyrna corona" ; Times: 1
+	Query: "catalognumber:53893" ; Times: 1
+	Query: "Holocentrus rufus mappable:1" ; Times: 11
+	Query: "catalognumber:219643 institutioncode:CAS" ; Times: 4
+	Query: "Etmopterus splendidus" ; Times: 1
+	Query: "Calamus pennatula mappable:1" ; Times: 2
+	Query: "Rhinoraja longicauda" ; Times: 1
+	Query: "Raja clavata" ; Times: 1
+	Query: "Strongylura timucu mappable:1" ; Times: 1
+	Query: "Lactophrys bicaudalis mappable:1" ; Times: 3
+	Query: "catalognumber:227294 institutioncode:CAS" ; Times: 2
+	Query: "Larimus breviceps mappable:1" ; Times: 2
+	Query: "Negaprion acutidens" ; Times: 1
+	Query: "33255" ; Times: 1
+	Query: "Torpedo sinuspersici" ; Times: 1
+	Query: "Squatina argentina" ; Times: 1
+	Query: "Astrapogon puncticulatus mappable:1" ; Times: 3
+	Query: "Hydrolagus mirabilis" ; Times: 1
+	Query: "requena peru" ; Times: 1
+	Query: "catalognumber:200951 institutioncode:CAS" ; Times: 4
+	Query: "Kolombangara" ; Times: 1
+	Query: "Rouleina maderensis" ; Times: 1
+	Query: "Kaupichthys nuchalis mappable:1" ; Times: 17
+	Query: "Diplospinus multistriatus mappable:1" ; Times: 1
+	Query: "Bathyraja parmifera" ; Times: 1
+	Query: "Carcharhinus dussumieri" ; Times: 1
+	Query: "Euleptorhamphus velox mappable:1" ; Times: 1
+	Query: "Mustelus griseus" ; Times: 1
+	Query: "Syngnathus pelagicus mappable:1" ; Times: 3
+	Query: "Gymnura poecilura" ; Times: 1
+	Query: "Mustelus manazo" ; Times: 1
+	Query: "Dugan" ; Times: 1
+	Query: "Cynoscion jamaicensis mappable:1" ; Times: 2
+	Query: "Anchoa lyolepis mappable:1" ; Times: 1
+	Query: "Lampris guttatus mappable:1" ; Times: 1
+	Query: "Pristiophorus nudipinnis" ; Times: 1
+	Query: "Plesiobatis daviesi" ; Times: 1
+	Query: "Platyrhina sinensis" ; Times: 1
+	Query: "Scyliorhinus hesperius" ; Times: 1
+	Query: "catalognumber:15296 institutioncode:CAS" ; Times: 1
+	Query: "Hydrolagus africanus" ; Times: 1
+	Query: "Hydrolagus mitsukurii" ; Times: 1
+	Query: "catalognumber:219515 institutioncode:CAS" ; Times: 2
+	Query: "Pellona flavipinnis PERU" ; Times: 2
+	Query: "Panda" ; Times: 1
+	Query: "Mustelus canis mappable:1" ; Times: 2
+	Query: "Sympterygia bonapartii" ; Times: 1
+	Query: "18 PERU" ; Times: 1
+	Query: "Carcharhinus acronotus mappable:1" ; Times: 21
+	Query: "Glyphis glyphis" ; Times: 1
+	Query: "Etmopterus joungi" ; Times: 1
+	Query: "Mustelus canis" ; Times: 1
+	Query: "catalognumber:205718 institutioncode:CAS" ; Times: 4
+	Query: "Apogon townsendi mappable:1" ; Times: 20
+	Query: "Chromis multilineata mappable:1" ; Times: 3
+	Query: "catalognumber:227236 institutioncode:CAS" ; Times: 2
+	Query: "catalognumber:202864 institutioncode:CAS" ; Times: 5
+	Query: "Rhizoprionodon oligolinx" ; Times: 1
+	Query: "manta birostris" ; Times: 1
+	Query: "Pseudogramma gregoryi mappable:1" ; Times: 5
+	Query: "catalognumber:203134 institutioncode:CAS" ; Times: 2
+	Query: "CNHM" ; Times: 1
+	Query: "Pontinus castor mappable:1" ; Times: 1
+	Query: "Hemiramphus brasiliensis mappable:1" ; Times: 1
+	Query: "California moray" ; Times: 1
+	Query: "catalognumber:219577 institutioncode:CAS" ; Times: 2
+	Query: "Haemulon aurolineatum mappable:1" ; Times: 14
+	Query: "Kryptophanaron alfredi mappable:1" ; Times: 21
+	Query: "Bythaelurus naylori" ; Times: 1
+	Query: "Micrognathus crinitus mappable:1" ; Times: 1
+	Query: "Himantura leoparda" ; Times: 1
+	Query: "Acestrorhynchus falcatus" ; Times: 1
+	Query: "Torpedo mackayana" ; Times: 1
+	Query: "catalognumber:218615 institutioncode:CAS" ; Times: 2
+	Query: "Catostomus platyrhynchus" ; Times: 1
+	Query: "Carcharhinus sorrah" ; Times: 1
+	Query: "Isurus oxyrinchus" ; Times: 1
+	Query: "Haemulon bonariense mappable:1" ; Times: 2
+	Query: "catalognumber:17265 institutioncode:CAS" ; Times: 1
+	Query: "Starksia atlantica mappable:1" ; Times: 10
+	Query: "Hemipristis elongata" ; Times: 1
+	Query: "Zapteryx xyster" ; Times: 1
+	Query: "24880" ; Times: 1
+	Query: "Sphyrna lewini" ; Times: 1
+	Query: "Priacanthus arenatus mappable:1" ; Times: 3
+	Query: "Opisthonema oglinum mappable:1" ; Times: 1
+	Query: "Psammobatis bergi" ; Times: 1
+	Query: "catalognumber:202877 institutioncode:CAS" ; Times: 4
+	Query: "Hypoplectrus nigricans mappable:1" ; Times: 6
+	Query: "Carcharhinus brevipinna" ; Times: 1
+	Query: "43627" ; Times: 1
+	Query: "Pristis pectinata" ; Times: 1
+	Query: "Etmopterus bigelowi" ; Times: 1
+	Query: "Sympterygia lima" ; Times: 1
+	Query: "Urotrygon munda" ; Times: 1
+	Query: "arizona elegans" ; Times: 1
+	Query: "catalognumber:227100 institutioncode:CAS" ; Times: 3
+	Query: "Selene vomer mappable:1" ; Times: 2
+	Query: "Mustelus higmani" ; Times: 1
+	Query: "Mustelus mosis" ; Times: 1
+	Query: "Redfish" ; Times: 1
+	Query: "Mustelus californicus" ; Times: 1
+	Query: "Deania hystricosa" ; Times: 1
+	Query: "Serranus baldwini mappable:1" ; Times: 1
+	Query: "Myrichthys ocellatus mappable:1" ; Times: 10
+	Query: "catalognumber:219542 institutioncode:CAS" ; Times: 2
+	Query: "Halaelurus natalensis" ; Times: 1
+	Query: "24 PERU" ; Times: 1
+	Query: "catalognumber:205818 institutioncode:CAS" ; Times: 2
+	Query: "Upeneus parvus mappable:1" ; Times: 2
+	Query: "Squatina squatina" ; Times: 1
+	Query: "Cynoponticus savanna mappable:1" ; Times: 1
+	Query: "Chromis cyanea mappable:1" ; Times: 2
+	Query: "Serranus tabacarius mappable:1" ; Times: 2
+	Query: "Bathyraja interrupta" ; Times: 1
+	Query: "Eridacnis radcliffei" ; Times: 1
+	Query: "Apristurus herklotsi" ; Times: 1
+	Query: "Cetorhinus maximus" ; Times: 3
+	Query: "Lutjanus analis mappable:1" ; Times: 11
+	Query: "Gymnura crebripunctata" ; Times: 1
+	Query: "11225" ; Times: 1
+	Query: "Squalus suckleyi" ; Times: 1
+	Query: "Trachinotus goodei mappable:1" ; Times: 1
+	Query: "Centropomus parallelus mappable:1" ; Times: 1
+	Query: "9 PERU" ; Times: 1
+	Query: "Carcharhinus amblyrhynchos" ; Times: 1
+	Query: "catalognumber:226797 institutioncode:CAS" ; Times: 3
+	Query: "gbifdatasetid:5d6c10bd-ea31-4363-8b79-58c96d859f5b" ; Times: 1
+	Query: "catalognumber:204829 institutioncode:CAS" ; Times: 2
+	Query: "Caranx latus mappable:1" ; Times: 2
+	Query: "catalognumber:227074 institutioncode:CAS" ; Times: 2
+	Query: "Gymnura micrura" ; Times: 1
+	Query: "squalus acanthias" ; Times: 2
+	Query: "Hypomesus transpacificus" ; Times: 2
+	Query: "Urolophus aurantiacus" ; Times: 1
+	Query: "Rhinoraja kujiensis" ; Times: 1
+	Query: "17610" ; Times: 1
+	Query: "catalognumber:200265 institutioncode:CAS" ; Times: 5
+	Query: "Cyprinus carpio" ; Times: 2
+	Query: "Nessorhamphus ingolfianus" ; Times: 1
+	Query: "Centroscyllium fabricii" ; Times: 1
+	Query: "Gempylus serpens mappable:1" ; Times: 1
+	Query: "Myliobatis tobijei" ; Times: 1
+	Query: "Scylliogaleus quecketti" ; Times: 1
+	Query: "Chaetodon capistratus mappable:1" ; Times: 12
+	Query: "46899" ; Times: 1
+	Query: "Deania quadrispinosa" ; Times: 1
+	Query: "catalognumber:227324 institutioncode:CAS" ; Times: 2
+	Query: "Dipturus gigas" ; Times: 1
+	Query: "Gymnura altavela" ; Times: 1
+	Query: "Gymnothorax ocellatus mappable:1" ; Times: 1
+	Query: "locality:Rongerik country:&#34;Marshall Islands&#34;" ; Times: 1
+	Query: "20 PERU" ; Times: 1
+	Query: "Scoliodon laticaudus" ; Times: 1
+	Query: "Cichla ocellaris Peru" ; Times: 4
+	Query: "Rajella eisenhardti" ; Times: 1
+	Query: "Dipturus kwangtungensis" ; Times: 1
+	Query: "Paragaleus tengi" ; Times: 1
+	Query: "Alopias superciliosus" ; Times: 1
+	Query: "scientificname:(Catostomus commersonii OR Catostomus commersoni OR Catostomus commersonnii) country:United States mappable:1" ; Times: 1
+	Query: "Pastinachus solocirostris" ; Times: 1
+	Query: "Salmo roosevelti" ; Times: 2
+	Query: "Peprilus paru mappable:1" ; Times: 1
+	Query: "Scarus guacamaia mappable:1" ; Times: 4
+	Query: "Triakis maculata" ; Times: 1
+	Query: "catalognumber:238436 institutioncode:CAS" ; Times: 2
+	Query: "catalognumber:218285 institutioncode:CAS" ; Times: 2
+	Query: "Labrisomus nuchipinnis mappable:1" ; Times: 12
+	Query: "Etmopterus virens" ; Times: 1
+	Query: "Oxynotus caribbaeus" ; Times: 1
+	Query: "Sparisoma radians mappable:1" ; Times: 4
+	Query: "Jenkinsia majua mappable:1" ; Times: 1
+	Query: "Raja equatorialis" ; Times: 1
+	Query: "Centroscyllium ritteri" ; Times: 1
+	Query: "Paraclinus nigripinnis mappable:1" ; Times: 10
+	Query: "Serranus tigrinus mappable:1" ; Times: 2
+	Query: "catalognumber:227234 institutioncode:CAS" ; Times: 3
+	Query: "catalognumber:205967 institutioncode:CAS" ; Times: 2
+	Query: "Emblemaria pandionis mappable:1" ; Times: 20
+	Query: "Carcharhinus falciformis mappable:1" ; Times: 2
+	Query: "Epinephelus adscensionis mappable:1" ; Times: 6
+	Query: "Centroscymnus coelolepis" ; Times: 1
+	Query: "Hexatrygon bickelli" ; Times: 1
+	Query: "Galeus piperatus" ; Times: 1
+	Query: "208078" ; Times: 1
+	Query: "Hydrolagus colliei" ; Times: 1
+	Query: "specificepithet:guttatus genus:imparfinis" ; Times: 1
+	Query: "Clepticus parrae mappable:1" ; Times: 11
+	Query: "Carcharhinus leucas mappable:1" ; Times: 2
+	Query: "Sphoeroides spengleri mappable:1" ; Times: 3
+	Query: "Scoliodon macrorhynchos" ; Times: 1
+	Query: "Chilomycterus antennatus mappable:1" ; Times: 17
+	Query: "Gramma loreto mappable:1" ; Times: 15
+	Query: "Rhizoprionodon longurio" ; Times: 1
+	Query: "Chiloscyllium punctatum" ; Times: 1
+	Query: "catalognumber:227226 institutioncode:CAS" ; Times: 2
+	Query: "Hypoplectrus unicolor mappable:1" ; Times: 6
+	Query: "catalognumber:219420 institutioncode:CAS" ; Times: 2
+	Query: "Epinephelus morio mappable:1" ; Times: 7
+	Query: "catalognumber:227076 institutioncode:CAS" ; Times: 2
+	Query: "Chimaera monstrosa" ; Times: 1
+	Query: "catalognumber:237645 institutioncode:CAS" ; Times: 2
+	Query: "235747" ; Times: 1
+	Query: "Centropyge argi mappable:1" ; Times: 2
+	Query: "Apsilus dentatus mappable:1" ; Times: 2
+	Query: "Etmopterus lucifer" ; Times: 1
+	Query: "Rypticus saponaceus mappable:1" ; Times: 2
+	Query: "Corvula batabana mappable:1" ; Times: 4
+	Query: "13200 AMNH" ; Times: 1
+	Query: "catalognumber:205215 institutioncode:CAS" ; Times: 2
+	Query: "elephant" ; Times: 1
+	Query: "202492" ; Times: 1
+	Query: "Pristis microdon" ; Times: 1
+	Query: "catalognumber:61811 institutioncode:CAS" ; Times: 2
+	Query: "catalognumber:224187 institutioncode:CAS" ; Times: 2
+	Query: "Lutjanus cyanopterus mappable:1" ; Times: 11
+	Query: "catalognumber:200721 institutioncode:CAS" ; Times: 4
+	Query: "Gila chub" ; Times: 2
+	Query: "crossorhombus azureus" ; Times: 11
+	Query: "ptarmigan" ; Times: 2
+	Query: "Caranx ruber mappable:1" ; Times: 2
+	Query: "Hexanchus griseus" ; Times: 1
+	Query: "catalognumber:205919 institutioncode:CAS" ; Times: 2
+	Query: "Mustelus fasciatus" ; Times: 1
+	Query: "Plectrypops retrospinis mappable:1" ; Times: 11
+	Query: "Lactophrys trigonus mappable:1" ; Times: 2
+	Query: "Squaliolus aliae" ; Times: 1
+	Query: "59408" ; Times: 1
+	Query: "Galeus polli" ; Times: 1
+	Query: "Rhinoptera bonasus" ; Times: 1
+	Query: "Trygonorrhina fasciata" ; Times: 1
+	Query: "Gurgesiella furvescens" ; Times: 1
+	Query: "Pagrus major" ; Times: 9
+	Query: "Pristiophorus cirratus" ; Times: 1
+	Query: "Carcharhinus limbatus mappable:1" ; Times: 3
+	Query: "Creagrutus barrigai Peru" ; Times: 4
+	Query: "Etelis oculatus mappable:1" ; Times: 2
+	Query: "Katsuwonus pelamis  mappable:1" ; Times: 2
+	Query: "locality:Malaysia" ; Times: 1
+	Query: "catalognumber:203353 institutioncode:CAS" ; Times: 2
+	Query: "Himantura uarnak" ; Times: 1
+	Query: "fungi" ; Times: 1
+	Query: "Alectis ciliaris mappable:1" ; Times: 2
+	Query: "Urotrygon chilensis" ; Times: 1
+	Query: "Zameus squamulosus" ; Times: 1
+	Query: "Raja velezi" ; Times: 1
+	Query: "Bathyraja trachura" ; Times: 1
+	Query: "Rhinobatos formosensis" ; Times: 1
+	Query: "Galeocerdo cuvier" ; Times: 1
+	Query: "83059" ; Times: 1
+	Query: "Auxis thazard thazard mappable:1" ; Times: 1
+	Query: "Squatina caillieti" ; Times: 1
+	Query: "Nealotus tripes mappable:1" ; Times: 1
+	Query: "Haemulon album mappable:1" ; Times: 16
+	Query: "catalognumber:219645 institutioncode:CAS" ; Times: 2
+	Query: "Urogymnus asperrimus" ; Times: 1
+	Query: "catalognumber:227291 institutioncode:CAS" ; Times: 6
+	Query: "84999" ; Times: 1
+	Query: "catalognumber:205659 institutioncode:CAS" ; Times: 2
+	Query: "Orectolobus ornatus" ; Times: 1
+	Query: "21 PERU" ; Times: 1
+	Query: "Catostomus lahontan stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "catalognumber:225001 institutioncode:CAS" ; Times: 2
+	Query: "Chiloscyllium hasseltii" ; Times: 1
+	Query: "Gymnura zonura" ; Times: 1
+	Query: "Carcharhinus sealei" ; Times: 1
+	Query: "Diodon hystrix mappable:1" ; Times: 17
+	Query: "catalognumber:229254 institutioncode:CAS" ; Times: 2
+	Query: "Rhizoprionodon porosus" ; Times: 1
+	Query: "Zapteryx brevirostris" ; Times: 1
+	Query: "catalognumber:219427 institutioncode:CAS" ; Times: 2
+	Query: "Hippocampus breviceps" ; Times: 1
+	Query: "catalognumber:220885 institutioncode:CAS" ; Times: 2
+	Query: "Triakis scyllium" ; Times: 1
+	Query: "notropis saladonis" ; Times: 1
+	Query: "Rhinobatos schlegelii" ; Times: 1
+	Query: "Odontoscion dentex mappable:1" ; Times: 1
+	Query: "cla" ; Times: 1
+	Query: "Guatemala" ; Times: 1
+	Query: "Heterodontus mexicanus" ; Times: 1
+	Query: "Bathyraja abyssicola" ; Times: 1
+	Query: "Bairdiella ronchus mappable:1" ; Times: 2
+	Query: "225710" ; Times: 1
+	Query: "Mullus surmuletus mappable:1" ; Times: 2
+	Query: "Epinephelus guttatus mappable:1" ; Times: 6
+	Query: "UNAM" ; Times: 1
+	Query: "33485" ; Times: 1
+	Query: "31934" ; Times: 1
+	Query: "Mulloidichthys martinicus mappable:1" ; Times: 2
+	Query: "Eucyclogobius newberryi" ; Times: 2
+	Query: "Bathyraja maculata" ; Times: 1
+	Query: "scarus perrico" ; Times: 1
+	Query: "Oxynotus centrina" ; Times: 3
+	Query: "Antennarius multiocellatus mappable:1" ; Times: 3
+	Query: "217680" ; Times: 2
+	Query: "Carcharhinus longimanus" ; Times: 1
+	Query: "Urotrygon aspidura" ; Times: 1
+	Query: "Neoharriotta carri" ; Times: 1
+	Query: "catalognumber:214280 institutioncode:CAS" ; Times: 2
+	Query: "Orectolobus maculatus" ; Times: 1
+	Query: "88258" ; Times: 1
+	Query: "Aphanius fasciatus" ; Times: 1
+	Query: "catalognumber:228089 institutioncode:CAS" ; Times: 2
+	Query: "catalognumber:202992 institutioncode:CAS" ; Times: 4
+	Query: "17485" ; Times: 1
+	Query: "Bathyraja bergi" ; Times: 1
+	Query: "Cheilopogon cyanopterus mappable:1" ; Times: 1
+	Query: "catalognumber:227126 institutioncode:CAS" ; Times: 2
+	Query: "Pomacanthus paru mappable:1" ; Times: 3
+	Query: "Hypoplectrus aberrans mappable:1" ; Times: 5
+	Query: "Rhinochimaera pacifica" ; Times: 1
+	Query: "Diplobatis ommata" ; Times: 1
+	Query: "Gogolia filewoodi" ; Times: 1
+	Query: "Prionace glauca mappable:1" ; Times: 2
+	Query: "Parmaturus xaniurus" ; Times: 1
+	Query: "Malacocephalus laevis mappable:1" ; Times: 1
+	Query: "Symphysodon discus" ; Times: 1
+	Query: "catalognumber:212995 institutioncode:CAS" ; Times: 2
+	Query: "Benthobatis yangi" ; Times: 1
+	Query: "Sphyraena barracuda mappable:1" ; Times: 1
+	Query: "Squalus megalops" ; Times: 1
+	Query: "Urolophus halleri" ; Times: 1
+	Query: "catalognumber:204229 institutioncode:CAS" ; Times: 2
+	Query: "Seriola rivoliana mappable:1" ; Times: 2
+	Query: "SCARUS COMPRESSUS" ; Times: 1
+	Query: "Squalus formosus" ; Times: 1
+	Query: "Coryphaena equiselis mappable:1" ; Times: 1
+	Query: "ctenogobius" ; Times: 2
+	Query: "Raja rhina" ; Times: 1
+	Query: "Caranx crysos mappable:1" ; Times: 2
+	Query: "catalognumber:224192 institutioncode:CAS" ; Times: 2
+	Query: "Neotrygon kuhlii" ; Times: 1
+	Query: "Scyliorhinus torrei" ; Times: 1
+	Query: "catalognumber:205633 institutioncode:CAS" ; Times: 2
+	Query: "scientificname:(Notropis heterolepis) country:United States mappable:1" ; Times: 1
+	Query: "cas 74404" ; Times: 1
+	Query: "Bodianus pulchellus mappable:1" ; Times: 11
+	Query: "Chiloscyllium plagiosum" ; Times: 1
+	Query: "Bathysaurus ferox" ; Times: 3
+	Query: "Bull Trout" ; Times: 24
+	Query: "Pristiophorus japonicus" ; Times: 1
+	Query: "Aulostomus maculatus mappable:1" ; Times: 23
+	Query: "Halichoeres bivittatus mappable:1" ; Times: 11
+	Query: "catalognumber:206180 institutioncode:CAS" ; Times: 2
+	Query: "Astyanax bimaculatus mappable:1" ; Times: 1
+	Query: "catalognumber:206137 institutioncode:CAS" ; Times: 4
+	Query: "scientificname:(Salmo salar) country:United States mappable:1" ; Times: 1
+	Query: "Harriotta raleighana" ; Times: 2
+	Query: "Psammobatis scobina" ; Times: 1
+	Query: "Malacoctenus delalandii mappable:1" ; Times: 2
+	Query: "ritae vntype:specimen" ; Times: 1
+	Query: "Taeniura lymma" ; Times: 1
+	Query: "Engyprosopon" ; Times: 1
+	Query: "Squalus cubensis mappable:1" ; Times: 2
+	Query: "catalognumber:237656 institutioncode:CAS" ; Times: 4
+	Query: "Gymnothorax funebris mappable:1" ; Times: 1
+	Query: "monster" ; Times: 2
+	Query: "catalognumber:202860 institutioncode:CAS" ; Times: 4
+	Query: "catalognumber:227043 institutioncode:CAS" ; Times: 2
+	Query: "Harengula humeralis mappable:1" ; Times: 1
+	Query: "Narke capensis" ; Times: 1
+	Query: "Pristipomoides aquilonaris mappable:1" ; Times: 2
+	Query: "catalognumber:219526 institutioncode:CAS" ; Times: 2
+	Query: "Opistognathus aurifrons mappable:1" ; Times: 4
+	Query: "catalognumber:227235 institutioncode:CAS" ; Times: 2
+	Query: "22 PERU" ; Times: 1
+	Query: "Gillellus greyae mappable:1" ; Times: 17
+	Query: "Pristis perotteti" ; Times: 1
+	Query: "Anchoviella perfasciata mappable:1" ; Times: 1
+	Query: "Danaphryne nigrifilis" ; Times: 1
+	Query: "catalognumber:227047 institutioncode:CAS" ; Times: 2
+	Query: "Antennarius striatus mappable:1" ; Times: 1
+	Query: "catalognumber:227237 institutioncode:CAS" ; Times: 2
+	Query: "Haemulon plumierii mappable:1" ; Times: 11
+	Query: "Thunnus albacares mappable:1" ; Times: 2
+	Query: "Pristiophorus lanae" ; Times: 1
+	Query: "Alphestes afer mappable:1" ; Times: 9
+	Query: "scarus rubroviolaceus" ; Times: 1
+	Query: "catalognumber:224930 institutioncode:CAS" ; Times: 2
+	Query: "catalognumber:219666 institutioncode:CAS" ; Times: 2
+	Query: "catalognumber:213134 institutioncode:CAS" ; Times: 2
+	Query: "Centroscyllium excelsum" ; Times: 1
+	Query: "Narcine entemedor" ; Times: 1
+	Query: "Narcine timlei" ; Times: 1
+	Query: "Harengula clupeola mappable:1" ; Times: 1
+	Query: "Hymenocephalus italicus mappable:1" ; Times: 1
+	Query: "Atherinomorus stipes mappable:1" ; Times: 1
+	Query: "Ablennes hians mappable:1" ; Times: 1
+	Query: "Lepidocybium flavobrunneum mappable:1" ; Times: 1
+	Query: "Isistius brasiliensis" ; Times: 1
+	Query: "Mola mola mappable:1" ; Times: 1
+	Query: "Nezumia aequalis mappable:1" ; Times: 1
+	Query: "catalognumber:219538 institutioncode:CAS" ; Times: 2
+	Query: "Centrophorus atromarginatus" ; Times: 1
+	Query: "Haemulon plumieri mappable:1" ; Times: 1
+	Query: "catalognumber:203384 institutioncode:CAS" ; Times: 3
+	Query: "Tylosurus crocodilus crocodilus mappable:1" ; Times: 19
+	Query: "Gymnura tentaculata" ; Times: 1
+	Query: "Anisotremus surinamensis mappable:1" ; Times: 2
+	Query: "Centropomus pectinatus mappable:1" ; Times: 1
+	Query: "Dalatias licha" ; Times: 1
+	Query: "catalognumber:227227 institutioncode:CAS" ; Times: 2
+	Query: "Stegastes partitus mappable:1" ; Times: 3
+	Query: "Carcharhinus borneensis" ; Times: 1
+	Query: "catalognumber:205376 institutioncode:CAS" ; Times: 2
+	Query: "Chiloscyllium indicum" ; Times: 1
+	Query: "Sparisoma chrysopterum mappable:1" ; Times: 7
+	Query: "bird eggs" ; Times: 1
+	Query: "Squalus cubensis" ; Times: 1
+	Query: "Narcine brasiliensis" ; Times: 1
+	Query: "cetorhinus" ; Times: 3
+	Query: "Prionace glauca" ; Times: 3
+	Query: "Ginglymostoma cirratum" ; Times: 1
+	Query: "Etelis" ; Times: 2
+	Query: "Lobotes surinamensis mappable:1" ; Times: 1
+	Query: "catalognumber:205765 institutioncode:CAS" ; Times: 2
+	Query: "Harengula jaguana mappable:1" ; Times: 1
+	Query: "Cruriraja parcomaculata" ; Times: 1
+	Query: "10408" ; Times: 1
+	Query: "Deania profundorum" ; Times: 1
+	Query: "Balistes capriscus mappable:1" ; Times: 19
+	Query: "catalognumber:237205 institutioncode:CAS" ; Times: 2
+	Query: "Psammobatis rudis" ; Times: 1
+	Query: "Bodianus rufus mappable:1" ; Times: 11
+	Query: "Calamus penna mappable:1" ; Times: 2
+	Query: "Makaira nigricans  mappable:1" ; Times: 2
+	Query: "Rhynchobatus springeri" ; Times: 1
+	Query: "Heterodontus francisci" ; Times: 1
+	Query: "Etmopterus brachyurus" ; Times: 1
+	Query: "catalognumber:226770 institutioncode:CAS" ; Times: 2
+	Query: "Oncorhynchus gilberti" ; Times: 2
+	Query: "Scyliorhinus boa" ; Times: 1
+	Query: "Urotrygon nana" ; Times: 1
+	Query: "Xyrichtys novacula mappable:1" ; Times: 11
+	Query: "Hippocampus reidi mappable:1" ; Times: 1
+	Query: "Lagocephalus laevigatus mappable:1" ; Times: 1
+	Query: "Heteropriacanthus cruentatus mappable:1" ; Times: 3
+	Query: "catalognumber:205627 institutioncode:CAS" ; Times: 2
+	Query: "Anabas testudineus" ; Times: 1
+	Query: "Acanthurus bahianus mappable:1" ; Times: 23
+	Query: "225763" ; Times: 1
+	Query: "Haemulon macrostomum mappable:1" ; Times: 14
+	Query: "Rhynchobatus australiae" ; Times: 1
+	Query: "Aetomylaeus milvus" ; Times: 1
+	Query: "Somniosus pacificus" ; Times: 1
+	Query: "Sargocentron vexillarium mappable:1" ; Times: 11
+	Query: "Eucinostomus melanopterus mappable:1" ; Times: 1
+	Query: "Scyliorhinus canicula" ; Times: 1
+	Query: "Proscyllium habereri" ; Times: 1
+	Query: "macau" ; Times: 1
+	Query: "country:&#34;singapore&#34;" ; Times: 1
+	Query: "catalognumber:227138 institutioncode:CAS" ; Times: 2
+	Query: "Squalus mitsukurii" ; Times: 1
+	Query: "catalognumber:228212 institutioncode:CAS" ; Times: 2
+	Query: "Ogcocephalus nasutus mappable:1" ; Times: 1
+	Query: "catalognumber:219463 institutioncode:CAS" ; Times: 2
+	Query: "Mustelus sinusmexicanus" ; Times: 1
+	Query: "Gonioplectrus hispanus mappable:1" ; Times: 2
+	Query: "Hexagrammos lagocephalus" ; Times: 1
+	Query: "catalognumber:219429 institutioncode:CAS" ; Times: 2
+	Query: "Centroscyllium nigrum" ; Times: 1
+	Query: "Cephaloscyllium sarawakensis" ; Times: 1
+	Query: "Myrichthys pardalis" ; Times: 1
+	Query: "catalognumber:205246 institutioncode:CAS" ; Times: 2
+	Query: "Centropomus ensiferus mappable:1" ; Times: 1
+	Query: "Hippocampus erectus mappable:1" ; Times: 3
+	Query: "Myliobatis peruvianus" ; Times: 1
+	Query: "Stegastes fuscus mappable:1" ; Times: 2
+	Query: "Crossorhombus kobensis" ; Times: 5
+	Query: "Gymnura marmorata" ; Times: 1
+	Query: "Carcharhinus melanopterus" ; Times: 1
+	Query: "Bathyraja isotrachys" ; Times: 1
+	Query: "Conger triporiceps mappable:1" ; Times: 1
+	Query: "39672" ; Times: 1
+	Query: "Apogon maculatus mappable:1" ; Times: 20
+	Query: "Urotrygon rogersi" ; Times: 1
+	Query: "Stomias affinis mappable:1" ; Times: 1
+	Query: "Sphyrna tiburo" ; Times: 1
+	Query: "catalognumber:205347 institutioncode:CAS" ; Times: 2
+	Query: "Sphyrna mokarran" ; Times: 1
+	Query: "Mustelus lunulatus" ; Times: 1
+	Query: "lily" ; Times: 1
+	Query: "Glyphis gangeticus" ; Times: 1
+	Query: "catalognumber:227223 institutioncode:CAS" ; Times: 3
+	Query: "Squatina californica" ; Times: 1
+	Query: "catalognumber:219439 institutioncode:CAS" ; Times: 2
+	Query: "Miroscyllium sheikoi" ; Times: 1
+	Query: "Heptranchias perlo" ; Times: 1
+	Query: "wynaad" ; Times: 1
+	Query: "callanthias legras" ; Times: 1
+	Query: "scientificname:(Lepisosteus platyrhincus) country:United States mappable:1" ; Times: 1
+	Query: "catalognumber:216642 institutioncode:CAS" ; Times: 5
+	Query: "catalognumber:227295 institutioncode:CAS" ; Times: 2
+	Query: "Chaetodon ocellatus mappable:1" ; Times: 17
+	Query: "Etmopterus alphus" ; Times: 1
+	Query: "scientificname:(Novumbra hubbsi) country:United States mappable:1" ; Times: 1
+	Query: "Rhinobatos rhinobatos" ; Times: 1
+	Query: "Hypoplectrus guttavarius mappable:1" ; Times: 5
+	Query: "Galeocerdo cuvier mappable:1" ; Times: 2
+	Query: "catalognumber:206065 institutioncode:CAS" ; Times: 2
+	Query: "catalognumber:219453 institutioncode:CAS" ; Times: 2
+	Query: "Stegastes planifrons mappable:1" ; Times: 3
+	Query: "catalognumber:226980 institutioncode:CAS" ; Times: 2
+	Query: "Xiphias gladius mappable:1" ; Times: 2
+	Query: "Micropogonias furnieri mappable:1" ; Times: 2
+	Query: "Odontaspis ferox" ; Times: 1
+	Query: "76486" ; Times: 1
+	Query: "Chlamydoselachus anguineus" ; Times: 1
+	Query: "catalognumber:206066 institutioncode:CAS" ; Times: 2
+	Query: "catalognumber:203396 institutioncode:CAS" ; Times: 2
+	Query: "Callorhinchus callorynchus" ; Times: 1
+	Query: "Hexanchus nakamurai" ; Times: 1
+	Query: "Centrophorus squamosus" ; Times: 1
+	Query: "Zapteryx exasperata" ; Times: 1
+	Query: "Eugerres plumieri mappable:1" ; Times: 1
+	Query: "Acanthurus chirurgus mappable:1" ; Times: 22
+	Query: "Zanzibar" ; Times: 1
+	Query: "Sardinella aurita mappable:1" ; Times: 1
+	Query: "Myrichthys breviceps mappable:1" ; Times: 8
+	Query: "catalognumber:203441 institutioncode:CAS" ; Times: 2
+	Query: "Rouleina" ; Times: 2
+	Query: "Dermatolepis inermis mappable:1" ; Times: 7
+	Query: "Lutjanus vivanus mappable:1" ; Times: 11
+	Query: "Raja eglanteria" ; Times: 1
+	Query: "catalognumber:227240 institutioncode:CAS" ; Times: 2
+	Query: "catalognumber:219646 institutioncode:CAS" ; Times: 3
+	Query: "scientificname:(Lepisosteus platostomus) country:United States mappable:1" ; Times: 1
+	Query: "Haemulon carbonarium mappable:1" ; Times: 16
+	Query: "xanthonota" ; Times: 1
+	Query: "catalognumber:228325 institutioncode:CAS" ; Times: 2
+	Query: "Chilomycterus antillarum mappable:1" ; Times: 17
+	Query: "Scorpaenodes caribbaeus mappable:1" ; Times: 5
+	Query: "Cephaloscyllium umbratile" ; Times: 1
+	Query: "catalognumber:202713 institutioncode:CAS" ; Times: 4
+	Query: "Cephalopholis fulva mappable:1" ; Times: 7
+	Query: "catalognumber:219428 institutioncode:CAS" ; Times: 2
+	Query: "23 PERU" ; Times: 1
+	Query: "Stegostoma fasciatum" ; Times: 1
+	Query: "Megalops atlanticus mappable:1" ; Times: 1
+	Query: "Scyliorhinus capensis" ; Times: 1
+	Query: "Myliobatis californica" ; Times: 1
+	Query: "Calamus bajonado mappable:1" ; Times: 2
+	Query: "Sphyrna zygaena mappable:1" ; Times: 2
+	Query: "country:&#34;China&#34;" ; Times: 1
+	Query: "Eucinostomus havana mappable:1" ; Times: 1
+	Query: "benthodesmus" ; Times: 2
+	Query: "Triakis semifasciata" ; Times: 1
+	Query: "Ophichthus ophis mappable:1" ; Times: 4
+	Query: "Salvelinus confluentus" ; Times: 30
+	Query: "Hypoplectrus puella mappable:1" ; Times: 6
+	Query: "locality:not recorded year &gt;= 1900 year &lt;= 1949" ; Times: 1
+	Query: "Apristurus macrostomus" ; Times: 1
+	Query: "Cephaloscyllium ventriosum" ; Times: 1
+	Query: "Alopias pelagicus" ; Times: 1
+	Query: "Megachasma pelagios" ; Times: 1
+	Query: "Rhinoraja odai" ; Times: 1
+	Query: "34130" ; Times: 1
+	Query: "Raja asterias" ; Times: 1
+	Query: "Narcine brunnea" ; Times: 1
+	Query: "country:&#34;Russia&#34;" ; Times: 1
+	Query: "Rhizoprionodon porosus mappable:1" ; Times: 2
+	Query: "Ruvettus pretiosus mappable:1" ; Times: 1
+	Query: "Sphyrna mokarran mappable:1" ; Times: 2
+	Query: "Astrapogon stellatus mappable:1" ; Times: 20
+	Query: "Stephanolepis setifer mappable:1" ; Times: 1
+	Query: "KK 766" ; Times: 1
+	Query: "catalognumber:219457 institutioncode:CAS" ; Times: 2
+	Query: "Diodon holocanthus mappable:1" ; Times: 16
+	Query: "Decapterus macarellus mappable:1" ; Times: 2
+	Query: "catalognumber:203397 institutioncode:CAS" ; Times: 2
+	Query: "catalognumber:219430 institutioncode:CAS" ; Times: 2
+	Query: "Gymnura bimaculata" ; Times: 1
+	Query: "Monopenchelys acuta mappable:1" ; Times: 1
+	Query: "(Gizo OR Ghizo)" ; Times: 1
+	Query: "Mugil trichodon mappable:1" ; Times: 1
+	Query: "Abramis brama" ; Times: 9
+	Query: "Heterodontus japonicus" ; Times: 1
+	Query: "Carcharhinus limbatus" ; Times: 1
+	Query: "Rachycentron canadum mappable:1" ; Times: 1
+	Query: "Fistularia tabacaria mappable:1" ; Times: 1
+	Query: "Eusphyra blochii" ; Times: 1
+	Query: "Doryrhamphus" ; Times: 1
+	Query: "genus:Manta" ; Times: 2
+	Query: "31985" ; Times: 1
+	Query: "Torpedo torpedo" ; Times: 1
+	Query: "catalognumber:214267 institutioncode:CAS" ; Times: 2
+	Query: "Lachnolaimus maximus mappable:1" ; Times: 11
+	Query: "Elagatis bipinnulata mappable:1" ; Times: 2
+	Query: "catalognumber:202888 institutioncode:CAS" ; Times: 5
+	Query: "Sphyraena picudilla mappable:1" ; Times: 1
+	Query: "Apristurus platyrhynchus" ; Times: 1
+	Query: "11 PERU" ; Times: 1
+	Query: "17 PERU" ; Times: 1
+	Query: "Epinephelus striatus mappable:1" ; Times: 7
+	Query: "Malacoctenus macropus mappable:1" ; Times: 10
+	Query: "Gila intermedia" ; Times: 2
+	Query: "Prognathodes aculeatus mappable:1" ; Times: 17
+	Query: "Euthynnus alletteratus mappable:1" ; Times: 2
+	Query: "Pantosteus lahonton stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Gymnothorax moringa mappable:1" ; Times: 1
+	Query: "Lutjanus jocu mappable:1" ; Times: 11
+	Query: "Halichoeres radiatus mappable:1" ; Times: 11
+	Query: "Bathyraja diplotaenia" ; Times: 1
+	Query: "Etmopterus bullisi" ; Times: 1
+	Query: "catalognumber:227233 institutioncode:CAS" ; Times: 2
+	Query: "Deania calcea" ; Times: 1
+	Query: "Serranus phoebe mappable:1" ; Times: 1
+	Query: "catalognumber:227258 institutioncode:CAS" ; Times: 2
+	Query: "Carcharhinus acronotus" ; Times: 1
+	Query: "&#34;Abramis brama&#34;" ; Times: 3
+	Query: "Notoraja tobitukai" ; Times: 1
+	Query: "Raja inornata" ; Times: 1
+	Query: "stateprovince:&#34;Oaxaca&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Centrophorus granulosus" ; Times: 1
+	Query: "Aetobatus narinari mappable:1" ; Times: 2
+	Query: "catalognumber:227050 institutioncode:CAS" ; Times: 2
+	Query: "Lamna ditropis" ; Times: 1
+	Query: "Orectolobus japonicus" ; Times: 1
+	Query: "scientificname:(Fundulus seminolis) country:United States mappable:1" ; Times: 1
+	Query: "Sparisoma aurofrenatum mappable:1" ; Times: 7
+	Query: "catalognumber:226796 institutioncode:CAS" ; Times: 2
+	Query: "Geospatial" ; Times: 1
+	Query: "catalognumber:228213 institutioncode:CAS" ; Times: 2
+	Query: "Carcharhinus amblyrhynchoides" ; Times: 1
+	Query: "Mustelus lenticulatus" ; Times: 1
+	Query: "catalognumber:224069 institutioncode:CAS" ; Times: 5
+	Query: "16 PERU" ; Times: 1
+	Query: "Raja straeleni" ; Times: 1
+	Query: "Gnatholepis thompsoni mappable:1" ; Times: 16
+	Query: "Equetus lanceolatus mappable:1" ; Times: 7
+	Query: "Chaetodon striatus mappable:1" ; Times: 17
+	Query: "Corvula sanctaeluciae mappable:1" ; Times: 4
+	Query: "Centropomus undecimalis mappable:1" ; Times: 1
+	Query: "istiblennius lineatus" ; Times: 2
+	Query: "Sphyrna zygaena" ; Times: 1
+	Query: "Scyliorhinus stellaris" ; Times: 1
+	Query: "Squatina armata" ; Times: 1
+	Query: "Carcharodon carcharias" ; Times: 1
+	Query: "Thunnus thynnus mappable:1" ; Times: 2
+	Query: "Squaliolus laticaudus" ; Times: 1
+	Query: "Hemiscyllium halmahera" ; Times: 1
+	Query: "Lutjanus synagris mappable:1" ; Times: 9
+	Query: "catalognumber:224191 institutioncode:CAS" ; Times: 2
+	Query: "Rhizoprionodon terraenovae" ; Times: 1
+	Query: "sebastes reedi" ; Times: 1
+	Query: "Caulolatilus chrysops mappable:1" ; Times: 1
+	Query: "catalognumber:219460 institutioncode:CAS" ; Times: 2
+	Query: "18900" ; Times: 1
+	Query: "catalognumber:219644 institutioncode:CAS" ; Times: 2
+	Query: "Centrobranchus choerocephalus" ; Times: 1
+	Query: "Syacium gunteri mappable:1" ; Times: 1
+	Query: "Hypoatherina harringtonensis mappable:1" ; Times: 1
+	Query: "Triaenodon obesus" ; Times: 1
+	Query: "Thalassophryne maculosa mappable:1" ; Times: 1
+	Query: "Cephalurus cephalus" ; Times: 1
+	Query: "Hypoplectrus indigo mappable:1" ; Times: 6
+	Query: "Haemulon flavolineatum mappable:1" ; Times: 13
+	Query: "Temera hardwickii" ; Times: 1
+	Query: "comoros" ; Times: 1
+	Query: "Rypticus subbifrenatus mappable:1" ; Times: 2
+	Query: "Gymnothorax vicinus mappable:1" ; Times: 1
+	Query: "Anoxypristis cuspidata" ; Times: 1
+	Query: "Scyliorhinus torazame" ; Times: 1
+	Query: "Parmaturus pilosus" ; Times: 1
+	Query: "Carcharhinus altimus" ; Times: 1
+	Query: "Hydrolagus deani" ; Times: 1
+	Query: "catalognumber:214266 institutioncode:CAS" ; Times: 2
+	Query: "Carcharhinus macloti" ; Times: 1
+	Query: "stateprovince:&#34;Texas&#34;" ; Times: 6
+	Query: "Diaphus rafinesquii mappable:1" ; Times: 1
+	Query: "Mustelus mento" ; Times: 1
+	Query: "Doryrhamphus negrosensis" ; Times: 1
+	Query: "Naucrates ductor mappable:1" ; Times: 2
+	Query: "catalognumber:206077 institutioncode:CAS" ; Times: 4
+	Query: "Protopterus amphibius" ; Times: 1
+	Query: "catalognumber:227051 institutioncode:CAS" ; Times: 2
+	Query: "Hemitriakis leucoperiptera" ; Times: 1
+	Query: "215065" ; Times: 1
+	Query: "Cephaloscyllium fasciatum" ; Times: 1
+	Query: "Bathyraja spinosissima" ; Times: 1
+	Query: "Ginglymostoma cirratum mappable:1" ; Times: 2
+	Query: "MZUSP" ; Times: 1
+	Query: "34176" ; Times: 1
+	Query: "masturus" ; Times: 1
+	Query: "catalognumber:227075 institutioncode:CAS" ; Times: 2
+	Query: "Galeorhinus galeus" ; Times: 1
+	Query: "Galeus schultzi" ; Times: 1
+	Query: "catalognumber:203416 institutioncode:CAS" ; Times: 2
+	Query: "catalognumber:216643 institutioncode:CAS" ; Times: 2
+	Query: "Phaeoptyx conklini mappable:1" ; Times: 19
+	Query: "catalognumber:227225 institutioncode:CAS" ; Times: 2
+	Query: "Xanthichthys ringens mappable:1" ; Times: 20
+	Query: "Seriola zonata mappable:1" ; Times: 2
+	Query: "catalognumber:219410 institutioncode:CAS" ; Times: 4
+	Query: "Bathyraja aleutica" ; Times: 1
+	Query: "scientificname:(Exoglossum maxillingua) country:United States mappable:1" ; Times: 2
+	Query: "Hirundichthys affinis mappable:1" ; Times: 1
+	Query: "Holocentrus adscensionis mappable:1" ; Times: 11
+	Query: "Rhina ancylostoma" ; Times: 1
+	Query: "micropogonias furnieri" ; Times: 2
+	Query: "Lutjanus mahogoni mappable:1" ; Times: 11
+	Query: "Andaman" ; Times: 2
+	Query: "Lutjanus griseus mappable:1" ; Times: 10
+	Query: "Squatina formosa" ; Times: 1
+	Query: "Malacoctenus erdmani mappable:1" ; Times: 10
+	Query: "Stegastes adustus mappable:1" ; Times: 3
+	Query: "Schroederichthys chilensis" ; Times: 1
+	Query: "Channomuraena vittata mappable:1" ; Times: 1
+	Query: "Scarus vetula mappable:1" ; Times: 7
+	Query: "Dipturus macrocauda" ; Times: 1
+	Query: "Mycteroperca tigris mappable:1" ; Times: 7
+	Query: "Pseudupeneus maculatus mappable:1" ; Times: 11
+	Query: "Scyliorhinus boa mappable:1" ; Times: 2
+	Query: "Caranx lugubris mappable:1" ; Times: 1
+	Query: "scientificname:(Oncorhynchus tshawytscha) country:United States mappable:1" ; Times: 1
+	Query: "catalognumber:203456 institutioncode:CAS" ; Times: 2
+	Query: "scarus ghobban" ; Times: 1
+	Query: "Gerres cinereus mappable:1" ; Times: 1
+	Query: "Pellona flavipinnis Peru" ; Times: 7
+	Query: "Etmopterus polli" ; Times: 1
+	Query: "catalognumber:227292 institutioncode:CAS" ; Times: 2
+	Query: "Acanthostracion polygonius mappable:1" ; Times: 3
+	Query: "squalus acanthias year &gt;= 1950 year &lt;= 2019" ; Times: 1
+	Query: "Lutjanus apodus mappable:1" ; Times: 11
+	Query: "Scorpaena plumieri mappable:1" ; Times: 5
+	Query: "catalognumber:227239 institutioncode:CAS" ; Times: 2
+	Query: "Malacoctenus gilli mappable:1" ; Times: 10
+	Query: "Pristis zijsron" ; Times: 1
+	Query: "scientificname:(Acipenser transmontanus) country:United States mappable:1" ; Times: 1
+	Query: "Archosargus rhomboidalis mappable:1" ; Times: 2
+	Query: "Lactophrys triqueter mappable:1" ; Times: 2
+	Query: "Diplectrum formosum mappable:1" ; Times: 2
+	Query: "Jenkinsia lamprotaenia mappable:1" ; Times: 1
+	Query: "catalognumber:205377 institutioncode:CAS" ; Times: 3
+	Query: "Discopyge tschudii" ; Times: 1
+	Query: "Gigas" ; Times: 3
+	Query: "Kenyon AND ISland" ; Times: 1
+	Query: "scientificname:(Lucania goodei) country:United States mappable:1" ; Times: 1
+	Query: "Apristurus kampae" ; Times: 1
+	Query: "Hydrolagus melanophasma" ; Times: 1
+	Query: "Haemulon striatum mappable:1" ; Times: 12
+	Query: "Mycteroperca venenosa mappable:1" ; Times: 7
+	Query: "Thalassoma bifasciatum mappable:1" ; Times: 11
+	Query: "catalognumber:228093 institutioncode:CAS" ; Times: 3
+	Query: "Aluterus schoepfii mappable:1" ; Times: 1
+	Query: "Apristurus brunneus" ; Times: 1
+	Query: "Pomacanthus arcuatus mappable:1" ; Times: 3
+	Query: "Cruriraja cadenati" ; Times: 1
+	Query: "Sorubim lima Peru" ; Times: 4
+	Query: "&#34;Alburnus alburnus&#34;" ; Times: 2
+	Query: "Etmopterus unicolor" ; Times: 1
+	Query: "3 PERU" ; Times: 1
+	Query: "Aetobatus narinari" ; Times: 4
+	Query: "catalognumber:227152 institutioncode:CAS" ; Times: 2
+	Query: "Exocoetus obtusirostris mappable:1" ; Times: 1
+	Query: "Psammobatis lentiginosa" ; Times: 1
+	Query: "Etmopterus schultzi" ; Times: 1
+	Query: "catalognumber:203449 institutioncode:CAS" ; Times: 2
+	Query: "Chimaera notafricana" ; Times: 1
+	Query: "Mustelus henlei" ; Times: 1
+	Query: "Protopterus" ; Times: 2
+	Query: "Rhinochimaera africana" ; Times: 1
+	Query: "Rhynchobatus djiddensis" ; Times: 1
+	Query: "Anchoa cubana mappable:1" ; Times: 1
+	Query: "Mobula thurstoni" ; Times: 1
+	Query: "specificepithet:albonubes genus:Tanichthys" ; Times: 1
+	Query: "Scyliorhinus retifer" ; Times: 1
+	Query: "Etmopterus spinax" ; Times: 1
+	Query: "Chiloscyllium griseum" ; Times: 1
+	Query: "Raja miraletus" ; Times: 1
+	Query: "spectrunculus" ; Times: 1
+	Query: "jf 145" ; Times: 1
+	Query: "Etmopterus burgessi" ; Times: 1
+	Query: "Scorpaena elachys mappable:1" ; Times: 1
+	Query: "Nesiarchus nasutus mappable:1" ; Times: 1
+	Query: "Acanthocybium solandri mappable:1" ; Times: 1
+	Query: "Cantherhines pullus mappable:1" ; Times: 10
+	Query: "Tetragonurus" ; Times: 1
+	Query: "catalognumber:203367 institutioncode:CAS" ; Times: 2
+	Query: "Dactylopterus volitans mappable:1" ; Times: 1
+	Query: "Etmopterus pusillus" ; Times: 2
+	Query: "Anacanthobatis longirostris" ; Times: 1
+	Query: "engyprosopon bleekeri" ; Times: 5
+	Query: "Holacanthus tricolor mappable:1" ; Times: 3
+	Query: "Okamejei acutispina" ; Times: 1
+	Query: "Chromis enchrysura mappable:1" ; Times: 3
+	Query: "Aetomylaeus maculatus" ; Times: 1
+	Query: "Stegastes leucostictus mappable:1" ; Times: 3
+	Query: "catalognumber:219464 institutioncode:CAS" ; Times: 2
+	Query: "Scomberomorus regalis mappable:1" ; Times: 1
+	Query: "Sphyraena guachancho mappable:1" ; Times: 1
+	Query: "Anchoa lamprotaenia mappable:1" ; Times: 1
+	Query: "Oligoplites saurus mappable:1" ; Times: 2
+	Query: "Isurus paucus" ; Times: 1
+	Query: "catalognumber:226979 institutioncode:CAS" ; Times: 2
+	Query: "Seriola dumerili mappable:1" ; Times: 2
+	Query: "Myliobatis goodei" ; Times: 1
+	Query: "Hemitriakis japanica" ; Times: 1
+	Query: "Paragaleus randalli" ; Times: 1
+	Query: "Galeus springeri" ; Times: 1
+	Query: "Bathyraja mariposa" ; Times: 1
+	Query: "Mobula eregoodootenkee" ; Times: 1
+	Query: "Rhizoprionodon acutus" ; Times: 1
+	Query: "Echidna catenata mappable:1" ; Times: 1
+	Query: "Rhinoptera steindachneri" ; Times: 1
+	Query: "catalognumber:227117 institutioncode:CAS" ; Times: 2
+	Query: "Scorpaena brasiliensis mappable:1" ; Times: 5
+	Query: "34885" ; Times: 1
+	Query: "Pomatomus saltatrix" ; Times: 2
+	Query: "catalognumber:205626 institutioncode:CAS" ; Times: 3
+	Query: "Mustelus schmitti" ; Times: 1
+	Query: "Squatina nebulosa" ; Times: 1
+	Query: "catalognumber:227046 institutioncode:CAS" ; Times: 2
+	Query: "catalognumber:205560 institutioncode:CAS" ; Times: 2
+	Query: "Narcine vermiculatus" ; Times: 1
+	Query: "Ocyurus chrysurus mappable:1" ; Times: 11
+	Query: "Chimaera phantasma" ; Times: 1
+	Query: "catalognumber:203370 institutioncode:CAS" ; Times: 2
+	Query: "Pterois volitans mappable:1" ; Times: 6
+	Query: "Ogilbia suarezae mappable:1" ; Times: 20
+	Query: "Gymnothorax miliaris mappable:1" ; Times: 1
+	Query: "Nomeus gronovii mappable:1" ; Times: 1
+	Query: "xanthonotus" ; Times: 1
+	Query: "Dasyatis pastinaca" ; Times: 1
+	Query: "catalognumber:212868 institutioncode:CAS" ; Times: 3
+	Query: "catalognumber:205632 institutioncode:CAS" ; Times: 2
+	Query: "catalognumber:219647 institutioncode:CAS" ; Times: 2
+	Query: "Myripristis jacobus mappable:1" ; Times: 11
+	Query: "Malacanthus plumieri mappable:1" ; Times: 1
+	Query: "Thunnus atlanticus mappable:1" ; Times: 2
+	Query: "Aluterus scriptus mappable:1" ; Times: 10
+	Query: "isopod" ; Times: 1
+	Query: "Galeus eastmani" ; Times: 1
+	Query: "Heterodontus quoyi" ; Times: 1
+	Query: "Acanthurus coeruleus mappable:1" ; Times: 23
+	Query: "catalognumber:227313 institutioncode:CAS" ; Times: 2
+	Query: "catalognumber:227221 institutioncode:CAS" ; Times: 2
+	Query: "Fundulus waccamensis" ; Times: 2
+	Query: "Platybelone argalus argalus mappable:1" ; Times: 1
+	Query: "Decodon puellaris mappable:1" ; Times: 1
+	Query: "catalognumber:238411 institutioncode:CAS" ; Times: 2
+	Query: "Chloroscombrus chrysurus mappable:1" ; Times: 2
+	Query: "catalognumber:227098 institutioncode:CAS" ; Times: 2
+	Query: "Scorpaena albifimbria mappable:1" ; Times: 6
+	Query: "Hydrolagus mccoskeri" ; Times: 1
+	Query: "Carcharhinus longimanus mappable:1" ; Times: 2
+	Query: "Lamiopsis temminckii" ; Times: 1
+	Query: "Exocoetus volitans mappable:1" ; Times: 1
+	Query: "Urobatis concentricus" ; Times: 1
+	Query: "Neoharriotta pinnata" ; Times: 1
+	Query: "gymnothorax mordax lengthinmm &gt;= 0 lengthinmm &lt;= 150" ; Times: 1
+	Query: "Decapterus punctatus mappable:1" ; Times: 2
+	Query: "Triakis acutipinna" ; Times: 1
+	Query: "catalognumber:203361 institutioncode:CAS" ; Times: 2
+	Query: "Coryphaena hippurus mappable:1" ; Times: 1
+	Query: "Acanthostracion quadricornis mappable:1" ; Times: 2
+	Query: "scientificname:(Oncorhynchus gorbuscha) country:United States mappable:1" ; Times: 1
+	Query: "7 PERU" ; Times: 1
+	Query: "Chimaera owstoni" ; Times: 1
+	Query: "specificepithet:bolivianus genus:imparfinis" ; Times: 1
+	Query: "Narcine oculifera" ; Times: 1
+	Query: "Pomadasys crocro mappable:1" ; Times: 2
+	Query: "Balistes vetula mappable:1" ; Times: 20
+	Query: "Sphyrna media" ; Times: 1
+	Query: "Squatina japonica" ; Times: 1
+	Query: "Narcine maculata" ; Times: 1
+	Query: "Caranx hippos mappable:1" ; Times: 2
+	Query: "Microspathodon chrysurus mappable:1" ; Times: 3
+	Query: "Scarus coeruleus mappable:1" ; Times: 4
+	Query: "catalognumber:203417 institutioncode:CAS" ; Times: 2
+	Query: "catalognumber:88258" ; Times: 1
+	Query: "scientificname:(Oncorhynchus nerka) country:United States mappable:1" ; Times: 1
+	Query: "Gambusia heterochir" ; Times: 1
+	Query: "Prionotus punctatus mappable:1" ; Times: 1
+	Query: "Cryptotomus roseus mappable:1" ; Times: 3
+	Query: "catalognumber:226957 institutioncode:CAS" ; Times: 2
+	Query: "Mustelus dorsalis" ; Times: 1
+	Query: "catalognumber:227222 institutioncode:CAS" ; Times: 2
+	Query: "dalatias licha" ; Times: 1
+	Query: "Cyclopsetta fimbriata mappable:1" ; Times: 1
+	Query: "Anisotremus virginicus mappable:1" ; Times: 16
+	Query: "Hymenocephalus billsam mappable:1" ; Times: 1
+	Query: "Halichoeres poeyi mappable:1" ; Times: 3
+	Query: "Echinorhinus cookei" ; Times: 1
+	Query: "Bothus ocellatus mappable:1" ; Times: 1
+	Query: "Dactylobatus armatus" ; Times: 1
+	Query: "gymnothorax mordax" ; Times: 2
+	Query: "Urocampus carinirostris" ; Times: 8
+	Query: "country:&#34;Guatemala&#34;" ; Times: 1
+	Query: "Mycteroperca interstitialis mappable:1" ; Times: 7
+	Query: "Carcharhinus cerdale" ; Times: 1
+	Query: "Mycteroperca bonaci mappable:1" ; Times: 7
+	Query: "Atelomycterus marmoratus" ; Times: 1
+	Query: "Pliotrema warreni" ; Times: 1
+	Query: "39150" ; Times: 1
+	Query: "Joturus pichardi mappable:1" ; Times: 1
+	Query: "country:Ecuador locality:Yasuni " ; Times: 1
+	Query: "Torpedo marmorata" ; Times: 1
+	Query: "catalognumber:202861 institutioncode:CAS" ; Times: 2
+	Query: "Etmopterus hillianus" ; Times: 1
+	Query: "Ariomma bondi mappable:1" ; Times: 1
+	Query: "Squatina david" ; Times: 1
+	Query: "Gymnura japonica" ; Times: 1
+	Query: "scientificname:(Salvelinus namaycush) country:United States mappable:1" ; Times: 1
+	Query: "santanderensis" ; Times: 1
+	Query: "scientificname:(Pogonichthys macrolepidotus) country:United States mappable:1" ; Times: 1
+	Query: "Sparisoma viride mappable:1" ; Times: 7
+	Query: "Salmo trutta" ; Times: 5
+	Query: "Cantherhines macrocerus mappable:1" ; Times: 10
+	Query: "Hemigaleus microstoma" ; Times: 1
+	Query: "Cheilopogon melanurus mappable:1" ; Times: 1
+	Query: "catalognumber:205710 institutioncode:CAS" ; Times: 2
+	Query: "catalognumber:219418 institutioncode:CAS" ; Times: 2
+	Query: "catalognumber:210025 institutioncode:CAS" ; Times: 2
+	Query: "catalognumber:204821 institutioncode:CAS" ; Times: 2
+	Query: "Platyrhinoidis triseriata" ; Times: 1
+	Query: "Chascanopsetta" ; Times: 3
+	Query: "Urobatis maculatus" ; Times: 1
+	Query: "catalognumber:214879 institutioncode:CAS" ; Times: 4
+	Query: "Carcharhinus falciformis" ; Times: 1
+	Query: "Heterodontus portusjacksoni" ; Times: 1
+	Query: "Dasyatis brevis" ; Times: 1
+	Query: "catalognumber:202878 institutioncode:CAS" ; Times: 4
+	Query: "Coryphopterus glaucofraenum mappable:1" ; Times: 17
+	Query: "Paranthias furcifer mappable:1" ; Times: 6
+	Query: "catalognumber:219468 institutioncode:CAS" ; Times: 2
+	Query: "Narke dipterygia" ; Times: 1
+	Query: "Pristiophorus schroederi" ; Times: 1
+	Query: "Bothus lunatus mappable:1" ; Times: 20
+	Query: "catalognumber:224200 institutioncode:CAS" ; Times: 2
+	Query: "Galeus arae" ; Times: 1
+	Query: "Halaelurus buergeri" ; Times: 1
+	Query: "V 1653" ; Times: 1
+	Query: "Monacanthus ciliatus mappable:1" ; Times: 3
+	Query: "Brachaelurus waddi" ; Times: 1
+	Query: "Stegastes variabilis mappable:1" ; Times: 3
+	Query: "Notorynchus cepedianus" ; Times: 1
+	Query: "Doryrhamphus malus" ; Times: 3
+	Query: "Carcharhinus obscurus" ; Times: 1
+	Query: "Cheilopogon furcatus mappable:1" ; Times: 1
+	Query: "stateprovince:&#34;ceara&#34;" ; Times: 1
+	Query: "Haemulon sciurus mappable:1" ; Times: 12
+	Query: "Rhinoptera javanica" ; Times: 1
+	Query: "Squalus japonicus" ; Times: 1
+	Query: "6 PERU" ; Times: 1
+	Query: "0245" ; Times: 1
+	Query: "Raja stellulata" ; Times: 1
+	Query: "catalognumber:219536 institutioncode:CAS" ; Times: 2
+	Query: "Myliobatis longirostris" ; Times: 1
+	Query: "cas martin" ; Times: 1
+	Query: "Glyptocephalus cynoglossus" ; Times: 2
+	Query: "Chaetodon sedentarius mappable:1" ; Times: 17
+	Query: "Centroscyllium kamoharai" ; Times: 1
+	Query: "catalognumber:206138 institutioncode:CAS" ; Times: 2
+	Query: "Mullus auratus mappable:1" ; Times: 2
+	Query: "oxylebius pictus" ; Times: 1
+	Query: "centrophorus granulosus" ; Times: 1
+	Query: "Trachinotus falcatus mappable:1" ; Times: 2
+	Query: "dussumieri Seychelles" ; Times: 1
+	Query: "Apteronotus albifrons" ; Times: 1
+	Query: "Sympterygia brevicaudata" ; Times: 1
+	Query: "Alopias vulpinus" ; Times: 1
+	Query: "catalognumber:205247 institutioncode:CAS" ; Times: 2
+	Query: "catalognumber:203399 institutioncode:CAS" ; Times: 2
+	Query: "Isurus oxyrinchus mappable:1" ; Times: 2
+	Query: "Hydrolagus alphus" ; Times: 1
+	Query: "locality:Clarion Island" ; Times: 8
+	Query: "Carcharhinus galapagensis" ; Times: 1
+	Query: "Zeus faber mappable:1" ; Times: 1
+	Query: "Narke japonica" ; Times: 1
+	Query: "Heterodontus galeatus" ; Times: 1
+	Query: "Serranus atrobranchus mappable:1" ; Times: 1
+	Query: "Sphyrna lewini mappable:1" ; Times: 2
+	Query: "Carcharhinus porosus" ; Times: 1
+	Query: "Aetomylaeus nichofii" ; Times: 1
+	Query: "Carcharhinus plumbeus" ; Times: 1
+	Query: "catalognumber:210021 institutioncode:CAS" ; Times: 2
+	Query: "Canthigaster rostrata mappable:1" ; Times: 1
+	Query: "Umbrina coroides mappable:1" ; Times: 2
+	Query: "Abudefduf saxatilis mappable:1" ; Times: 1
+	Query: "Galeus sauteri" ; Times: 1
+	Query: "catalognumber:219447 institutioncode:CAS" ; Times: 2
+	Query: "Cirrhoscyllium formosanum" ; Times: 1
+	Query: "Hyporhamphus unifasciatus mappable:1" ; Times: 1
+	Query: "catalognumber:205222 institutioncode:CAS" ; Times: 2
+	Query: "catalognumber:224193 institutioncode:CAS" ; Times: 2
+	Query: "Haemulon melanurum mappable:1" ; Times: 14
+	Query: "Selar crumenophthalmus mappable:1" ; Times: 2
+	Query: "Sparisoma rubripinne mappable:1" ; Times: 7
+	Query: "scientificname:(Apeltes quadracus) country:United States mappable:1" ; Times: 1
+	Query: "catalognumber:203133 institutioncode:CAS" ; Times: 2
+	Query: "Mugil liza mappable:1" ; Times: 1
+	Query: "Rhomboplites aurorubens mappable:1" ; Times: 11
+	Query: "Sphyrna tudes" ; Times: 1
+	Query: "catalognumber:203440 institutioncode:CAS" ; Times: 2
+	Query: "Euprotomicrus bispinatus" ; Times: 1
+	Query: "Kyphosus sectatrix mappable:1" ; Times: 11
+	Query: "catalognumber:210429 institutioncode:CAS" ; Times: 2
+	Query: "Brotula barbata mappable:1" ; Times: 1
+	Query: "Scorpaena inermis mappable:1" ; Times: 1
+	Query: "(bison)" ; Times: 1
+	Query: "Paraclinus fasciatus mappable:1" ; Times: 10
+	Query: "Hydrolagus alberti" ; Times: 1
+	Query: "catalognumber:227238 institutioncode:CAS" ; Times: 2
+	Query: "Holacanthus ciliaris mappable:1" ; Times: 2
+	Query: "Trichiurus lepturus mappable:1" ; Times: 1
+	Query: "Rhinobatos hynnicephalus" ; Times: 1
+	Query: "Haemulon chrysargyreum mappable:1" ; Times: 16
+	Query: "91493" ; Times: 1
+	Query: "Loxodon macrorhinus" ; Times: 1
+	Query: "Serranus tortugarum mappable:1" ; Times: 2
+	Query: "Apristurus gibbosus" ; Times: 1
+	Query: "catalognumber:202991 institutioncode:CAS" ; Times: 4
+	Query: "Hypoplectrus chlorurus mappable:1" ; Times: 5
+	Query: "Coelorinchus caribbaeus mappable:1" ; Times: 1
+	Query: "Enchelycore nigricans mappable:1" ; Times: 1
+	Query: "catalognumber:205660 institutioncode:CAS" ; Times: 4
+	Query: "Amblyraja hyperborea" ; Times: 1
+	Query: "catalognumber:203372 institutioncode:CAS" ; Times: 2
+	Query: "catalognumber:203124 institutioncode:CAS" ; Times: 2
+	Query: "Mitsukurina owstoni" ; Times: 1
+	Query: "Xyrichtys splendens mappable:1" ; Times: 3
+	Query: "15 PERU" ; Times: 1
+	Query: "Salmo gilberti" ; Times: 8
+	Query: "cas 221428" ; Times: 1
+	Query: "catalognumber:205224 institutioncode:CAS" ; Times: 2
+	Query: "catalognumber:226740 institutioncode:CAS" ; Times: 2
+	Query: "Haemulon parra mappable:1" ; Times: 14
+	Query: "Melichthys niger mappable:1" ; Times: 20
+	Query: "Squalus brevirostris" ; Times: 1
+	Query: "garbei" ; Times: 1
+	Query: "genus:Mobula" ; Times: 3
+	Query: "catalognumber:228090 institutioncode:CAS" ; Times: 2
+	Query: "8 PERU" ; Times: 1
+	Query: "cas 74400" ; Times: 1
+	Query: "Squalus acanthias" ; Times: 1
+	Query: "Hemiscyllium freycineti" ; Times: 1
+	Query: "Echeneis naucrates mappable:1" ; Times: 1
+	Query: "Upeneus pori" ; Times: 2
+	Query: "Diapterus rhombeus mappable:1" ; Times: 1
+	Query: "hexatrygon" ; Times: 1
+	Query: "Schroederichthys maculatus" ; Times: 1
+	Query: "Enchelycore carychroa mappable:1" ; Times: 1
+	Query: "Carcharhinus albimarginatus" ; Times: 1
+	Query: "catalognumber:224181 institutioncode:CAS" ; Times: 2
+	Query: "Albula vulpes mappable:1" ; Times: 1
+	Query: "catalognumber:237644 institutioncode:CAS" ; Times: 3
+	Query: "Galeus nipponensis" ; Times: 1
+	Query: "Elacatinus oceanops mappable:1" ; Times: 12
+	Query: "catalognumber:227224 institutioncode:CAS" ; Times: 2
+	Query: "Heterodontus zebra" ; Times: 1
+	Query: "Hemiramphus balao mappable:1" ; Times: 1
+	Query: "Centrophorus lusitanicus" ; Times: 1
+	Query: "Galeus melastomus" ; Times: 1
+	Query: "Parexocoetus brachypterus mappable:1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 15 (out of 940 download events in this period)
+Total number of records downloaded: 723
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Italy ; Times: 3
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 5
+	Country: United States ; Times: 4
+	Country: Colombia ; Times: 1
+	Country: Greece ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-05-21 ; Times: 3
+	Date: 2019-05-03 ; Times: 1
+	Date: 2019-05-28 ; Times: 1
+	Date: 2019-05-07 ; Times: 4
+	Date: 2019-05-06 ; Times: 3
+	Date: 2019-05-14 ; Times: 2
+	Date: 2019-05-15 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "crossorhombus azureus" ; Times: 1
+	Query: "squalus acanthias year &gt;= 1950 year &lt;= 2019" ; Times: 1
+	Query: "centrophorus granulosus" ; Times: 1
+	Query: "Pagrus major" ; Times: 1
+	Query: "Pantosteus lahonton stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "istiblennius lineatus" ; Times: 1
+	Query: "notropis saladonis" ; Times: 1
+	Query: "scarus perrico" ; Times: 1
+	Query: "&#34;Abramis brama&#34;" ; Times: 1
+	Query: "Catostomus lahontan stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "country:&#34;Colombia&#34;" ; Times: 1
+	Query: "scarus ghobban" ; Times: 1
+	Query: "scarus compressus" ; Times: 1
+	Query: "Oxynotus centrina" ; Times: 1
+	Query: "scarus rubroviolaceus" ; Times: 1
+
+
+End of report.
