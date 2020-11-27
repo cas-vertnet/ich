@@ -1,0 +1,505 @@
+Report for Institution Code CAS, Resource ich
+Usage stats for May 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 509
+Number of records retrieved in searches: 4280
+Number of different countries where searches have been originated: 24
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 2
+	Country: Brazil ; Times: 15
+	Country: Peru ; Times: 1
+	Country: Unknown ; Times: 17
+	Country: Panama ; Times: 7
+	Country: Ireland ; Times: 20
+	Country: Ecuador ; Times: 2
+	Country: Australia ; Times: 10
+	Country: Iran ; Times: 4
+	Country: Singapore ; Times: 1
+	Country: Germany ; Times: 8
+	Country: Belgium ; Times: 1
+	Country: Iraq ; Times: 3
+	Country: Hong Kong ; Times: 1
+	Country: Spain ; Times: 1
+	Country: United States ; Times: 363
+	Country: Vietnam ; Times: 27
+	Country: Russia ; Times: 9
+	Country: South Africa ; Times: 1
+	Country: Mexico ; Times: 7
+	Country: United Kingdom ; Times: 4
+	Country: Austria ; Times: 1
+	Country: Colombia ; Times: 2
+	Country: Japan ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-05-25 ; Times: 40
+	Date: 2020-05-24 ; Times: 4
+	Date: 2020-05-27 ; Times: 14
+	Date: 2020-05-26 ; Times: 26
+	Date: 2020-05-21 ; Times: 2
+	Date: 2020-05-23 ; Times: 12
+	Date: 2020-05-22 ; Times: 22
+	Date: 2020-05-29 ; Times: 22
+	Date: 2020-05-28 ; Times: 10
+	Date: 2020-05-18 ; Times: 10
+	Date: 2020-05-19 ; Times: 12
+	Date: 2020-05-10 ; Times: 21
+	Date: 2020-05-11 ; Times: 46
+	Date: 2020-05-12 ; Times: 11
+	Date: 2020-05-13 ; Times: 3
+	Date: 2020-05-14 ; Times: 2
+	Date: 2020-05-15 ; Times: 19
+	Date: 2020-05-16 ; Times: 7
+	Date: 2020-05-17 ; Times: 38
+	Date: 2020-05-30 ; Times: 22
+	Date: 2020-05-31 ; Times: 2
+	Date: 2020-05-09 ; Times: 8
+	Date: 2020-05-08 ; Times: 27
+	Date: 2020-05-07 ; Times: 54
+	Date: 2020-05-06 ; Times: 37
+	Date: 2020-05-05 ; Times: 1
+	Date: 2020-05-04 ; Times: 16
+	Date: 2020-05-03 ; Times: 3
+	Date: 2020-05-02 ; Times: 13
+	Date: 2020-05-01 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "CAS 235359" ; Times: 7
+	Query: "scientificname:(Fundulus majalis) country:United States mappable:1" ; Times: 1
+	Query: "halosaurus ovenii" ; Times: 1
+	Query: "36580" ; Times: 2
+	Query: "Lepophidium microlepis" ; Times: 1
+	Query: "coyote" ; Times: 1
+	Query: "47128" ; Times: 1
+	Query: "piura" ; Times: 1
+	Query: "Melichthys vidua mappable:1" ; Times: 1
+	Query: "Fundulus grandis" ; Times: 1
+	Query: "squatina squatina" ; Times: 1
+	Query: "wizard" ; Times: 1
+	Query: "Balistes punctatus mappable:1" ; Times: 1
+	Query: "Gymnothorax undulatus" ; Times: 1
+	Query: "228369" ; Times: 1
+	Query: "point presence species" ; Times: 3
+	Query: "LACM" ; Times: 2
+	Query: "97386" ; Times: 1
+	Query: "gonioplectrus hispanus" ; Times: 1
+	Query: "Gymnothorax pictus" ; Times: 1
+	Query: "evermannella indica" ; Times: 1
+	Query: "inegocia japonica" ; Times: 2
+	Query: "201535" ; Times: 1
+	Query: "51940" ; Times: 1
+	Query: "Rhinecanthus rectangulus mappable:1" ; Times: 1
+	Query: "(rhinogobius) year &gt;= 1900 year &lt;= 2020" ; Times: 1
+	Query: "64705" ; Times: 1
+	Query: "stateprovince:&#34;Illinois&#34;" ; Times: 1
+	Query: "Odonus niger mappable:1" ; Times: 1
+	Query: "catalognumber:235218 institutioncode:CAS" ; Times: 2
+	Query: "246651" ; Times: 1
+	Query: "catalognumber:8601 institutioncode:CAS" ; Times: 2
+	Query: "Gymnothorax castaneus" ; Times: 1
+	Query: "anaconda" ; Times: 1
+	Query: "50345" ; Times: 1
+	Query: "234260" ; Times: 1
+	Query: "recordedby:Adcock" ; Times: 1
+	Query: "Xanthichthys lineopunctatus mappable:1" ; Times: 2
+	Query: "15583" ; Times: 1
+	Query: "229057" ; Times: 1
+	Query: "1237" ; Times: 1
+	Query: "79663" ; Times: 2
+	Query: "223118" ; Times: 1
+	Query: "osteochilus vittatus" ; Times: 2
+	Query: "gymnothorax buroensis" ; Times: 1
+	Query: "evermannella balbo" ; Times: 1
+	Query: "witch" ; Times: 1
+	Query: "genus:gasterosteus county:&#34;los angeles&#34; stateprovince:&#34;california&#34;" ; Times: 3
+	Query: "Gymnothorax meleagris" ; Times: 1
+	Query: "belize" ; Times: 1
+	Query: "Thamnophis hammondi" ; Times: 1
+	Query: "county:&#34;Tulare&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "205970" ; Times: 1
+	Query: "catalognumber:28784" ; Times: 2
+	Query: "Gastrocyathus gracilis" ; Times: 1
+	Query: "CAS 235254" ; Times: 1
+	Query: "9738" ; Times: 1
+	Query: "catalognumber:235359 institutioncode:CAS" ; Times: 2
+	Query: "scientificname:(Notropis sabinae) country:United States mappable:1" ; Times: 1
+	Query: "baer" ; Times: 1
+	Query: "Melamphaes suborbitalis" ; Times: 5
+	Query: "Notophthalmus" ; Times: 1
+	Query: "Sufflamen bursa mappable:1" ; Times: 1
+	Query: "ZMK" ; Times: 2
+	Query: "229082" ; Times: 1
+	Query: "catalognumber:219685 institutioncode:CAS" ; Times: 1
+	Query: "Cas 235254" ; Times: 1
+	Query: "96194" ; Times: 1
+	Query: "CAS 206620" ; Times: 1
+	Query: "CAS 224415" ; Times: 1
+	Query: "Solenostomus" ; Times: 3
+	Query: "20009" ; Times: 1
+	Query: "gymnothorax porphyreus" ; Times: 2
+	Query: "Eucinostomus currani" ; Times: 1
+	Query: "Eleotris melanosoma" ; Times: 1
+	Query: "caiman" ; Times: 1
+	Query: "51803" ; Times: 1
+	Query: "Megalobrama terminalis" ; Times: 1
+	Query: "229081" ; Times: 1
+	Query: "erosa erosa" ; Times: 1
+	Query: "46562" ; Times: 1
+	Query: "Jackson Oregon" ; Times: 1
+	Query: "231029" ; Times: 1
+	Query: "county:&#34;Menard&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genypterus chilensis" ; Times: 1
+	Query: "jenkinsia stolifera" ; Times: 1
+	Query: "catalognumber:26392" ; Times: 1
+	Query: "euristhmus lepturus" ; Times: 2
+	Query: "Arizona elegans" ; Times: 1
+	Query: "catalognumber:16611" ; Times: 2
+	Query: "CAS 233330" ; Times: 3
+	Query: "isacia conceptionis" ; Times: 1
+	Query: "hapalogenys nigripinnis" ; Times: 1
+	Query: "49138" ; Times: 1
+	Query: "NUM" ; Times: 1
+	Query: "27615" ; Times: 1
+	Query: "Equatorial Guinea" ; Times: 1
+	Query: "fungi" ; Times: 1
+	Query: "Pseudobalistes flavimarginatus mappable:1" ; Times: 1
+	Query: "crenichthys nevadae" ; Times: 1
+	Query: "tai o country:&#34;china&#34;" ; Times: 1
+	Query: "Uropterygius versutus" ; Times: 3
+	Query: "ebosia bleekeri" ; Times: 1
+	Query: "64733" ; Times: 1
+	Query: "28960" ; Times: 1
+	Query: "36803" ; Times: 1
+	Query: "18482" ; Times: 1
+	Query: "scientificname:(Adinia xenica OR Adinia multifasciata) country:United States mappable:1" ; Times: 1
+	Query: "catalognumber:245377 institutioncode:CAS" ; Times: 1
+	Query: "Muraena clepsydra" ; Times: 2
+	Query: "223574" ; Times: 1
+	Query: "Echidna nocturna" ; Times: 1
+	Query: "CAS 235218" ; Times: 2
+	Query: "Abalistes stellatus mappable:1" ; Times: 1
+	Query: "225006" ; Times: 1
+	Query: "44752" ; Times: 2
+	Query: "33797" ; Times: 1
+	Query: "63237" ; Times: 1
+	Query: "218510" ; Times: 1
+	Query: "79125" ; Times: 1
+	Query: "CAS 241270" ; Times: 3
+	Query: "iso flosmaris" ; Times: 1
+	Query: "CAS 245377" ; Times: 4
+	Query: "Scuticaria tigrina" ; Times: 2
+	Query: "223154" ; Times: 1
+	Query: "43990" ; Times: 1
+	Query: "Gymnomuraena zebra" ; Times: 1
+	Query: "catalognumber:19612" ; Times: 2
+	Query: "Gymnothorax javanicus" ; Times: 1
+	Query: "CAS 206622" ; Times: 2
+	Query: "Uropterygius macrocephalus" ; Times: 2
+	Query: "47956" ; Times: 1
+	Query: "239074" ; Times: 1
+	Query: "kraemeria samoensis" ; Times: 1
+	Query: "Enchelynassa canina" ; Times: 2
+	Query: "fieldnumber:GTS" ; Times: 1
+	Query: "iracundus signifer" ; Times: 1
+	Query: "stateprovince:&#34;oaxaca&#34;" ; Times: 1
+	Query: "200175" ; Times: 1
+	Query: "Oncorhynchus mykiss" ; Times: 1
+	Query: "93857" ; Times: 1
+	Query: "Toxotes jaculatrix" ; Times: 1
+	Query: "guavina guavina" ; Times: 1
+	Query: "223153" ; Times: 1
+	Query: "223152" ; Times: 1
+	Query: "16804" ; Times: 1
+	Query: "crystallodytes cookei" ; Times: 1
+	Query: "NOTOPHTHALMUS" ; Times: 1
+	Query: "239883" ; Times: 1
+	Query: "6363" ; Times: 2
+	Query: "225227" ; Times: 1
+	Query: "catalognumber:45779" ; Times: 1
+	Query: "79405" ; Times: 1
+	Query: "79403" ; Times: 1
+	Query: "Balistes capriscus mappable:1" ; Times: 2
+	Query: "58664" ; Times: 1
+	Query: "hyperlophus vittatus" ; Times: 1
+	Query: "75267" ; Times: 2
+	Query: "scientificname:(Syngnathus louisianae) country:United States mappable:1" ; Times: 2
+	Query: "33042" ; Times: 1
+	Query: "denticeps clupeoides" ; Times: 1
+	Query: "Nemacheilus triangularis" ; Times: 2
+	Query: "229465" ; Times: 1
+	Query: "210714" ; Times: 1
+	Query: "225043" ; Times: 1
+	Query: "Gymnothorax equatorialis" ; Times: 2
+	Query: "clidoderma asperrimum" ; Times: 2
+	Query: "225044" ; Times: 1
+	Query: "tai o" ; Times: 1
+	Query: "country:&#34;saudi arabia&#34;" ; Times: 1
+	Query: "38633" ; Times: 1
+	Query: "emmelichthys nitidus" ; Times: 2
+	Query: "M-63839" ; Times: 1
+	Query: "stateprovince:&#34;Veraguas&#34; country:&#34;Panama&#34;" ; Times: 2
+	Query: "grammatobothus polyophthalmus" ; Times: 1
+	Query: "96451" ; Times: 1
+	Query: "megalobrama terminalis" ; Times: 4
+	Query: "poeciliopsis" ; Times: 1
+	Query: "33761" ; Times: 1
+	Query: "specificepithet:copei genus:Gila stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "specificepithet:erosa genus:erosa" ; Times: 2
+	Query: "Gymnothorax flavimarginatus" ; Times: 2
+	Query: "gymnothorax mordax" ; Times: 2
+	Query: "231033" ; Times: 1
+	Query: "51361" ; Times: 1
+	Query: "neolissochilus hexagonolepis" ; Times: 1
+	Query: "38185" ; Times: 1
+	Query: "Hyporhamphus gilli" ; Times: 2
+	Query: "Balistoides conspicillum mappable:1" ; Times: 1
+	Query: "cas 2382" ; Times: 1
+	Query: "esomus metallicus" ; Times: 1
+	Query: "37765" ; Times: 1
+	Query: "stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "30246" ; Times: 1
+	Query: "naso thynnoides" ; Times: 2
+	Query: "34415" ; Times: 1
+	Query: "66672" ; Times: 1
+	Query: "34410" ; Times: 2
+	Query: "catalognumber:245114 institutioncode:CAS" ; Times: 2
+	Query: "Gastroscyphus hectoris" ; Times: 4
+	Query: "210113" ; Times: 1
+	Query: "catalognumber:245296 institutioncode:CAS" ; Times: 1
+	Query: "1316 borneo" ; Times: 2
+	Query: "CAS 245264" ; Times: 1
+	Query: "San Pedro Martir" ; Times: 1
+	Query: "200187" ; Times: 1
+	Query: "CAS 215667" ; Times: 2
+	Query: "Pseudobalistes fuscus mappable:1" ; Times: 1
+	Query: "233345" ; Times: 2
+	Query: "65493" ; Times: 1
+	Query: "Balistes polylepis mappable:1" ; Times: 1
+	Query: "233349" ; Times: 1
+	Query: "1316" ; Times: 2
+	Query: "country:&#34;Russia&#34;" ; Times: 1
+	Query: "48344" ; Times: 1
+	Query: "iguaçu" ; Times: 1
+	Query: "205957" ; Times: 1
+	Query: "230073" ; Times: 1
+	Query: "60453" ; Times: 1
+	Query: "gulo gulo" ; Times: 1
+	Query: "“Very heavy”" ; Times: 1
+	Query: "45761" ; Times: 1
+	Query: "55084" ; Times: 1
+	Query: "specificepithet:parma" ; Times: 4
+	Query: "Xanthichthys mento mappable:1" ; Times: 1
+	Query: "carcharhinus leucas" ; Times: 1
+	Query: "catalognumber:224415 institutioncode:CAS" ; Times: 1
+	Query: "hyphessobrycon eques" ; Times: 1
+	Query: "229466" ; Times: 1
+	Query: "stateprovince:&#34;Oaxaca&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "histiodraco velifer" ; Times: 1
+	Query: "Hypostomus plecostomus" ; Times: 1
+	Query: "CAS 224439" ; Times: 1
+	Query: "Xanthichthys ringens mappable:1" ; Times: 1
+	Query: "37232" ; Times: 2
+	Query: "Cynoscion arenarius" ; Times: 1
+	Query: "211153" ; Times: 1
+	Query: "Uropterygius polystictus" ; Times: 1
+	Query: "Balistapus undulatus mappable:1" ; Times: 1
+	Query: "3611" ; Times: 1
+	Query: "16881" ; Times: 1
+	Query: "USNM 285" ; Times: 1
+	Query: "catalognumber:208434 institutioncode:CAS" ; Times: 1
+	Query: "haemulon plumieri" ; Times: 4
+	Query: "devil" ; Times: 1
+	Query: "Sufflamen albicaudatum mappable:1" ; Times: 1
+	Query: "Sarothrura" ; Times: 1
+	Query: "locality:Calobre country:&#34;Panama&#34;" ; Times: 4
+	Query: "scolopsis vosmeri gulf" ; Times: 1
+	Query: "parvicrepis" ; Times: 1
+	Query: "38592" ; Times: 1
+	Query: "Gymnothorax verrilli" ; Times: 1
+	Query: "gymnothorax eurostus" ; Times: 2
+	Query: "Sufflamen verres mappable:1" ; Times: 1
+	Query: "Barbus jae" ; Times: 2
+	Query: "heraldia nocturna" ; Times: 1
+	Query: "dactylopus dactylopus" ; Times: 3
+	Query: "harpadon nehereus" ; Times: 1
+	Query: "mugil liza" ; Times: 1
+	Query: "48626" ; Times: 1
+	Query: "15579" ; Times: 1
+	Query: "234156" ; Times: 2
+	Query: "poeciliopsis occidentalis" ; Times: 1
+	Query: "catalognumber:241270 institutioncode:CAS" ; Times: 1
+	Query: "12549" ; Times: 1
+	Query: "38568" ; Times: 1
+	Query: "corvula batabana" ; Times: 1
+	Query: "collichthys lucidus" ; Times: 1
+	Query: "79489" ; Times: 2
+	Query: "Coyote" ; Times: 5
+	Query: "catalognumber:206620 institutioncode:CAS" ; Times: 1
+	Query: "marinus texas" ; Times: 1
+	Query: "specificepithet:aliciae genus:Lepidomeda stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "crossosalarias macrospilus" ; Times: 1
+	Query: "alboguttatus" ; Times: 2
+	Query: "whale" ; Times: 1
+	Query: "citharus linguatula" ; Times: 1
+	Query: "(19565)" ; Times: 1
+	Query: "catalognumber:16369" ; Times: 1
+	Query: "80301" ; Times: 1
+	Query: "64668" ; Times: 1
+	Query: "16883" ; Times: 1
+	Query: "67565" ; Times: 1
+	Query: "64666" ; Times: 1
+	Query: "Aspasmichthys" ; Times: 1
+	Query: "eckloniaichthys scylliorhiniceps" ; Times: 1
+	Query: "hess" ; Times: 1
+	Query: "57822" ; Times: 1
+	Query: "Gymnothorax buroensis" ; Times: 2
+	Query: "240981" ; Times: 1
+	Query: "CAS 245296" ; Times: 4
+	Query: "Muraena lentiginosa" ; Times: 1
+	Query: "234588" ; Times: 1
+	Query: "Rhinecanthus verrucosus mappable:1" ; Times: 1
+	Query: "catalognumber:26392 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "65127" ; Times: 1
+	Query: "Yemen" ; Times: 3
+	Query: "catalognumber:31824" ; Times: 1
+	Query: "Enchelycore lichenosa" ; Times: 1
+	Query: "catalognumber:14949 institutioncode:CAS" ; Times: 1
+	Query: "Uropterygius supraforatus" ; Times: 1
+	Query: "(tai o)" ; Times: 1
+	Query: "64968" ; Times: 1
+	Query: "Gymnothorax dovii" ; Times: 1
+	Query: "Balistes vetula mappable:1" ; Times: 1
+	Query: "Tetradactylus tetradactylus" ; Times: 1
+	Query: "104174" ; Times: 1
+	Query: "genus:Gila stateprovince:&#34;Utah&#34;" ; Times: 2
+	Query: "24183" ; Times: 1
+	Query: "46888" ; Times: 1
+	Query: "10041" ; Times: 1
+	Query: "Gulo" ; Times: 1
+	Query: "locality:Iguaçu" ; Times: 1
+	Query: "205960" ; Times: 1
+	Query: "205962" ; Times: 1
+	Query: "205966" ; Times: 1
+	Query: "coregonus lavaretus" ; Times: 2
+	Query: "specificepithet:alpinus" ; Times: 1
+	Query: "locality:Calobre country:&#34;Panamá&#34;" ; Times: 1
+	Query: "167134" ; Times: 1
+	Query: "246653" ; Times: 2
+	Query: "evermannia zosterura" ; Times: 1
+	Query: "Gymnothorax eurygnathos" ; Times: 1
+	Query: "246656" ; Times: 1
+	Query: "246655" ; Times: 1
+	Query: "specificepithet:copei genus:Snyderichthys stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "scientificname:(Harengula jaguana OR Harengula pensacolae) country:United States mappable:1" ; Times: 1
+	Query: "1927-04-26" ; Times: 1
+	Query: "Balistoides viridescens mappable:1" ; Times: 1
+	Query: "class:Actinopteri stateprovince:&#34;Misiones&#34; country:&#34;Argentina&#34;" ; Times: 1
+	Query: "Cyema atrum" ; Times: 1
+	Query: "scientificname:(Etheostoma zonistium) country:United States mappable:1" ; Times: 1
+	Query: "class:Actinopteri country:&#34;Argentina&#34;" ; Times: 2
+	Query: "CAS 211672" ; Times: 1
+	Query: "Gymnothorax angusticeps" ; Times: 1
+	Query: "211646" ; Times: 1
+	Query: "V-1132" ; Times: 3
+	Query: "240986" ; Times: 2
+	Query: "pachynema" ; Times: 1
+	Query: "country:&#34;São Tomé&#34;" ; Times: 1
+	Query: "lepidocybium" ; Times: 3
+	Query: "Balistes rotundatus mappable:1" ; Times: 1
+	Query: "Rhinecanthus assasi mappable:1" ; Times: 1
+	Query: "223291" ; Times: 1
+	Query: "Proterorhinus marmoratus" ; Times: 1
+	Query: "Gymnothorax eurostus" ; Times: 1
+	Query: "Sufflamen chrysopterum mappable:1" ; Times: 1
+	Query: "Species presence species" ; Times: 1
+	Query: "monodactylus argenteus" ; Times: 1
+	Query: "CAS 230357" ; Times: 1
+	Query: "scientificname:(Etheostoma nianguae) country:United States mappable:1" ; Times: 1
+	Query: "hippoglossina macrops" ; Times: 1
+	Query: "Rhinecanthus aculeatus mappable:1" ; Times: 1
+	Query: "russian" ; Times: 2
+	Query: "stateprovince:&#34;Mississippi&#34;" ; Times: 2
+	Query: "39437" ; Times: 1
+	Query: "242271" ; Times: 1
+	Query: "242270" ; Times: 1
+	Query: "Abalistes stellaris mappable:1" ; Times: 6
+	Query: "64748" ; Times: 1
+	Query: "HAPLOCYLIX" ; Times: 1
+	Query: "Trachycephalus" ; Times: 1
+	Query: "locality:James stateprovince:&#34;Galapagos&#34;" ; Times: 1
+	Query: "Cyprinodon variegatus" ; Times: 2
+	Query: "tai o stateprovince:&#34;hong kong&#34; country:&#34;china&#34;" ; Times: 1
+	Query: "Xanthichthys auromarginatus mappable:1" ; Times: 1
+	Query: "200280" ; Times: 2
+	Query: "hime japonica" ; Times: 1
+	Query: "73832" ; Times: 1
+	Query: "squirrel" ; Times: 2
+	Query: "specificepithet:bicolor country:&#34;philippines&#34;" ; Times: 1
+	Query: "Gymnothorax mordax" ; Times: 1
+	Query: "236272" ; Times: 1
+	Query: "iguazu" ; Times: 2
+	Query: "235808" ; Times: 1
+	Query: "rhinogobius" ; Times: 1
+	Query: "203003" ; Times: 1
+	Query: "203002" ; Times: 1
+	Query: "12552" ; Times: 1
+	Query: "Melichthys niger mappable:1" ; Times: 1
+	Query: "AY" ; Times: 2
+	Query: "Gymnothorax panamensis" ; Times: 1
+	Query: "CAS 241554" ; Times: 1
+	Query: "79557" ; Times: 1
+	Query: "echelus myrus" ; Times: 2
+	Query: "DUMERILI" ; Times: 1
+	Query: "229483" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 18 (out of 1106 download events in this period)
+Total number of records downloaded: 17234
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Australia ; Times: 2
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: Unknown ; Times: 1
+	Country: United States ; Times: 11
+	Country: Russia ; Times: 1
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-05-25 ; Times: 1
+	Date: 2020-05-24 ; Times: 1
+	Date: 2020-05-31 ; Times: 1
+	Date: 2020-05-28 ; Times: 1
+	Date: 2020-05-09 ; Times: 1
+	Date: 2020-05-08 ; Times: 6
+	Date: 2020-05-07 ; Times: 3
+	Date: 2020-05-06 ; Times: 1
+	Date: 2020-05-12 ; Times: 1
+	Date: 2020-05-02 ; Times: 1
+	Date: 2020-05-16 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Toxotes jaculatrix" ; Times: 1
+	Query: "Tetradactylus tetradactylus" ; Times: 1
+	Query: "Equatorial Guinea" ; Times: 1
+	Query: "osteochilus vittatus" ; Times: 1
+	Query: "country:&#34;Russia&#34;" ; Times: 1
+	Query: "Thamnophis hammondi" ; Times: 1
+	Query: "mollusca" ; Times: 1
+	Query: "Oncorhynchus mykiss" ; Times: 1
+	Query: "specificepithet:parma" ; Times: 1
+	Query: "catalognumber:8601 institutioncode:CAS" ; Times: 1
+	Query: "Arizona elegans" ; Times: 1
+	Query: "Jackson Oregon" ; Times: 1
+	Query: "continent:Europe" ; Times: 1
+	Query: "stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "Sarothrura" ; Times: 1
+	Query: "Catostomus" ; Times: 1
+	Query: "Phoca vitulina" ; Times: 1
+
+
+End of report.
