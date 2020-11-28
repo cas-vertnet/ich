@@ -1,0 +1,646 @@
+Report for Institution Code CAS, Resource ich
+Usage stats for August 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 799
+Number of records retrieved in searches: 9634
+Number of different countries where searches have been originated: 34
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 11
+	Country: Canada ; Times: 9
+	Country: Ireland ; Times: 6
+	Country: Unknown ; Times: 43
+	Country: France ; Times: 46
+	Country: Peru ; Times: 24
+	Country: Venezuela ; Times: 4
+	Country: Ecuador ; Times: 13
+	Country: Israel ; Times: 1
+	Country: Australia ; Times: 10
+	Country: Algeria ; Times: 2
+	Country: Singapore ; Times: 1
+	Country: Norway ; Times: 1
+	Country: Guatemala ; Times: 1
+	Country: Germany ; Times: 7
+	Country: Puerto Rico ; Times: 1
+	Country: Belgium ; Times: 3
+	Country: Netherlands ; Times: 1
+	Country: Denmark ; Times: 2
+	Country: Philippines ; Times: 4
+	Country: United States ; Times: 346
+	Country: Sweden ; Times: 7
+	Country: Vietnam ; Times: 3
+	Country: Russia ; Times: 1
+	Country: Honduras ; Times: 99
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 10
+	Country: South Africa ; Times: 1
+	Country: India ; Times: 16
+	Country: United Kingdom ; Times: 111
+	Country: Malaysia ; Times: 1
+	Country: Austria ; Times: 5
+	Country: Colombia ; Times: 1
+	Country: Japan ; Times: 7
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-08-28 ; Times: 46
+	Date: 2020-08-29 ; Times: 67
+	Date: 2020-08-17 ; Times: 8
+	Date: 2020-08-16 ; Times: 4
+	Date: 2020-08-15 ; Times: 5
+	Date: 2020-08-14 ; Times: 12
+	Date: 2020-08-13 ; Times: 7
+	Date: 2020-08-12 ; Times: 37
+	Date: 2020-08-11 ; Times: 19
+	Date: 2020-08-10 ; Times: 14
+	Date: 2020-08-31 ; Times: 3
+	Date: 2020-08-30 ; Times: 4
+	Date: 2020-08-19 ; Times: 36
+	Date: 2020-08-18 ; Times: 18
+	Date: 2020-08-20 ; Times: 3
+	Date: 2020-08-08 ; Times: 4
+	Date: 2020-08-01 ; Times: 9
+	Date: 2020-08-03 ; Times: 6
+	Date: 2020-08-04 ; Times: 9
+	Date: 2020-08-05 ; Times: 28
+	Date: 2020-08-06 ; Times: 21
+	Date: 2020-08-07 ; Times: 33
+	Date: 2020-08-26 ; Times: 112
+	Date: 2020-08-27 ; Times: 82
+	Date: 2020-08-24 ; Times: 23
+	Date: 2020-08-25 ; Times: 57
+	Date: 2020-08-22 ; Times: 9
+	Date: 2020-08-23 ; Times: 12
+	Date: 2020-08-09 ; Times: 5
+	Date: 2020-08-21 ; Times: 106
+
+List of queries that retrieved data from the resource: 
+	Query: "rom" ; Times: 1
+	Query: "specificepithet:raptator genus:Chascanopsetta" ; Times: 1
+	Query: "Sarotherodon melanotheron" ; Times: 1
+	Query: "6727" ; Times: 2
+	Query: "Cyprinella venusta" ; Times: 1
+	Query: "Batrachoides waltersi" ; Times: 1
+	Query: "salmo trutta" ; Times: 1
+	Query: "Petrocephalus bovei" ; Times: 1
+	Query: "Gasterosteus aculeatus aculeatus distance(location,geopoint(34.201118150252434,-118.79066482998338))&lt;26138.492445553376" ; Times: 1
+	Query: "Hypsopsetta guttulata" ; Times: 7
+	Query: "wizard" ; Times: 7
+	Query: "Clarias gariepinus" ; Times: 1
+	Query: "Mesoborus crocodilus" ; Times: 1
+	Query: "Tylosurus pacificus" ; Times: 1
+	Query: "chameleon" ; Times: 1
+	Query: "Melichthys niger" ; Times: 1
+	Query: "Hyporhamphus roberti" ; Times: 1
+	Query: "80729" ; Times: 5
+	Query: "Pungitius pungitius" ; Times: 1
+	Query: "CAS 222690" ; Times: 1
+	Query: "20284" ; Times: 1
+	Query: "Alectis ciliaris" ; Times: 2
+	Query: "hippocampus whitei" ; Times: 3
+	Query: "sonora" ; Times: 2
+	Query: "coho salmon" ; Times: 1
+	Query: "Glyptothorax fokiensis" ; Times: 1
+	Query: "aphanius mento" ; Times: 1
+	Query: "Oreochromis aureus" ; Times: 1
+	Query: "CAS 214293" ; Times: 1
+	Query: "CAS 214292" ; Times: 1
+	Query: "Engraulis encrasicolus" ; Times: 4
+	Query: "genus:Scartelaos" ; Times: 2
+	Query: "Barcelos" ; Times: 1
+	Query: "Leptocottus armatus" ; Times: 1
+	Query: "Heteroconger hassi" ; Times: 1
+	Query: "CAS 213414" ; Times: 1
+	Query: "Spicara smaris" ; Times: 1
+	Query: "specificepithet:japonicus genus:Cataetyx" ; Times: 1
+	Query: "Chanos chanos" ; Times: 1
+	Query: "panda" ; Times: 1
+	Query: "Ophioblennius steindachneri" ; Times: 1
+	Query: "Micralestes acutidens" ; Times: 1
+	Query: "Aulichthys japonicus" ; Times: 1
+	Query: "piura" ; Times: 1
+	Query: "Apogon pacificus" ; Times: 2
+	Query: "Caranx sexfasciatus" ; Times: 1
+	Query: "locality:Trobriand" ; Times: 1
+	Query: "specificepithet:granulosus genus:Centrophorus" ; Times: 1
+	Query: "Scleropages formosus" ; Times: 1
+	Query: "fundulus grandis" ; Times: 5
+	Query: "CAS 215036" ; Times: 1
+	Query: "66815" ; Times: 1
+	Query: "meeki" ; Times: 1
+	Query: "Acanthochromis polyacanthus" ; Times: 1
+	Query: "spinifera" ; Times: 1
+	Query: "CAS 233206" ; Times: 1
+	Query: "Gasterosteus aculeatus aculeatus distance(location,geopoint(34.17385436955003,-119.15870682217088))&lt;26138" ; Times: 1
+	Query: "witch" ; Times: 3
+	Query: "Carangoides otrynter" ; Times: 3
+	Query: "Pristis pectinata" ; Times: 1
+	Query: "Cana" ; Times: 1
+	Query: "Leptocottus armatus county:&#34;Los Angeles&#34;" ; Times: 1
+	Query: "raccoon" ; Times: 2
+	Query: "caranx lugubris" ; Times: 1
+	Query: "Vulpes vulpes" ; Times: 1
+	Query: "Cottus gulosus stateprovince:&#34;oregon&#34;" ; Times: 1
+	Query: "Caraibops trispinosus" ; Times: 1
+	Query: "catalognumber:91704" ; Times: 1
+	Query: "recordedby:MccArthy" ; Times: 1
+	Query: "locality:dry point stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "Argentina georgei" ; Times: 2
+	Query: "Isichthys henryi" ; Times: 1
+	Query: "Triplophysa microps" ; Times: 1
+	Query: "specificepithet:messieri genus:Cataetyx" ; Times: 1
+	Query: "Corydoras aeneus" ; Times: 2
+	Query: "Cirrhitus rivulatus" ; Times: 2
+	Query: "CAS 235387" ; Times: 1
+	Query: "girella distance(location,geopoint(34.201118150252434,-118.79066482998338))&lt;42537" ; Times: 1
+	Query: "Ancistrus brevipinnis" ; Times: 1
+	Query: "Cottus princeps stateprovince:&#34;oregon&#34;" ; Times: 1
+	Query: "Cyprinus carpio" ; Times: 1
+	Query: "CAS 229616" ; Times: 1
+	Query: "specificepithet:asper genus:Cottus stateprovince:&#34;washington&#34;" ; Times: 2
+	Query: "Balistes polylepis" ; Times: 1
+	Query: "Opsanus beta" ; Times: 1
+	Query: "28881" ; Times: 1
+	Query: "Phoxinus phoxinus" ; Times: 1
+	Query: "Apogon dovii" ; Times: 1
+	Query: "Lefua echigonia" ; Times: 1
+	Query: "CAS 234957" ; Times: 2
+	Query: "Anableps dowei HOnduras" ; Times: 1
+	Query: "45388" ; Times: 1
+	Query: "Gnathonemus petersii" ; Times: 1
+	Query: "Fundulus parvipinnis" ; Times: 5
+	Query: "humilis" ; Times: 1
+	Query: "63162" ; Times: 1
+	Query: "Engraulis mordax" ; Times: 3
+	Query: "Aphanius mento" ; Times: 1
+	Query: "Cottus asper stateprovince:&#34;oregon&#34;" ; Times: 2
+	Query: "hong kong" ; Times: 1
+	Query: "stateprovince:&#34;Minnesota&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "743" ; Times: 4
+	Query: "208078" ; Times: 1
+	Query: "Syngnathus scovelli" ; Times: 1
+	Query: "Netherlands" ; Times: 1
+	Query: "amazona" ; Times: 1
+	Query: "Pseudomystus siamensis" ; Times: 1
+	Query: "Cymatogaster aggregata" ; Times: 4
+	Query: "238110" ; Times: 1
+	Query: "Pleuronectes platessa" ; Times: 2
+	Query: "Brycinus imberi" ; Times: 1
+	Query: "Membras gilberti" ; Times: 1
+	Query: "Eugnathichthys macroterolepis" ; Times: 1
+	Query: "10276 vntype:specimen" ; Times: 1
+	Query: "cuzco amazonico 15 km puerto maldonado" ; Times: 1
+	Query: "gadus morhua" ; Times: 1
+	Query: "CAS 218283" ; Times: 1
+	Query: "Thunnus thynnus" ; Times: 2
+	Query: "Brienomyrus brachyistius" ; Times: 1
+	Query: "SAM 600" ; Times: 1
+	Query: "Pseudophallus starksi" ; Times: 1
+	Query: "CAS 202620" ; Times: 2
+	Query: "Hypsopsetta guttulata guttulata" ; Times: 1
+	Query: "catalognumber:27778" ; Times: 1
+	Query: "14405" ; Times: 1
+	Query: "ensifera ensifera" ; Times: 4
+	Query: "specificepithet:colliei genus:Hydrolagus" ; Times: 1
+	Query: "47505" ; Times: 1
+	Query: "Nero" ; Times: 2
+	Query: "Merlangius merlangus" ; Times: 3
+	Query: "cuzco amazonico" ; Times: 1
+	Query: "12830" ; Times: 1
+	Query: "17163" ; Times: 2
+	Query: "Talismania bifurcata" ; Times: 2
+	Query: "Brama dussumieri" ; Times: 1
+	Query: "Girella sp" ; Times: 1
+	Query: "specificepithet:rubrirostris genus:Cataetyx" ; Times: 1
+	Query: "Chrysichthys nigrodigitatus" ; Times: 1
+	Query: "Cottus beldingi stateprovince:&#34;oregon&#34;" ; Times: 1
+	Query: "70298" ; Times: 1
+	Query: "Cottus aleuticus" ; Times: 1
+	Query: "Carnegie" ; Times: 1
+	Query: "Guatemala" ; Times: 1
+	Query: "specificepithet:occidentalis genus:Bothragonus" ; Times: 1
+	Query: "Mullus surmuletus mappable:1" ; Times: 1
+	Query: "Cottus aleuticus stateprovince:&#34;oregon&#34;" ; Times: 2
+	Query: "Trinectes inscriptus" ; Times: 1
+	Query: "scartelaos" ; Times: 2
+	Query: "Sternopygus macrurus" ; Times: 1
+	Query: "Gnathonemus longibarbis" ; Times: 1
+	Query: "Oligoplites saurus" ; Times: 1
+	Query: "Lophius budegassa" ; Times: 1
+	Query: "Albula vulpes" ; Times: 1
+	Query: "Schizothorax molesworthi" ; Times: 1
+	Query: "specificepithet:craneae genus:Cetomimus" ; Times: 1
+	Query: "atractoscion nobilis" ; Times: 4
+	Query: "Distichodus decemmaculatus" ; Times: 1
+	Query: "CAS 234269" ; Times: 1
+	Query: "13097" ; Times: 1
+	Query: "Hypleurochilus aequipinnis" ; Times: 2
+	Query: "CAS 234262" ; Times: 1
+	Query: "specificepithet:colliei genus:Hydrolagus stateprovince:&#34;washington&#34;" ; Times: 1
+	Query: "Atherinella pachylepis" ; Times: 2
+	Query: "Thunnus tonggol" ; Times: 1
+	Query: "Gadus morhua" ; Times: 2
+	Query: "specificepithet:globiceps genus:Cetonurus" ; Times: 1
+	Query: "71370" ; Times: 2
+	Query: "71376" ; Times: 1
+	Query: "Entomacrodus chiostictus" ; Times: 1
+	Query: "Aulostomus maculatus" ; Times: 1
+	Query: "Elopichthys bambusa" ; Times: 1
+	Query: "mccarthy" ; Times: 1
+	Query: "venefica procera" ; Times: 1
+	Query: "Mormyrus rume" ; Times: 1
+	Query: "Trachurus mediterraneus" ; Times: 1
+	Query: "chanos chanos" ; Times: 1
+	Query: "Oncorhynchus clarki henshawi" ; Times: 9
+	Query: "Mormyrops masuianus" ; Times: 1
+	Query: "caenotropus" ; Times: 1
+	Query: "genus:Centrodraco" ; Times: 3
+	Query: "CAS 214182" ; Times: 2
+	Query: "Hyphessobrycon tortuguerae" ; Times: 2
+	Query: "behnii" ; Times: 1
+	Query: "Oligoplites saliens" ; Times: 1
+	Query: "locality:san nicolas island" ; Times: 1
+	Query: "narke" ; Times: 1
+	Query: "Atherinops affinis distance(location,geopoint(33.89019037023159,-118.57840321728897))&lt;12555" ; Times: 1
+	Query: "Solea solea" ; Times: 2
+	Query: "Cuzco Amazónico" ; Times: 1
+	Query: "Mullus barbatus" ; Times: 2
+	Query: "Neolebias trilineatus" ; Times: 1
+	Query: "Campylomormyrus numenius" ; Times: 1
+	Query: "CAS 206620" ; Times: 1
+	Query: "Sprattus sprattus" ; Times: 4
+	Query: "Caranx bartholomaei" ; Times: 1
+	Query: "Rissa tridactyla" ; Times: 1
+	Query: "CAS 220640" ; Times: 1
+	Query: "CAS 200620" ; Times: 1
+	Query: "69660" ; Times: 1
+	Query: "Acentronura" ; Times: 3
+	Query: "pacific swallow" ; Times: 1
+	Query: "Cottus confusus stateprovince:&#34;oregon&#34;" ; Times: 1
+	Query: "CAS 215027" ; Times: 1
+	Query: "Lutjanus peru" ; Times: 1
+	Query: "stateprovince:&#34;Catanduanes&#34; country:&#34;Philippines&#34;" ; Times: 1
+	Query: "CAS 21037" ; Times: 1
+	Query: "specificepithet:nebulosa stateprovince:&#34;california&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Caranx latus" ; Times: 2
+	Query: "8243" ; Times: 1
+	Query: "Platichthys stellatus" ; Times: 2
+	Query: "catalognumber:68551" ; Times: 1
+	Query: "CAS 219410" ; Times: 2
+	Query: "Ilypnus gilberti county:&#34;Los Angeles&#34;" ; Times: 2
+	Query: "Oncorhynchus mykiss" ; Times: 4
+	Query: "Sarda sarda" ; Times: 1
+	Query: "specificepithet:agassizii genus:Alepocephalus" ; Times: 1
+	Query: "Anabas testudineus" ; Times: 1
+	Query: "Sardina pilchardus" ; Times: 1
+	Query: "Clupea harengus" ; Times: 5
+	Query: "Pollachius virens" ; Times: 2
+	Query: "Mormyrus ovis" ; Times: 1
+	Query: "Anguilla anguilla" ; Times: 1
+	Query: "TNHC" ; Times: 1
+	Query: "44804" ; Times: 1
+	Query: "Chlopsis apterus" ; Times: 1
+	Query: "Bregmaceros bathymaster" ; Times: 4
+	Query: "zfmk" ; Times: 1
+	Query: "Pethia" ; Times: 1
+	Query: "Barbatula barbatula" ; Times: 1
+	Query: "CAS 221525" ; Times: 1
+	Query: "Hyperopisus bebe" ; Times: 1
+	Query: "70345" ; Times: 2
+	Query: "Scyliorhinus canicula" ; Times: 1
+	Query: "Hypsoblennius brevipinnis" ; Times: 2
+	Query: "Pisodonophis hoeveni" ; Times: 1
+	Query: "Lutjanus apodus" ; Times: 2
+	Query: "country:&#34;Jamaica&#34;" ; Times: 1
+	Query: "Thunnus alalunga" ; Times: 1
+	Query: "diapterus peruvianus" ; Times: 7
+	Query: "Caranx crysos" ; Times: 1
+	Query: "Caranx hippos" ; Times: 1
+	Query: "Menidia venezuelae" ; Times: 2
+	Query: "CAS 221298" ; Times: 1
+	Query: "P. aleuticus" ; Times: 1
+	Query: "M. auratus" ; Times: 1
+	Query: "Phalacrocorax urile" ; Times: 1
+	Query: "recordedby:mccarthy" ; Times: 1
+	Query: "Alosa chrysochloris" ; Times: 1
+	Query: "V. vulpes" ; Times: 1
+	Query: "41574" ; Times: 1
+	Query: "Bagre marinus" ; Times: 2
+	Query: "CAS 239944" ; Times: 1
+	Query: "14370" ; Times: 2
+	Query: "county:&#34;cache&#34; stateprovince:&#34;utah&#34;" ; Times: 1
+	Query: "Platybelone argalus argalus" ; Times: 2
+	Query: "Acipenser ruthenus" ; Times: 1
+	Query: "Ballerus ballerus" ; Times: 1
+	Query: "Parablennius marmoreus" ; Times: 1
+	Query: "Sufflamen verres" ; Times: 1
+	Query: "CAS-211213" ; Times: 1
+	Query: "Lepidotrigla hime" ; Times: 1
+	Query: "sciurus" ; Times: 1
+	Query: "pristis pristis" ; Times: 1
+	Query: "LACM" ; Times: 1
+	Query: "catalognumber:245114 institutioncode:CAS" ; Times: 1
+	Query: "PONGO" ; Times: 1
+	Query: "Carangoides bartholomaei" ; Times: 1
+	Query: "cuzco amazonico 15 km" ; Times: 1
+	Query: "Rhamdia guatemalensis" ; Times: 2
+	Query: "SIO 61-175" ; Times: 1
+	Query: "catalognumber:97893" ; Times: 1
+	Query: "CAS 245265" ; Times: 1
+	Query: "specificepithet:alleni genus:Cataetyx" ; Times: 1
+	Query: "Ablennes hians" ; Times: 1
+	Query: "Tinca tinca" ; Times: 1
+	Query: "Atherinella brasiliensis" ; Times: 2
+	Query: "Elacatinus oceanops" ; Times: 1
+	Query: "31594" ; Times: 1
+	Query: "girella distance(location,geopoint(34.201118150252434,-118.79066482998338))&lt;37732" ; Times: 1
+	Query: "Pangasianodon hypophthalmus" ; Times: 1
+	Query: "Batrachoides surinamensis" ; Times: 1
+	Query: "Anableps dowei Honduras" ; Times: 1
+	Query: "Coptodon zillii" ; Times: 1
+	Query: "heterodon" ; Times: 1
+	Query: "CAS 220256" ; Times: 1
+	Query: "Alopias pelagicus" ; Times: 1
+	Query: "CAS 220255" ; Times: 1
+	Query: "Argyropelecus aculeatus" ; Times: 2
+	Query: "Hyporhamphus unifasciatus" ; Times: 2
+	Query: "Alepocephalus agassizii" ; Times: 1
+	Query: "hasmass:1 haslength:1" ; Times: 1
+	Query: "Genyomyrus donnyi" ; Times: 1
+	Query: "8020" ; Times: 3
+	Query: "Alepocephalus australis" ; Times: 1
+	Query: "Engyophrys sanctilaurentii" ; Times: 1
+	Query: "234743" ; Times: 2
+	Query: "Atherinops affinis distance(location,geopoint(33.89019037023159,-118.57840321728897))&lt;100000" ; Times: 1
+	Query: "Awaous banana" ; Times: 1
+	Query: "Abramis brama" ; Times: 1
+	Query: "Arapaima" ; Times: 1
+	Query: "Doryrhamphus" ; Times: 1
+	Query: "Neolebias unifasciatus" ; Times: 1
+	Query: "Leuciscus leuciscus" ; Times: 1
+	Query: "nicefori" ; Times: 1
+	Query: "35359" ; Times: 1
+	Query: "35358" ; Times: 1
+	Query: "Centropomus undecimalis" ; Times: 1
+	Query: "Laccadive" ; Times: 2
+	Query: "Thunnus orientalis" ; Times: 1
+	Query: "Cirrhitichthys oxycephalus" ; Times: 1
+	Query: "bothus constellatus" ; Times: 1
+	Query: "Melanogrammus aeglefinus" ; Times: 2
+	Query: "genus:Pomatoschistus" ; Times: 1
+	Query: "CAS 215280" ; Times: 1
+	Query: "Nannaethiops unitaeniatus" ; Times: 1
+	Query: "catalognumber:91481" ; Times: 1
+	Query: "Carcharhinus acronotus" ; Times: 1
+	Query: "Hypsopsetta guttulata distance(location,geopoint(34.201118150252434,-118.79066482998338))&lt;42537" ; Times: 2
+	Query: "44744" ; Times: 1
+	Query: "Trichopsetta melasma" ; Times: 2
+	Query: "Moxostoma anisurum" ; Times: 4
+	Query: "Strongylura exilis" ; Times: 1
+	Query: "Bradshaw eggs" ; Times: 6
+	Query: "Rio Beni" ; Times: 2
+	Query: "locality:pecos" ; Times: 1
+	Query: "64753" ; Times: 1
+	Query: "CAS 234408" ; Times: 2
+	Query: "ancistrus brevipinnis" ; Times: 3
+	Query: "Oreochromis mossambicus" ; Times: 1
+	Query: "CAS 234875" ; Times: 3
+	Query: "Cottus rhotheus stateprovince:&#34;oregon&#34;" ; Times: 1
+	Query: "genus:Chascanopsetta" ; Times: 8
+	Query: "Epigonus" ; Times: 1
+	Query: "19285" ; Times: 1
+	Query: "Conger triporiceps" ; Times: 1
+	Query: "anchovia clupeoides" ; Times: 1
+	Query: "Sebastes alutus" ; Times: 5
+	Query: "nerophis" ; Times: 1
+	Query: "92740" ; Times: 1
+	Query: "Ammodytes tobianus" ; Times: 2
+	Query: "specificepithet:acanthopoma genus:Centrodraco" ; Times: 1
+	Query: "11295" ; Times: 1
+	Query: "country:&#34;Angola&#34;" ; Times: 1
+	Query: "Clevelandia ios county:&#34;Los Angeles&#34;" ; Times: 1
+	Query: "Limanda limanda" ; Times: 1
+	Query: "Gasterosteus aculeatus aculeatus distance(location,geopoint(34.201118150252434,-118.79066482998338))&lt;32713" ; Times: 1
+	Query: "25785" ; Times: 1
+	Query: "75459" ; Times: 1
+	Query: "Electrophorus electricus" ; Times: 6
+	Query: "33873" ; Times: 1
+	Query: "Metzia formosae" ; Times: 1
+	Query: "specificepithet:crassiceps genus:Cetonurus" ; Times: 1
+	Query: "Fratercula corniculata" ; Times: 1
+	Query: "Auchenipterus nigripinnis" ; Times: 1
+	Query: "Synbranchus marmoratus" ; Times: 2
+	Query: "CAS 43622" ; Times: 3
+	Query: "Strongylura notata" ; Times: 1
+	Query: "caranx hippos" ; Times: 1
+	Query: "bison bison" ; Times: 2
+	Query: "Thunnus albacares" ; Times: 1
+	Query: "Carassius auratus" ; Times: 1
+	Query: "Pseudorasbora parva" ; Times: 1
+	Query: "locality:san nicolas county:&#34;ventura&#34;" ; Times: 2
+	Query: "genus:Periophthalmodon" ; Times: 2
+	Query: "specificepithet:Acanthopoma genus:Centrodraco" ; Times: 1
+	Query: "locality:Marianna stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "characodon lateralis" ; Times: 1
+	Query: "Gasterosteus aculeatus aculeatus" ; Times: 4
+	Query: "Cottus perplexus stateprovince:&#34;oregon&#34;" ; Times: 1
+	Query: "CAS 73737" ; Times: 1
+	Query: "Distichodus sexfasciatus" ; Times: 1
+	Query: "Tylosurus crocodilus" ; Times: 1
+	Query: "specimen records ASU" ; Times: 1
+	Query: "catalognumber:30627" ; Times: 1
+	Query: "Petrocephalus simus" ; Times: 1
+	Query: "CAS 215112" ; Times: 1
+	Query: "Pucallpa" ; Times: 1
+	Query: "Pungitius platygaster" ; Times: 1
+	Query: "Echiodon exsilium" ; Times: 2
+	Query: "Profundulus guatemalensis" ; Times: 1
+	Query: "locality:marianna stateprovince:&#34;florida&#34;" ; Times: 1
+	Query: "genus:Mugil cephalus distance(location,geopoint(33.784707579162436,-118.96901346686928))&lt;100000" ; Times: 13
+	Query: "stateprovince:&#34;Catanduanes&#34;" ; Times: 2
+	Query: "ensifera ensifera South America" ; Times: 1
+	Query: "scientificname:(Fundulus rathbuni) country:United States mappable:1" ; Times: 1
+	Query: "Bothus leopardinus" ; Times: 1
+	Query: "catalognumber:206620 institutioncode:CAS" ; Times: 2
+	Query: "Acanthurus xanthopterus" ; Times: 1
+	Query: "Caranx melampygus" ; Times: 1
+	Query: "32206" ; Times: 1
+	Query: "32207" ; Times: 1
+	Query: "Hypophthalmichthys molitrix" ; Times: 1
+	Query: "Rhynchoconger nitens" ; Times: 2
+	Query: "Merluccius merluccius" ; Times: 1
+	Query: "Aetobatus narinari" ; Times: 1
+	Query: "genus:Cetonurus" ; Times: 5
+	Query: "gene" ; Times: 1
+	Query: "Ariopsis seemanni" ; Times: 1
+	Query: "Gila orcuttii distance(location,geopoint(33.88832780190809,-118.43325737857694))&lt;100000" ; Times: 18
+	Query: "71606" ; Times: 1
+	Query: "genus:Periophthalmus" ; Times: 9
+	Query: "Piura" ; Times: 1
+	Query: "Atherinops affinis distance(location,geopoint(33.89019037023159,-118.57840321728897))&lt;44026" ; Times: 2
+	Query: "Fundulus zebrinus" ; Times: 3
+	Query: "Phaeoptyx conklini" ; Times: 2
+	Query: "lithogenes" ; Times: 2
+	Query: "235408" ; Times: 1
+	Query: "caranx latus" ; Times: 1
+	Query: "Bajacalifornia megalops" ; Times: 1
+	Query: "catalognumber:202728" ; Times: 1
+	Query: "Atherinops affinis distance(location,geopoint(33.891330342148926,-118.59350941846084))&lt;12554.60812049062" ; Times: 2
+	Query: "Micromesistius poutassou" ; Times: 1
+	Query: "stateprovince:&#34;Puno&#34; country:&#34;Peru&#34;" ; Times: 1
+	Query: "Ogilbia ventralis" ; Times: 1
+	Query: "Distichodus fasciolatus" ; Times: 1
+	Query: "Paralichthys californicus" ; Times: 3
+	Query: "Cottus bairdi" ; Times: 1
+	Query: "Istiophorus platypterus" ; Times: 5
+	Query: "Achirus mazatlanus" ; Times: 2
+	Query: "Pseudophallus mindii" ; Times: 1
+	Query: "OM" ; Times: 1
+	Query: "Narcine entemedor" ; Times: 2
+	Query: "Leptocephalus conger" ; Times: 1
+	Query: "Centropomus ensiferus" ; Times: 1
+	Query: "Lutjanus analis" ; Times: 1
+	Query: "Scardinius erythrophthalmus" ; Times: 1
+	Query: "Perissias taeniopterus" ; Times: 1
+	Query: "diazi" ; Times: 1
+	Query: "Gasterosteus aculeatus aculeatus distance(location,geopoint(34.17385436955003,-119.15870682217088))&lt;100000" ; Times: 1
+	Query: "Entomacrodus nigricans" ; Times: 1
+	Query: "Kryptophanaron alfredi" ; Times: 2
+	Query: "Pleuronichthys ritteri" ; Times: 2
+	Query: "stateprovince:&#34;Minnesota&#34;" ; Times: 1
+	Query: "catalognumber:6205" ; Times: 1
+	Query: "Phago boulengeri" ; Times: 1
+	Query: "Caranx vinctus" ; Times: 1
+	Query: "B. marmoratus" ; Times: 1
+	Query: "rattlesnake" ; Times: 2
+	Query: "caranx ruber" ; Times: 1
+	Query: "20858" ; Times: 1
+	Query: "Verilus" ; Times: 1
+	Query: "Anguilla australis" ; Times: 1
+	Query: "Brama japonica" ; Times: 3
+	Query: "county:&#34;Clallam&#34;" ; Times: 2
+	Query: "specificepithet:lugubris genus:Chascanopsetta" ; Times: 1
+	Query: "Gymnarchus niloticus" ; Times: 1
+	Query: "Dionda episcopa" ; Times: 1
+	Query: "Mugil cephalus" ; Times: 5
+	Query: "29224" ; Times: 2
+	Query: "recordedby:lehmann basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "stateprovince:&#34;Connecticut&#34;" ; Times: 2
+	Query: "70387" ; Times: 1
+	Query: "Pangasius bocourti" ; Times: 1
+	Query: "trichomycterus" ; Times: 1
+	Query: "Notemigonus crysoleucas" ; Times: 1
+	Query: "country:&#34;Puerto Rico&#34;" ; Times: 1
+	Query: "Barbatula toni" ; Times: 1
+	Query: "catalognumber:58879" ; Times: 1
+	Query: "Leptocottus armatus stateprovince:&#34;oregon&#34;" ; Times: 1
+	Query: "56164" ; Times: 2
+	Query: "Neolebias ansorgii" ; Times: 1
+	Query: "Anguilla japonica" ; Times: 1
+	Query: "Acanthurus triostegus" ; Times: 1
+	Query: "Carcharhinus falciformis" ; Times: 1
+	Query: "lifestage:juvenile" ; Times: 1
+	Query: "CAS 224426" ; Times: 1
+	Query: "jackson county" ; Times: 1
+	Query: "Cymatogaster aggregata distance(location,geopoint(34.201118150252434,-118.79066482998338))&lt;42537" ; Times: 1
+	Query: "Antennatus strigatus" ; Times: 2
+	Query: "Cache River" ; Times: 1
+	Query: "Gasterosteus aculeatus" ; Times: 1
+	Query: "Bathycongrus macrurus" ; Times: 1
+	Query: "Igarape" ; Times: 2
+	Query: "Antigonia combatia" ; Times: 1
+	Query: "65686" ; Times: 1
+	Query: "Ogilbia suarezae" ; Times: 2
+	Query: "county:&#34;Los Angeles&#34; distance(location,geopoint(33.95319648491853,-118.57263305247271))&lt;18963.7980348576" ; Times: 2
+	Query: "Ariomma bondi" ; Times: 1
+	Query: "Gobiesox strumosus" ; Times: 1
+	Query: "Apogon townsendi" ; Times: 1
+	Query: "Syngnathus pelagicus" ; Times: 1
+	Query: "Cottus klamathensis stateprovince:&#34;oregon&#34;" ; Times: 1
+	Query: "Iguana" ; Times: 3
+	Query: "CAS 211813" ; Times: 2
+	Query: "Caristius" ; Times: 1
+	Query: "Hypleurochilus springeri" ; Times: 2
+	Query: "Aphyosemion australe" ; Times: 1
+	Query: "Alepisaurus ferox" ; Times: 1
+	Query: "Trachinotus goodei" ; Times: 2
+	Query: "specificepithet:simplex genus:Cetomimus" ; Times: 1
+	Query: "Trachurus trachurus" ; Times: 1
+	Query: "CAS 210323" ; Times: 1
+	Query: "Thunnus atlanticus" ; Times: 1
+	Query: "specificepithet:bruuni genus:Cataetyx" ; Times: 1
+	Query: "45154" ; Times: 1
+	Query: "Apeltes quadracus" ; Times: 1
+	Query: "genus:Cetomimus" ; Times: 3
+	Query: "Ariosoma gilberti" ; Times: 1
+	Query: "Hybopsis aestivalis" ; Times: 1
+	Query: "hybrid" ; Times: 1
+	Query: "CAS 222087" ; Times: 1
+	Query: "aestivalis" ; Times: 1
+	Query: "Gasterosteus aculeatus aculeatus distance(location,geopoint(34.23745614638836,-118.98292557217088))&lt;26138.492445553376" ; Times: 1
+	Query: "specificepithet:robustus genus:Cetonurus" ; Times: 1
+	Query: "stateprovince:&#34;Missouri&#34;" ; Times: 1
+	Query: "Oreochromis niloticus" ; Times: 1
+	Query: "Benthophilus stellatus" ; Times: 2
+	Query: "A. pygmaea" ; Times: 1
+	Query: "specificepithet:teevani genus:Cetomimus" ; Times: 1
+	Query: "genus:Cataetyx" ; Times: 18
+	Query: "genus:Centrophorus" ; Times: 2
+	Query: "Lefua costata" ; Times: 1
+	Query: "catalognumber:98699" ; Times: 1
+	Query: "52769" ; Times: 1
+	Query: "Gila orcuttii" ; Times: 1
+	Query: "Serranochromis robustus" ; Times: 1
+	Query: "Anableps dowei" ; Times: 1
+	Query: "sicydium plumieri" ; Times: 1
+	Query: "country:&#34;Maldives&#34; syngnathidae" ; Times: 1
+	Query: "R 52046" ; Times: 1
+	Query: "Scomber scombrus" ; Times: 3
+	Query: "Galeus melastomus" ; Times: 1
+	Query: "country:&#34;Maldives&#34;" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 16 (out of 756 download events in this period)
+Total number of records downloaded: 812
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Unknown ; Times: 1
+	Country: United States ; Times: 11
+	Country: China ; Times: 1
+	Country: Puerto Rico ; Times: 1
+	Country: Norway ; Times: 1
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-08-13 ; Times: 2
+	Date: 2020-08-12 ; Times: 1
+	Date: 2020-08-29 ; Times: 1
+	Date: 2020-08-26 ; Times: 5
+	Date: 2020-08-24 ; Times: 2
+	Date: 2020-08-21 ; Times: 1
+	Date: 2020-08-31 ; Times: 1
+	Date: 2020-08-05 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "stateprovince:&#34;Oregon&#34; year &gt;= 1990 year &lt;= 2020" ; Times: 1
+	Query: "Pristis pectinata" ; Times: 1
+	Query: "Gasterosteus aculeatus aculeatus distance(location,geopoint(34.17385436955003,-119.15870682217088))&lt;100000" ; Times: 1
+	Query: "sicydium plumieri" ; Times: 1
+	Query: "ensifera ensifera South America" ; Times: 1
+	Query: "gadus morhua" ; Times: 1
+	Query: "atractoscion nobilis" ; Times: 1
+	Query: "Cymatogaster aggregata distance(location,geopoint(34.201118150252434,-118.79066482998338))&lt;42537" ; Times: 1
+	Query: "county:&#34;Clallam&#34;" ; Times: 1
+	Query: "Laticauda colubrina" ; Times: 1
+	Query: "Gasterosteus aculeatus aculeatus distance(location,geopoint(34.201118150252434,-118.79066482998338))&lt;32713" ; Times: 1
+	Query: "Hypsopsetta guttulata distance(location,geopoint(34.201118150252434,-118.79066482998338))&lt;42537" ; Times: 1
+	Query: "pristis pristis" ; Times: 1
+	Query: "genus:Periophthalmus" ; Times: 1
+	Query: "girella distance(location,geopoint(34.201118150252434,-118.79066482998338))&lt;42537" ; Times: 1
+	Query: "country:&#34;Puerto Rico&#34;" ; Times: 1
+
+
+End of report.
