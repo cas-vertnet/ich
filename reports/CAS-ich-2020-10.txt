@@ -1,0 +1,1909 @@
+Report for Institution Code CAS, Resource ich
+Usage stats for October 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 4390
+Number of records retrieved in searches: 65996
+Number of different countries where searches have been originated: 31
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 20
+	Country: Canada ; Times: 62
+	Country: Italy ; Times: 4
+	Country: Bangladesh ; Times: 1
+	Country: Unknown ; Times: 6
+	Country: Panama ; Times: 1
+	Country: France ; Times: 3344
+	Country: Peru ; Times: 3
+	Country: Venezuela ; Times: 3
+	Country: Ecuador ; Times: 9
+	Country: Australia ; Times: 2
+	Country: Guatemala ; Times: 3
+	Country: China ; Times: 1
+	Country: Germany ; Times: 15
+	Country: Spain ; Times: 1
+	Country: Denmark ; Times: 2
+	Country: Philippines ; Times: 1
+	Country: Finland ; Times: 1
+	Country: United States ; Times: 537
+	Country: Vietnam ; Times: 10
+	Country: Switzerland ; Times: 1
+	Country: New Zealand ; Times: 1
+	Country: Russia ; Times: 14
+	Country: Albania ; Times: 2
+	Country: Mexico ; Times: 52
+	Country: South Africa ; Times: 2
+	Country: India ; Times: 7
+	Country: United Kingdom ; Times: 270
+	Country: Austria ; Times: 3
+	Country: Colombia ; Times: 5
+	Country: Japan ; Times: 7
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-10-09 ; Times: 25
+	Date: 2020-10-18 ; Times: 11
+	Date: 2020-10-19 ; Times: 262
+	Date: 2020-10-08 ; Times: 48
+	Date: 2020-10-12 ; Times: 52
+	Date: 2020-10-13 ; Times: 291
+	Date: 2020-10-10 ; Times: 11
+	Date: 2020-10-11 ; Times: 5
+	Date: 2020-10-16 ; Times: 149
+	Date: 2020-10-31 ; Times: 45
+	Date: 2020-10-14 ; Times: 14
+	Date: 2020-10-15 ; Times: 503
+	Date: 2020-10-03 ; Times: 8
+	Date: 2020-10-23 ; Times: 400
+	Date: 2020-10-22 ; Times: 173
+	Date: 2020-10-21 ; Times: 101
+	Date: 2020-10-20 ; Times: 911
+	Date: 2020-10-27 ; Times: 16
+	Date: 2020-10-26 ; Times: 18
+	Date: 2020-10-25 ; Times: 16
+	Date: 2020-10-24 ; Times: 616
+	Date: 2020-10-01 ; Times: 13
+	Date: 2020-10-30 ; Times: 15
+	Date: 2020-10-29 ; Times: 17
+	Date: 2020-10-28 ; Times: 39
+	Date: 2020-10-05 ; Times: 22
+	Date: 2020-10-04 ; Times: 8
+	Date: 2020-10-07 ; Times: 38
+	Date: 2020-10-17 ; Times: 511
+	Date: 2020-10-06 ; Times: 43
+	Date: 2020-10-02 ; Times: 9
+
+List of queries that retrieved data from the resource: 
+	Query: "mappable:1 scientificname:Acanthocybium solandri" ; Times: 4
+	Query: "scientificname:(Ichthyomyzon bdellium) country:United States mappable:1" ; Times: 1
+	Query: "Seriola rivoliana" ; Times: 1
+	Query: "scientificname:(Fundulus notatus) country:United States mappable:1" ; Times: 2
+	Query: "Auxis rochei rochei mappable:1" ; Times: 1
+	Query: "mappable:1 scientificname:Chilomycterus antennatus" ; Times: 9
+	Query: "mappable:1 scientificname:Seriola zonata" ; Times: 4
+	Query: "mappable:1 scientificname:Albula vulpes" ; Times: 16
+	Query: "Halichoeres bivittatus mappable:1" ; Times: 1
+	Query: "Ariomma regulus mappable:1" ; Times: 1
+	Query: "Anomalops katoptron" ; Times: 1
+	Query: "Symphurus leei" ; Times: 1
+	Query: "scientificname:(Notropis cummingsae) country:United States mappable:1" ; Times: 2
+	Query: "Ariomma bondi mappable:1" ; Times: 1
+	Query: "scientificname:(Fundulus confluentus OR Fundulus ocellaris) country:United States mappable:1" ; Times: 1
+	Query: "Gymnothorax funebris mappable:1" ; Times: 1
+	Query: "Alectis ciliaris" ; Times: 1
+	Query: "Bathygobius soporator mappable:1" ; Times: 1
+	Query: "Ophidion holbrookii mappable:1" ; Times: 1
+	Query: "scientificname:(Leptolucania ommata) country:United States mappable:1" ; Times: 1
+	Query: "mappable:1 scientificname:Sparisoma chrysopterum" ; Times: 4
+	Query: "catalognumber:223402 institutioncode:CAS" ; Times: 1
+	Query: "Engraulis encrasicolus" ; Times: 3
+	Query: "mappable:1 scientificname:Acanthurus chirurgus" ; Times: 10
+	Query: "Diaphus garmani mappable:1" ; Times: 1
+	Query: "mappable:1 scientificname:Stegastes variabilis" ; Times: 5
+	Query: "mappable:1 scientificname:Raja eglanteria" ; Times: 6
+	Query: "Carcharhinus acronotus mappable:1" ; Times: 1
+	Query: "specificepithet:atraria genus:Cyclothone stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Argentina georgei mappable:1" ; Times: 1
+	Query: "Caranx lugubris mappable:1" ; Times: 1
+	Query: "Chromis multilineata mappable:1" ; Times: 1
+	Query: "mappable:1 scientificname:Cantherhines pullus" ; Times: 7
+	Query: "16252" ; Times: 1
+	Query: "Stegastes variabilis mappable:1" ; Times: 1
+	Query: "Abudefduf saxatilis mappable:1" ; Times: 1
+	Query: "panda" ; Times: 2
+	Query: "mappable:1 scientificname:Bodianus rufus" ; Times: 8
+	Query: "Hemiramphus brasiliensis mappable:1" ; Times: 1
+	Query: "scientificname:(Chrosomus oreas OR Phoxinus oreas) country:United States mappable:1" ; Times: 1
+	Query: "Lavinia exilicauda" ; Times: 1
+	Query: "scientificname:(Crystallaria asprella OR Ammocrypta asprella) country:United States mappable:1" ; Times: 1
+	Query: "Micrognathus crinitus mappable:1" ; Times: 1
+	Query: "catalognumber:17272 institutioncode:CAS" ; Times: 1
+	Query: "mappable:1 scientificname:Polydactylus oligodon" ; Times: 1
+	Query: "Monopenchelys acuta mappable:1" ; Times: 1
+	Query: "Bregmaceros atlanticus mappable:1" ; Times: 1
+	Query: "mappable:1 scientificname:Chaunax suttkusi" ; Times: 2
+	Query: "mappable:1 scientificname:Etmopterus hillianus" ; Times: 5
+	Query: "Haemulon bonariense mappable:1" ; Times: 1
+	Query: "Jimenez Chihuahua" ; Times: 1
+	Query: "62511" ; Times: 1
+	Query: "Diplectrum formosum mappable:1" ; Times: 1
+	Query: "mappable:1 scientificname:Haemulon bonariense" ; Times: 6
+	Query: "Hypoplectrus nigricans mappable:1" ; Times: 1
+	Query: "mappable:1 scientificname:Serranus baldwini" ; Times: 4
+	Query: "mappable:1 scientificname:Achirus lineatus" ; Times: 15
+	Query: "Opistognathus aurifrons mappable:1" ; Times: 1
+	Query: "mappable:1 scientificname:Acanthurus coeruleus" ; Times: 10
+	Query: "mappable:1 scientificname:Gonioplectrus hispanus" ; Times: 5
+	Query: "Prototroctes maraena" ; Times: 1
+	Query: "Serranus baldwini mappable:1" ; Times: 1
+	Query: "Coregonus kiyi" ; Times: 1
+	Query: "mappable:1 scientificname:Myrichthys breviceps" ; Times: 6
+	Query: "Myoxocephalus stelleri" ; Times: 1
+	Query: "noturus nocturnus" ; Times: 1
+	Query: "mappable:1 scientificname:Syacium micrurum" ; Times: 6
+	Query: "Pterophyllum scalare" ; Times: 1
+	Query: "scientificname:(Etheostoma crossopterum) country:United States mappable:1" ; Times: 1
+	Query: "mappable:1 scientificname:Zebrasoma velifer" ; Times: 19
+	Query: "threatened species" ; Times: 1
+	Query: "Pseudolabrus gayi" ; Times: 1
+	Query: "mappable:1 scientificname:Evorthodus lyricus" ; Times: 4
+	Query: "Trachinotus goodei mappable:1" ; Times: 1
+	Query: "Megalaspis cordyla" ; Times: 1
+	Query: "specificepithet:hemigymnus genus:Argyropelecus stateprovince:&#34;California&#34;" ; Times: 3
+	Query: "scientificname:(Notropis blennius OR Notropis albeolus) country:United States mappable:1" ; Times: 1
+	Query: "mappable:1 scientificname:Parablennius marmoreus" ; Times: 6
+	Query: "Icelinus oculatus" ; Times: 1
+	Query: "mappable:1 scientificname:Chaetodon striatus" ; Times: 9
+	Query: "scientificname:(Chrosomus erythrogaster OR Phoxinus erythrogaster) country:United States mappable:1" ; Times: 1
+	Query: "Pterocaesio digramma" ; Times: 1
+	Query: "Gempylus serpens mappable:1" ; Times: 1
+	Query: "Chaetodon capistratus mappable:1" ; Times: 1
+	Query: "Acheilognathus tabira" ; Times: 2
+	Query: "Gymnothorax ocellatus mappable:1" ; Times: 1
+	Query: "CAS 224555" ; Times: 1
+	Query: "mappable:1 scientificname:Eugerres plumieri" ; Times: 5
+	Query: "107717" ; Times: 1
+	Query: "scientificname:Vinciguerria poweriae" ; Times: 1
+	Query: "scientificname:Barbatula barbatula" ; Times: 3
+	Query: "Sprattus sprattus" ; Times: 2
+	Query: "scientificname:(Coregonus hoyi) country:United States mappable:1" ; Times: 1
+	Query: "Strongylura marina mappable:1" ; Times: 1
+	Query: "mappable:1 scientificname:Conger triporiceps" ; Times: 4
+	Query: "scientificname:(Etheostoma squamiceps) country:United States mappable:1" ; Times: 1
+	Query: "Labrisomus nuchipinnis mappable:1" ; Times: 1
+	Query: "specificepithet:pretiosus genus:Hypomesus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "CAS 205260" ; Times: 1
+	Query: "scientificname:(Moxostoma rupiscartes OR Scartomyzon rupiscartes) country:United States mappable:1" ; Times: 1
+	Query: "Emblemaria pandionis mappable:1" ; Times: 1
+	Query: "Carcharhinus falciformis mappable:1" ; Times: 1
+	Query: "Epinephelus adscensionis mappable:1" ; Times: 1
+	Query: "aethotaxis" ; Times: 2
+	Query: "catalognumber:237501" ; Times: 1
+	Query: "Oncorhynchus tshawytscha" ; Times: 1
+	Query: "Centropyge argi mappable:1" ; Times: 1
+	Query: "Hendrickson" ; Times: 1
+	Query: "mappable:1 scientificname:Scomberomorus cavalla" ; Times: 2
+	Query: "mappable:1 scientificname:Scomberomorus regalis" ; Times: 3
+	Query: "scientificname:(Coregonus kiyi) country:United States mappable:1" ; Times: 1
+	Query: "scientificname:(Esox americanus americanus) country:United States mappable:1" ; Times: 2
+	Query: "scientificname:Alopias vulpinus" ; Times: 2
+	Query: "Eleotris fusca" ; Times: 1
+	Query: "Caranx crysos mappable:1" ; Times: 1
+	Query: "Brienomyrus brachyistius" ; Times: 1
+	Query: "mappable:1 scientificname:Dormitator maculatus" ; Times: 13
+	Query: "Plectrypops retrospinis mappable:1" ; Times: 1
+	Query: "Diaphus rafinesquii mappable:1" ; Times: 1
+	Query: "mappable:1 scientificname:Priacanthus arenatus" ; Times: 5
+	Query: "Pagrus major" ; Times: 1
+	Query: "Carcharhinus limbatus mappable:1" ; Times: 1
+	Query: "mappable:1 scientificname:Sphyrna zygaena" ; Times: 3
+	Query: "scientificname:(Gila elegans) country:United States mappable:1" ; Times: 1
+	Query: "Nealotus tripes mappable:1" ; Times: 1
+	Query: "Jiménez Chihuahua" ; Times: 1
+	Query: "mappable:1 scientificname:Phaeoptyx conklini" ; Times: 3
+	Query: "Opistognathus maxillosus mappable:1" ; Times: 1
+	Query: "mappable:1 scientificname:Chloroscombrus chrysurus" ; Times: 3
+	Query: "mappable:1 scientificname:Ginglymostoma cirratum" ; Times: 3
+	Query: "Euthynnus alletteratus mappable:1" ; Times: 1
+	Query: "Antennarius multiocellatus mappable:1" ; Times: 1
+	Query: "mappable:1 scientificname:Aldrovandia affinis" ; Times: 5
+	Query: "chihuahua" ; Times: 1
+	Query: "mappable:1 scientificname:Nealotus tripes" ; Times: 5
+	Query: "scientificname:(Etheostoma proeliare) country:United States mappable:1" ; Times: 1
+	Query: "Epinephelus guttatus mappable:1" ; Times: 1
+	Query: "Scopeloberyx opisthopterus mappable:1" ; Times: 1
+	Query: "mappable:1 scientificname:Ogcocephalus vespertilio" ; Times: 8
+	Query: "iowa" ; Times: 1
+	Query: "stateprovince:&#34;California&#34; country:&#34;United States&#34;" ; Times: 2
+	Query: "Lepidocybium flavobrunneum mappable:1" ; Times: 1
+	Query: "Pomacanthus arcuatus mappable:1" ; Times: 1
+	Query: "Carangoides ferdau" ; Times: 1
+	Query: "Gulo gulo" ; Times: 1
+	Query: "Chilorhinus suensonii mappable:1" ; Times: 1
+	Query: "50854" ; Times: 1
+	Query: "Astronesthes cyaneus mappable:1" ; Times: 1
+	Query: "mappable:1 scientificname:Micrognathus crinitus" ; Times: 2
+	Query: "Distichodus decemmaculatus" ; Times: 1
+	Query: "Scardinius erythrophthalmus" ; Times: 1
+	Query: "mappable:1 scientificname:Chriodorus atherinoides" ; Times: 5
+	Query: "mappable:1 scientificname:Alopias superciliosus" ; Times: 3
+	Query: "Thunnus tonggol" ; Times: 1
+	Query: "Atherinosoma microstoma" ; Times: 1
+	Query: "mappable:1 scientificname:Apogon maculatus" ; Times: 10
+	Query: "scientificname:(Notropis orca) country:United States mappable:1" ; Times: 1
+	Query: "mappable:1 scientificname:Ruvettus pretiosus" ; Times: 5
+	Query: "Makaira nigricans mappable:1" ; Times: 1
+	Query: "mappable:1 scientificname:Histrio histrio" ; Times: 2
+	Query: "scientificname:(Fundulus sciadicus) country:United States mappable:1" ; Times: 1
+	Query: "Selaroides leptolepis" ; Times: 1
+	Query: "stateprovince:&#34;Sinaloa&#34; country:&#34;Mexico&#34;" ; Times: 2
+	Query: "mappable:1 scientificname:Neobythites marginatus" ; Times: 4
+	Query: "specificepithet:fasciolata country:&#34;philippines&#34;" ; Times: 1
+	Query: "mappable:1 scientificname:Anchoa cubana" ; Times: 9
+	Query: "scientificname:(Etheostoma gracile) country:United States mappable:1" ; Times: 2
+	Query: "mappable:1 scientificname:Cynoponticus savanna" ; Times: 4
+	Query: "mappable:1 scientificname:Myctophum obtusirostre" ; Times: 3
+	Query: "mappable:1 scientificname:Clepticus parrae" ; Times: 8
+	Query: "Rastrelliger kanagurta" ; Times: 1
+	Query: "mappable:1 scientificname:Pontinus castor" ; Times: 6
+	Query: "genus:Harriotta stateprovince:&#34;California&#34;" ; Times: 3
+	Query: "Bryx randalli mappable:1" ; Times: 1
+	Query: "25126" ; Times: 1
+	Query: "Campylomormyrus numenius" ; Times: 1
+	Query: "CAS 220640" ; Times: 1
+	Query: "scientificname:(Notropis lutipinnis) country:United States mappable:1" ; Times: 1
+	Query: "scientificname:(Siphateles bicolor pectinifer OR Gila bicolor pectinifer) country:United States mappable:1" ; Times: 1
+	Query: "specificepithet:keta genus:Oncorhynchus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Chihuahua" ; Times: 4
+	Query: "mappable:1 scientificname:Acanthurus bahianus" ; Times: 10
+	Query: "mappable:1 scientificname:Strongylura marina" ; Times: 5
+	Query: "mappable:1 scientificname:Symphurus plagiusa" ; Times: 14
+	Query: "scientificname:Lampanyctus pusillus" ; Times: 2
+	Query: "mappable:1 scientificname:Monopenchelys acuta" ; Times: 3
+	Query: "Myoxocephalus quadricornis" ; Times: 1
+	Query: "scientificname:(Noturus gilberti) country:United States mappable:1" ; Times: 1
+	Query: "Argyrops spinifer" ; Times: 1
+	Query: "mappable:1 scientificname:Sarda sarda" ; Times: 3
+	Query: "mappable:1 scientificname:Lampris guttatus" ; Times: 5
+	Query: "genus:Coryphopterus" ; Times: 8
+	Query: "mappable:1 scientificname:Hypoplectrus puella" ; Times: 3
+	Query: "Peltorhamphus novaezeelandiae" ; Times: 1
+	Query: "Alburnus hohenackeri" ; Times: 1
+	Query: "1905-03-19" ; Times: 1
+	Query: "Dentex tumifrons" ; Times: 1
+	Query: "mappable:1 scientificname:Echidna catenata" ; Times: 4
+	Query: "mappable:1 scientificname:Hemiramphus balao" ; Times: 5
+	Query: "specificepithet:affinis genus:Argyropelecus stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "Lagocephalus laevigatus mappable:1" ; Times: 1
+	Query: "Cheilodactylus zonatus" ; Times: 1
+	Query: "Acanthurus bahianus mappable:1" ; Times: 1
+	Query: "mappable:1 scientificname:Rhizoprionodon terraenovae" ; Times: 5
+	Query: "Anchoa cubana mappable:1" ; Times: 1
+	Query: "Hatcheria macraei" ; Times: 2
+	Query: "mappable:1 scientificname:Stephanolepis hispidus" ; Times: 9
+	Query: "mappable:1 scientificname:Scarus guacamaia" ; Times: 6
+	Query: "Myctophum nitidulum mappable:1" ; Times: 1
+	Query: "Anchoa hepsetus mappable:1" ; Times: 1
+	Query: "mappable:1 scientificname:Nomeus gronovii" ; Times: 3
+	Query: "mappable:1 scientificname:Haemulon sciurus" ; Times: 3
+	Query: "Katsuwonus pelamis mappable:1" ; Times: 1
+	Query: "mappable:1 scientificname:Pagrus pagrus" ; Times: 7
+	Query: "scientificname:(Notropis edwardraneyi) country:United States mappable:1" ; Times: 1
+	Query: "Culter alburnus" ; Times: 1
+	Query: "mappable:1 scientificname:Gadus morhua" ; Times: 2
+	Query: "Phalacrocorax urile" ; Times: 1
+	Query: "Sparisoma viride mappable:1" ; Times: 1
+	Query: "scientificname:Tylosurus acus acus" ; Times: 1
+	Query: "Eucinostomus harengulus mappable:1" ; Times: 1
+	Query: "mappable:1 scientificname:Upeneus parvus" ; Times: 8
+	Query: "Galeocerdo cuvier mappable:1" ; Times: 1
+	Query: "Dentex dentex" ; Times: 1
+	Query: "scientificname:(Hybognathus regius) country:United States mappable:1" ; Times: 2
+	Query: "mappable:1 scientificname:Dibranchus atlanticus" ; Times: 8
+	Query: "mappable:1 scientificname:Pseudupeneus maculatus" ; Times: 8
+	Query: "mappable:1 scientificname:Canthigaster rostrata" ; Times: 3
+	Query: "mappable:1 scientificname:Acanthostracion quadricornis" ; Times: 5
+	Query: "Gambusia puncticulata mappable:1" ; Times: 1
+	Query: "Sardinella aurita mappable:1" ; Times: 1
+	Query: "Rutilus rutilus" ; Times: 1
+	Query: "Dermatolepis inermis mappable:1" ; Times: 1
+	Query: "mappable:1 scientificname:Enchelycore carychroa" ; Times: 3
+	Query: "Ophioblennius atlanticus mappable:1" ; Times: 1
+	Query: "catalognumber:219646 institutioncode:CAS" ; Times: 1
+	Query: "Gunnison" ; Times: 2
+	Query: "casuarius" ; Times: 2
+	Query: "mappable:1 scientificname:Centropyge argi" ; Times: 5
+	Query: "sharks" ; Times: 1
+	Query: "mappable:1 scientificname:Diaphus dumerilii" ; Times: 3
+	Query: "Seriolella brama" ; Times: 1
+	Query: "scientificname:(Lythrurus lirus OR Notropis lirus OR Nototropis lirus) country:United States mappable:1" ; Times: 1
+	Query: "mappable:1 scientificname:Strongylura timucu" ; Times: 5
+	Query: "mappable:1 scientificname:Haemulon parra" ; Times: 4
+	Query: "Scartella cristata mappable:1" ; Times: 1
+	Query: "Pangasianodon hypophthalmus" ; Times: 1
+	Query: "mappable:1 scientificname:Harengula clupeola" ; Times: 6
+	Query: "mappable:1 scientificname:Fistularia tabacaria" ; Times: 9
+	Query: "mappable:1 scientificname:Myctophum affine" ; Times: 3
+	Query: "Hyporhamphus unifasciatus" ; Times: 1
+	Query: "mappable:1 scientificname:Prognathodes aculeatus" ; Times: 9
+	Query: "Sphyrna mokarran mappable:1" ; Times: 1
+	Query: "catalognumber:27103 institutioncode:CAS" ; Times: 2
+	Query: "Chrysichthys nigrodigitatus" ; Times: 1
+	Query: "mappable:1 scientificname:Awaous banana" ; Times: 4
+	Query: "mappable:1 scientificname:Synodus synodus" ; Times: 1
+	Query: "Symphurus plagusia mappable:1" ; Times: 1
+	Query: "mappable:1 scientificname:Atherinomorus stipes" ; Times: 5
+	Query: "Abramis brama" ; Times: 5
+	Query: "poecilia reticulata" ; Times: 2
+	Query: "scientificname:(Syngnathus scovelli) country:United States mappable:1" ; Times: 1
+	Query: "mappable:1 scientificname:Diodon hystrix" ; Times: 9
+	Query: "mappable:1 scientificname:Holocentrus rufus" ; Times: 8
+	Query: "Centrobranchus nigroocellatus mappable:1" ; Times: 1
+	Query: "Oplegnathus woodwardi" ; Times: 1
+	Query: "Lachnolaimus maximus mappable:1" ; Times: 1
+	Query: "Elagatis bipinnulata mappable:1" ; Times: 1
+	Query: "Thunnus orientalis" ; Times: 1
+	Query: "Naucrates ductor" ; Times: 1
+	Query: "Gnathophis heterognathos" ; Times: 1
+	Query: "mappable:1 scientificname:Gempylus serpens" ; Times: 5
+	Query: "Scomber australasicus" ; Times: 2
+	Query: "Howella brodiei mappable:1" ; Times: 1
+	Query: "Caranx ignobilis" ; Times: 1
+	Query: "J.R. Hendrickson" ; Times: 1
+	Query: "mappable:1 scientificname:Corvula batabana" ; Times: 6
+	Query: "scientificname:(Esox americanus vermiculatus) country:United States mappable:1" ; Times: 1
+	Query: "mappable:1 scientificname:Coelorinchus caribbaeus" ; Times: 5
+	Query: "Sparus aurata" ; Times: 4
+	Query: "Hoplunnis punctata" ; Times: 1
+	Query: "mappable:1 scientificname:Anchoa lyolepis" ; Times: 8
+	Query: "mappable:1 scientificname:Rachycentron canadum" ; Times: 4
+	Query: "mappable:1 scientificname:Aetobatus narinari" ; Times: 4
+	Query: "Xanthichthys ringens mappable:1" ; Times: 1
+	Query: "Symphurus plagiusa mappable:1" ; Times: 1
+	Query: "stateprovince:&#34;Nebraska&#34;" ; Times: 2
+	Query: "scientificname:(Notropis bifrenatus) country:United States mappable:1" ; Times: 1
+	Query: "Hyperopisus bebe" ; Times: 1
+	Query: "Ipnops murrayi mappable:1" ; Times: 1
+	Query: "mappable:1 scientificname:Carcharhinus leucas" ; Times: 5
+	Query: "mappable:1 scientificname:Lutjanus campechanus" ; Times: 8
+	Query: "Acanthocybium solandri mappable:1" ; Times: 1
+	Query: "mappable:1 scientificname:Umbrina broussonnetii" ; Times: 1
+	Query: "Snow" ; Times: 1
+	Query: "Scomberomorus sierra" ; Times: 1
+	Query: "Hypoplectrus indigo mappable:1" ; Times: 1
+	Query: "Moringua edwardsi mappable:1" ; Times: 1
+	Query: "scientificname:(Etheostoma fricksium) country:United States mappable:1" ; Times: 1
+	Query: "36220" ; Times: 2
+	Query: "stateprovince:&#34;Veracruz&#34;" ; Times: 2
+	Query: "mappable:1 scientificname:Isurus oxyrinchus" ; Times: 3
+	Query: "mappable:1 scientificname:Lutjanus apodus" ; Times: 6
+	Query: "mappable:1 scientificname:Alectis ciliaris" ; Times: 4
+	Query: "mappable:1 scientificname:Mycteroperca venenosa" ; Times: 3
+	Query: "mappable:1 scientificname:Auxis thazard thazard" ; Times: 3
+	Query: "mappable:1 scientificname:Cetengraulis edentulus" ; Times: 1
+	Query: "specificepithet:spinosissima genus:Bathyraja stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Acanthopagrus schlegelii" ; Times: 1
+	Query: "Tenualosa ilisha" ; Times: 1
+	Query: "Chilomycterus antillarum mappable:1" ; Times: 1
+	Query: "Pseudorasbora parva" ; Times: 1
+	Query: "mappable:1 scientificname:Diplectrum radiale" ; Times: 3
+	Query: "Phaeoptyx conklini mappable:1" ; Times: 1
+	Query: "kashmirensis" ; Times: 1
+	Query: "mappable:1 scientificname:Argyropelecus aculeatus" ; Times: 3
+	Query: "mappable:1 scientificname:Uraspis secunda" ; Times: 3
+	Query: "Arripis trutta" ; Times: 1
+	Query: "Thunnus alalunga" ; Times: 1
+	Query: "mappable:1 scientificname:Epinephelus morio" ; Times: 4
+	Query: "Eucinostomus argenteus mappable:1" ; Times: 1
+	Query: "mappable:1 scientificname:Malacocephalus occidentalis" ; Times: 5
+	Query: "mappable:1 scientificname:Oreochromis niloticus" ; Times: 15
+	Query: "Psenopsis anomala" ; Times: 1
+	Query: "mappable:1 scientificname:Carcharhinus limbatus" ; Times: 3
+	Query: "scientificname:(Gobiosoma bosc OR Gobiosoma molestum) country:United States mappable:1" ; Times: 1
+	Query: "Enophrys diceraus" ; Times: 1
+	Query: "Hippocampus erectus mappable:1" ; Times: 1
+	Query: "scientificname:(Brevoortia patronus) country:United States mappable:1" ; Times: 1
+	Query: "Lactophrys triqueter mappable:1" ; Times: 1
+	Query: "10766" ; Times: 1
+	Query: "Chondrostoma nasus" ; Times: 1
+	Query: "Awaous banana mappable:1" ; Times: 1
+	Query: "Caranx melampygus" ; Times: 1
+	Query: "Evorthodus lyricus mappable:1" ; Times: 1
+	Query: "scientificname:Atherinomorus forskalii" ; Times: 1
+	Query: "Sturgis" ; Times: 1
+	Query: "mappable:1 scientificname:Eurypharynx pelecanoides" ; Times: 5
+	Query: "Hypophthalmichthys molitrix" ; Times: 1
+	Query: "Aetobatus narinari" ; Times: 1
+	Query: "scientificname:(Notropis amoenus) country:United States mappable:1" ; Times: 1
+	Query: "Exocoetus obtusirostris mappable:1" ; Times: 1
+	Query: "Ulaema lefroyi mappable:1" ; Times: 1
+	Query: "scientificname:(Gila intermedia OR Gila robusta intermedia) country:United States mappable:1" ; Times: 1
+	Query: "Serranus flaviventris mappable:1" ; Times: 1
+	Query: "mappable:1 scientificname:Umbrina coroides" ; Times: 5
+	Query: "sea otter" ; Times: 3
+	Query: "Dactylopterus volitans mappable:1" ; Times: 1
+	Query: "mappable:1 scientificname:Mugil trichodon" ; Times: 5
+	Query: "44356" ; Times: 2
+	Query: "Thyrsites atun" ; Times: 1
+	Query: "mappable:1 scientificname:Malacanthus plumieri" ; Times: 9
+	Query: "genus:Galeocerdo" ; Times: 1
+	Query: "elk" ; Times: 1
+	Query: "Poblana Alchichica" ; Times: 1
+	Query: "scientificname:(Fundulus pulvereus) country:United States mappable:1" ; Times: 1
+	Query: "Haemulon melanurum mappable:1" ; Times: 1
+	Query: "mappable:1 scientificname:Synodus saurus" ; Times: 7
+	Query: "mappable:1 scientificname:Poecilia sphenops" ; Times: 7
+	Query: "scientificname:(Phenacobius uranops) country:United States mappable:1" ; Times: 1
+	Query: "Channomuraena vittata mappable:1" ; Times: 1
+	Query: "Galaxias platei" ; Times: 1
+	Query: "Brachyplatystoma filamentosum" ; Times: 3
+	Query: "Gibberichthys pumilus mappable:1" ; Times: 1
+	Query: "mappable:1 scientificname:Megalops atlanticus" ; Times: 5
+	Query: "mappable:1 scientificname:Stomias affinis" ; Times: 2
+	Query: "Missouri" ; Times: 1
+	Query: "Pterois volitans mappable:1" ; Times: 1
+	Query: "mappable:1 scientificname:Haemulon chrysargyreum" ; Times: 4
+	Query: "mappable:1 scientificname:Harengula jaguana" ; Times: 6
+	Query: "scientificname:(Notropis petersoni) country:United States mappable:1" ; Times: 1
+	Query: "Serranus tabacarius mappable:1" ; Times: 1
+	Query: "mappable:1 scientificname:Eleotris perniger" ; Times: 1
+	Query: "Balistes vetula mappable:1" ; Times: 1
+	Query: "Gymnarchus niloticus" ; Times: 1
+	Query: "mappable:1 scientificname:Cryptotomus roseus" ; Times: 7
+	Query: "Apodichthys fucorum" ; Times: 1
+	Query: "mappable:1 scientificname:Cheilopogon melanurus" ; Times: 4
+	Query: "mappable:1 scientificname:Symphurus plagusia" ; Times: 14
+	Query: "Decapterus punctatus mappable:1" ; Times: 1
+	Query: "captive" ; Times: 1
+	Query: "Coryphaena hippurus mappable:1" ; Times: 1
+	Query: "family:Alepocephalidae stateprovince:&#34;California&#34;" ; Times: 4
+	Query: "Acanthostracion quadricornis mappable:1" ; Times: 1
+	Query: "Caranx sexfasciatus mappable:1" ; Times: 1
+	Query: "mappable:1 scientificname:Thunnus atlanticus" ; Times: 3
+	Query: "specificepithet:obscura genus:Sternoptyx stateprovince:&#34;California&#34;" ; Times: 3
+	Query: "Remora brachyptera mappable:1" ; Times: 1
+	Query: "mappable:1 scientificname:Micropogonias furnieri" ; Times: 6
+	Query: "scientificname:(Fundulus lineolatus) country:United States mappable:1" ; Times: 1
+	Query: "Pagellus bogaraveo" ; Times: 1
+	Query: "scientificname:(Dormitator maculatus) country:United States mappable:1" ; Times: 1
+	Query: "Gobiesox punctulatus mappable:1" ; Times: 1
+	Query: "Trichomycterus meridae" ; Times: 3
+	Query: "scientificname:(Pteronotropis stonei OR Notropis stonei) country:United States mappable:1" ; Times: 1
+	Query: "stateprovince:&#34;Nebraska&#34; country:&#34;United States&#34;" ; Times: 2
+	Query: "Bothus ocellatus mappable:1" ; Times: 1
+	Query: "Biwia zezera" ; Times: 1
+	Query: "mappable:1 scientificname:Thalassoma bifasciatum" ; Times: 8
+	Query: "Caranx latus mappable:1" ; Times: 1
+	Query: "Paraluteres prionurus" ; Times: 1
+	Query: "country:&#34;Belize&#34;" ; Times: 1
+	Query: "Cantherhines macrocerus mappable:1" ; Times: 1
+	Query: "Samaris cristatus" ; Times: 1
+	Query: "mappable:1 scientificname:Oreochromis mossambicus" ; Times: 15
+	Query: "mappable:1 scientificname:Diplospinus multistriatus" ; Times: 5
+	Query: "Paranthias furcifer mappable:1" ; Times: 1
+	Query: "specificepithet:irregularis genus:Ichthyococcus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "scientificname:(Typhlichthys subterraneus) country:United States mappable:1" ; Times: 1
+	Query: "Sula sula" ; Times: 1
+	Query: "Diplectrum radiale mappable:1" ; Times: 1
+	Query: "Sardinops sagax" ; Times: 2
+	Query: "mappable:1 scientificname:Epinephelus adscensionis" ; Times: 4
+	Query: "Anarhichas denticulatus" ; Times: 1
+	Query: "Retropinna semoni" ; Times: 1
+	Query: "mappable:1 scientificname:Aluterus schoepfii" ; Times: 9
+	Query: "scientificname:(Notropis heterodon) country:United States mappable:1" ; Times: 1
+	Query: "mappable:1 scientificname:Clupea harengus" ; Times: 1
+	Query: "CM 4036" ; Times: 2
+	Query: "Tetragonurus cuvieri" ; Times: 1
+	Query: "Scarus vetula mappable:1" ; Times: 1
+	Query: "scientificname:Lampanyctus crocodilus" ; Times: 1
+	Query: "Mullus auratus mappable:1" ; Times: 1
+	Query: "Stegastes planifrons mappable:1" ; Times: 1
+	Query: "genus:thaleichthys stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "alces alces" ; Times: 1
+	Query: "mappable:1 scientificname:Elagatis bipinnulata" ; Times: 4
+	Query: "san marcos" ; Times: 1
+	Query: "Trachycephalus" ; Times: 1
+	Query: "Brycinus macrolepidotus" ; Times: 3
+	Query: "Bothus robinsi mappable:1" ; Times: 1
+	Query: "99233" ; Times: 2
+	Query: "mappable:1 scientificname:Jenkinsia majua" ; Times: 6
+	Query: "mappable:1 scientificname:Oxyporhamphus micropterus micropterus" ; Times: 2
+	Query: "mappable:1 scientificname:Haemulon plumieri" ; Times: 1
+	Query: "mappable:1 scientificname:Pterois volitans" ; Times: 4
+	Query: "Kyphosus sectatrix mappable:1" ; Times: 1
+	Query: "Phago boulengeri" ; Times: 1
+	Query: "Scorpaena inermis mappable:1" ; Times: 1
+	Query: "Leucaspius delineatus" ; Times: 1
+	Query: "Thalassoma quinquevittatum" ; Times: 1
+	Query: "Holacanthus ciliaris mappable:1" ; Times: 1
+	Query: "catenatus" ; Times: 2
+	Query: "mappable:1 scientificname:Paracanthurus hepatus" ; Times: 7
+	Query: "Benthophilus stellatus" ; Times: 9
+	Query: "Neoscombrops atlanticus mappable:1" ; Times: 1
+	Query: "scientificname:Acanthocybium solandri" ; Times: 1
+	Query: "Enchelycore nigricans mappable:1" ; Times: 1
+	Query: "Lepidotrigla guentheri" ; Times: 1
+	Query: "mappable:1 scientificname:Halichoeres poeyi" ; Times: 6
+	Query: "coal oil point" ; Times: 1
+	Query: "37567" ; Times: 1
+	Query: "5046" ; Times: 1
+	Query: "mappable:1 scientificname:Mycteroperca bonaci" ; Times: 3
+	Query: "mappable:1 scientificname:Chaetodon sedentarius" ; Times: 9
+	Query: "42953" ; Times: 1
+	Query: "mappable:1 scientificname:Hippocampus reidi" ; Times: 3
+	Query: "county:&#34;tehama&#34;" ; Times: 1
+	Query: "franciscanus" ; Times: 1
+	Query: "mappable:1 scientificname:Astrapogon puncticulatus" ; Times: 5
+	Query: "mappable:1 scientificname:Equetus lanceolatus" ; Times: 4
+	Query: "mappable:1 scientificname:Coryphaena hippurus" ; Times: 4
+	Query: "Aetobatus flagellum" ; Times: 1
+	Query: "Elephant" ; Times: 1
+	Query: "specificepithet:leucas genus:Carcharhinus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "mappable:1 scientificname:Symphurus tessellatus" ; Times: 14
+	Query: "Eucinostomus gula mappable:1" ; Times: 1
+	Query: "genus:Prionotus" ; Times: 5
+	Query: "Gadomus dispar mappable:1" ; Times: 1
+	Query: "Calamus pennatula mappable:1" ; Times: 1
+	Query: "Brama caribbea mappable:1" ; Times: 1
+	Query: "Lactophrys bicaudalis mappable:1" ; Times: 1
+	Query: "La Cruz" ; Times: 1
+	Query: "mappable:1 scientificname:Ariomma regulus" ; Times: 11
+	Query: "Gobiomorphus coxii" ; Times: 1
+	Query: "Carassioides acuminatus" ; Times: 2
+	Query: "scientificname:(Semotilus lumbee) country:United States mappable:1" ; Times: 1
+	Query: "mappable:1 scientificname:Trachinotus falcatus" ; Times: 4
+	Query: "Decapterus macrosoma" ; Times: 1
+	Query: "specificepithet:eubranchus genus:Mentodus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "mappable:1 scientificname:Apsilus dentatus" ; Times: 8
+	Query: "mappable:1 scientificname:Neoscopelus microchir" ; Times: 5
+	Query: "Elagatis bipinnulata" ; Times: 1
+	Query: "Ablennes hians mappable:1" ; Times: 1
+	Query: "Cryptotomus roseus mappable:1" ; Times: 1
+	Query: "mappable:1 scientificname:Bathyonus laticeps" ; Times: 2
+	Query: "Oxyporhamphus micropterus micropterus mappable:1" ; Times: 1
+	Query: "Carangoides bajad" ; Times: 1
+	Query: "Ammocrypta pellucida" ; Times: 1
+	Query: "Triglops scepticus" ; Times: 1
+	Query: "mappable:1 scientificname:Eucinostomus harengulus" ; Times: 5
+	Query: "Calamus penna mappable:1" ; Times: 1
+	Query: "Pseudogramma gregoryi mappable:1" ; Times: 1
+	Query: "genus:Macropinna stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "mappable:1 scientificname:Coelorinchus occa" ; Times: 5
+	Query: "mappable:1 scientificname:Cyclopsetta fimbriata" ; Times: 6
+	Query: "CAS 221714" ; Times: 1
+	Query: "Decapterus tabl" ; Times: 1
+	Query: "Chimaera phantasma" ; Times: 1
+	Query: "mappable:1 scientificname:Astronesthes richardsoni" ; Times: 2
+	Query: "Axis axis" ; Times: 2
+	Query: "Labeo falcipinnis" ; Times: 1
+	Query: "Harengula humeralis mappable:1" ; Times: 1
+	Query: "Ahlia egmontis mappable:1" ; Times: 1
+	Query: "mappable:1 scientificname:Anchoa hepsetus" ; Times: 6
+	Query: "Polydactylus virginicus mappable:1" ; Times: 1
+	Query: "scientificname:Electrona risso" ; Times: 1
+	Query: "Thunnus thynnus mappable:1" ; Times: 1
+	Query: "scientificname:(Notropis dorsalis) country:United States mappable:1" ; Times: 1
+	Query: "Canthigaster rostrata mappable:1" ; Times: 1
+	Query: "scientificname:(Etheostoma tuscumbia) country:United States mappable:1" ; Times: 1
+	Query: "Colomesus psittacus mappable:1" ; Times: 1
+	Query: "institutioncode:CAS Ophidion iris" ; Times: 1
+	Query: "boa" ; Times: 1
+	Query: "scientificname:(Fundulus olivaceus) country:United States mappable:1" ; Times: 3
+	Query: "mappable:1 scientificname:Rypticus saponaceus" ; Times: 4
+	Query: "mappable:1 scientificname:Syacium gunteri" ; Times: 6
+	Query: "scientificname:(Cottus bairdii OR Cottus ictalops OR Pegedictis ictalops) country:United States mappable:1" ; Times: 1
+	Query: "Lutjanus analis mappable:1" ; Times: 1
+	Query: "TJ DeWitt" ; Times: 1
+	Query: "Thymallus" ; Times: 3
+	Query: "mappable:1 scientificname:Sphoeroides nephelus" ; Times: 4
+	Query: "Hymenocephalus billsam mappable:1" ; Times: 1
+	Query: "Anguilla rostrata New York" ; Times: 1
+	Query: "mappable:1 scientificname:Euleptorhamphus velox" ; Times: 5
+	Query: "mappable:1 scientificname:Bregmaceros atlanticus" ; Times: 3
+	Query: "mappable:1 scientificname:Joturus pichardi" ; Times: 7
+	Query: "mappable:1 scientificname:Aluterus scriptus" ; Times: 7
+	Query: "Melamphaes pumilus mappable:1" ; Times: 1
+	Query: "Neobythites marginatus mappable:1" ; Times: 1
+	Query: "Calamus calamus mappable:1" ; Times: 1
+	Query: "mappable:1 scientificname:Psenes cyanophrys" ; Times: 2
+	Query: "Mesoborus crocodilus" ; Times: 1
+	Query: "scientificname:(Notropis atrocaudalis) country:United States mappable:1" ; Times: 1
+	Query: "Cetengraulis edentulus" ; Times: 1
+	Query: "Stephanolepis hispidus mappable:1" ; Times: 1
+	Query: "Engraulis mordax" ; Times: 1
+	Query: "CAS 87410" ; Times: 2
+	Query: "mappable:1 scientificname:Halichoeres caudalis" ; Times: 8
+	Query: "Haemulon aurolineatum mappable:1" ; Times: 1
+	Query: "scientificname:(Etheostoma simoterum OR Etheostoma simoterum simoterum) country:United States mappable:1" ; Times: 1
+	Query: "Jenkinsia majua mappable:1" ; Times: 1
+	Query: "scientificname:(Erimystax insignis OR Hybopsis insignis) country:United States mappable:1" ; Times: 1
+	Query: "Paraclinus nigripinnis mappable:1" ; Times: 1
+	Query: "rainbow trout" ; Times: 1
+	Query: "specificepithet:candida genus:Nansenia stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "Microcottus sellaris" ; Times: 1
+	Query: "Carcharhinus leucas mappable:1" ; Times: 1
+	Query: "scientificname:(Etheostoma inscriptum) country:United States mappable:1" ; Times: 1
+	Query: "Pseudomystus siamensis" ; Times: 1
+	Query: "recordedby:Beckwith" ; Times: 2
+	Query: "Diodon hystrix mappable:1" ; Times: 1
+	Query: "Apsilus dentatus mappable:1" ; Times: 1
+	Query: "mappable:1 scientificname:Etelis oculatus" ; Times: 8
+	Query: "scientificname:(Luxilus zonistius OR Notropis zonistius OR Abramis zonistius) country:United States mappable:1" ; Times: 1
+	Query: "elephant" ; Times: 3
+	Query: "specificepithet:macropus haslength:1" ; Times: 1
+	Query: "mappable:1 scientificname:Sicydium plumieri" ; Times: 11
+	Query: "scientificname:Lobianchia dofleini" ; Times: 2
+	Query: "Lepophidium brevibarbe mappable:1" ; Times: 1
+	Query: "scientificname:(Notropis chrosomus) country:United States mappable:1" ; Times: 1
+	Query: "mappable:1 scientificname:Chaetodon capistratus" ; Times: 9
+	Query: "mappable:1 scientificname:Parexocoetus hillianus" ; Times: 2
+	Query: "mappable:1 scientificname:Scarus vetula" ; Times: 6
+	Query: "scientificname:(Etheostoma histrio) country:United States mappable:1" ; Times: 1
+	Query: "Trachinotus falcatus mappable:1" ; Times: 1
+	Query: "Trinectes inscriptus mappable:1" ; Times: 1
+	Query: "Trisopterus capelanus" ; Times: 1
+	Query: "CAS 219994" ; Times: 1
+	Query: "Myctophum obtusirostre mappable:1" ; Times: 1
+	Query: "Malacocottus zonurus" ; Times: 1
+	Query: "mappable:1 scientificname:Thunnus albacares" ; Times: 3
+	Query: "mappable:1 scientificname:Caranx hippos" ; Times: 4
+	Query: "mappable:1 scientificname:Xyrichtys splendens" ; Times: 6
+	Query: "mappable:1 scientificname:Cephalopholis argus" ; Times: 5
+	Query: "Odontoscion dentex mappable:1" ; Times: 1
+	Query: "Arizona elegans" ; Times: 2
+	Query: "bull sharks" ; Times: 2
+	Query: "Bairdiella ronchus mappable:1" ; Times: 1
+	Query: "mappable:1 scientificname:Centrobranchus nigroocellatus" ; Times: 3
+	Query: "mappable:1 scientificname:Hymenocephalus billsam" ; Times: 2
+	Query: "mappable:1 scientificname:Plectrypops retrospinis" ; Times: 8
+	Query: "Gnathonemus longibarbis" ; Times: 1
+	Query: "mappable:1 scientificname:Synodus foetens" ; Times: 5
+	Query: "scientificname:(Etheostoma stigmaeum) country:United States mappable:1" ; Times: 1
+	Query: "Carcharhinus brevipinna mappable:1" ; Times: 1
+	Query: "Schizothorax molesworthi" ; Times: 1
+	Query: "mappable:1 scientificname:Doratonotus megalepis" ; Times: 6
+	Query: "Cheilopogon cyanopterus mappable:1" ; Times: 1
+	Query: "Pomacanthus paru mappable:1" ; Times: 1
+	Query: "scientificname:(Etheostoma asprigene) country:United States mappable:1" ; Times: 1
+	Query: "Prionace glauca mappable:1" ; Times: 1
+	Query: "scientificname:(Notropis xaenocephalus) country:United States mappable:1" ; Times: 2
+	Query: "Pogonias cromis mappable:1" ; Times: 1
+	Query: "mappable:1 scientificname:Chilomycterus antillarum" ; Times: 9
+	Query: "scientificname:(Cyprinella pyrrhomelas OR Notropis pyrrhomelas) country:United States mappable:1" ; Times: 1
+	Query: "mappable:1 scientificname:Myrichthys ocellatus" ; Times: 5
+	Query: "mappable:1 scientificname:Thalassophryne maculosa" ; Times: 3
+	Query: "mappable:1 scientificname:Bathygobius soporator" ; Times: 11
+	Query: "Venefica procera" ; Times: 1
+	Query: "Lutjanus cyanopterus mappable:1" ; Times: 1
+	Query: "mappable:1 scientificname:Uropterygius macularius" ; Times: 6
+	Query: "mappable:1 scientificname:Dermatolepis inermis" ; Times: 5
+	Query: "mappable:1 scientificname:Hypoplectrus chlorurus" ; Times: 2
+	Query: "Echeneis naucrates mappable:1" ; Times: 1
+	Query: "specificepithet:leucas genus:Carcharhinus" ; Times: 1
+	Query: "&#34;redondo beach&#34; institutioncode:CAS" ; Times: 1
+	Query: "scientificname:Boops boops" ; Times: 1
+	Query: "scientificname:(Erimyzon sucetta OR Erimyzon sucetta sucetta) country:United States mappable:1" ; Times: 2
+	Query: "Thamnaconus modestus" ; Times: 1
+	Query: "Bathyclupea argentea mappable:1" ; Times: 1
+	Query: "Symphurus elongatus mappable:1" ; Times: 1
+	Query: "scientificname:(Esox americanus) country:United States mappable:1" ; Times: 2
+	Query: "scientificname:(Moxostoma poecilurum) country:United States mappable:1" ; Times: 1
+	Query: "mappable:1 scientificname:Opisthonema oglinum" ; Times: 6
+	Query: "mappable:1 scientificname:Tylosurus acus acus" ; Times: 4
+	Query: "scientificname:Valenciennellus tripunctulatus" ; Times: 2
+	Query: "Alphestes afer mappable:1" ; Times: 1
+	Query: "Neolebias trilineatus" ; Times: 1
+	Query: "Clupea pallasii" ; Times: 1
+	Query: "genus:Argyropelecus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "mappable:1 scientificname:Gadomus dispar" ; Times: 2
+	Query: "Bembrops gobioides mappable:1" ; Times: 1
+	Query: "Rissa tridactyla" ; Times: 1
+	Query: "mappable:1 scientificname:Carcharhinus longimanus" ; Times: 3
+	Query: "Mola mola mappable:1" ; Times: 1
+	Query: "Nezumia aequalis mappable:1" ; Times: 1
+	Query: "mappable:1 scientificname:Holacanthus tricolor" ; Times: 5
+	Query: "scientificname:(Noturus munitus) country:United States mappable:1" ; Times: 1
+	Query: "mappable:1 scientificname:Lactophrys bicaudalis" ; Times: 5
+	Query: "CAS 16077" ; Times: 2
+	Query: "mappable:1 scientificname:Mugil liza" ; Times: 5
+	Query: "Oncorhynchus mykiss" ; Times: 1
+	Query: "Sparisoma chrysopterum mappable:1" ; Times: 1
+	Query: "Hypleurochilus geminatus" ; Times: 1
+	Query: "mappable:1 scientificname:Mulloidichthys martinicus" ; Times: 8
+	Query: "Ventrifossa macropogon mappable:1" ; Times: 1
+	Query: "Haemulon macrostomum mappable:1" ; Times: 1
+	Query: "Etropus rimosus mappable:1" ; Times: 1
+	Query: "coelacanth" ; Times: 1
+	Query: "Diaphus adenomus mappable:1" ; Times: 1
+	Query: "Channa micropeltes" ; Times: 1
+	Query: "scientificname:(Fundulus stellifer) country:United States mappable:1" ; Times: 1
+	Query: "CM 1498" ; Times: 1
+	Query: "Mormyrus ovis" ; Times: 1
+	Query: "scientificname:(Etheostoma ramseyi) country:United States mappable:1" ; Times: 1
+	Query: "Symphurus tessellatus mappable:1" ; Times: 1
+	Query: "mappable:1 scientificname:Caulolatilus chrysops" ; Times: 9
+	Query: "Atherinomorus stipes mappable:1" ; Times: 1
+	Query: "Chelidonichthys kumu" ; Times: 1
+	Query: "mappable:1 scientificname:Microspathodon chrysurus" ; Times: 5
+	Query: "worcester" ; Times: 1
+	Query: "scientificname:(Heterandria formosa) country:United States mappable:1" ; Times: 1
+	Query: "mappable:1 scientificname:Tylosurus crocodilus crocodilus" ; Times: 9
+	Query: "Poecilia mexicana" ; Times: 1
+	Query: "mappable:1 scientificname:Sphyrna mokarran" ; Times: 3
+	Query: "Conger triporiceps mappable:1" ; Times: 1
+	Query: "mappable:1 scientificname:Selar crumenophthalmus" ; Times: 4
+	Query: "Apogon maculatus mappable:1" ; Times: 1
+	Query: "mappable:1 scientificname:Ahlia egmontis" ; Times: 4
+	Query: "mappable:1 scientificname:Xiphias gladius" ; Times: 4
+	Query: "mappable:1 scientificname:Galeus springeri" ; Times: 5
+	Query: "Platybelone argalus argalus mappable:1" ; Times: 1
+	Query: "butterfly" ; Times: 1
+	Query: "Myctophum affine mappable:1" ; Times: 1
+	Query: "Stegastes leucostictus mappable:1" ; Times: 1
+	Query: "Uraspis helvola" ; Times: 1
+	Query: "Chaetodon ocellatus mappable:1" ; Times: 1
+	Query: "Maccullochella macquariensis" ; Times: 1
+	Query: "mappable:1 scientificname:Erotelis smaragdus" ; Times: 11
+	Query: "Oligoplites saurus mappable:1" ; Times: 1
+	Query: "Gymnothorax moringa mappable:1" ; Times: 1
+	Query: "Xiphias gladius mappable:1" ; Times: 1
+	Query: "mappable:1 scientificname:Scorpaenodes caribbaeus" ; Times: 2
+	Query: "scientificname:(Fundulus dispar) country:United States mappable:1" ; Times: 1
+	Query: "Lepidotrigla hime" ; Times: 1
+	Query: "Conodon nobilis mappable:1" ; Times: 1
+	Query: "genus:Microstoma stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Eugerres plumieri mappable:1" ; Times: 1
+	Query: "Acanthurus chirurgus mappable:1" ; Times: 1
+	Query: "mappable:1 scientificname:Colomesus psittacus" ; Times: 4
+	Query: "mappable:1 scientificname:Prionace glauca" ; Times: 3
+	Query: "RS-142" ; Times: 1
+	Query: "country:&#34;Mexico&#34; year &gt;= 1980 year &lt;= 2020" ; Times: 1
+	Query: "scientificname:(Notropis shumardi) country:United States mappable:1" ; Times: 1
+	Query: "Cephalopholis fulva mappable:1" ; Times: 1
+	Query: "Anoplogaster cornuta mappable:1" ; Times: 1
+	Query: "mappable:1 scientificname:Brama caribbea" ; Times: 5
+	Query: "mappable:1 scientificname:Chlorophthalmus agassizi" ; Times: 4
+	Query: "Myliobatis californica" ; Times: 1
+	Query: "Capoeta capoeta" ; Times: 2
+	Query: "distance(location,geopoint(-15.954859040309946,-47.90101350944102))&lt;100000" ; Times: 1
+	Query: "Ophichthus ophis mappable:1" ; Times: 1
+	Query: "scientificname:(Moxostoma erythrurum) country:United States mappable:1" ; Times: 1
+	Query: "Plectropomus leopardus" ; Times: 1
+	Query: "4881" ; Times: 1
+	Query: "Rhizoprionodon porosus mappable:1" ; Times: 1
+	Query: "Ruvettus pretiosus mappable:1" ; Times: 1
+	Query: "Astrapogon stellatus mappable:1" ; Times: 1
+	Query: "Ophichthus gomesii mappable:1" ; Times: 1
+	Query: "mappable:1 scientificname:Haemulon striatum" ; Times: 4
+	Query: "Histrio histrio mappable:1" ; Times: 1
+	Query: "mappable:1 scientificname:Melanocetus murrayi" ; Times: 3
+	Query: "Isichthys henryi" ; Times: 1
+	Query: "Felis" ; Times: 1
+	Query: "Callorhinchus callorynchus" ; Times: 1
+	Query: "Chelidonichthys lucerna" ; Times: 1
+	Query: "scientificname:Isurus oxyrinchus" ; Times: 1
+	Query: "viriosa" ; Times: 1
+	Query: "scientificname:(Amblyopsis rosae) country:United States mappable:1" ; Times: 1
+	Query: "Aldrovandia affinis mappable:1" ; Times: 1
+	Query: "Eleginus gracilis" ; Times: 1
+	Query: "mappable:1 scientificname:Upeneus sundaicus" ; Times: 1
+	Query: "Parablennius zvonimiri" ; Times: 1
+	Query: "scientificname:(Siphateles bicolor OR Gila bicolor OR Algansea bicolor) country:United States mappable:1" ; Times: 1
+	Query: "Barbatula barbatula" ; Times: 4
+	Query: "Astronesthes richardsoni mappable:1" ; Times: 1
+	Query: "county:&#34;Cache&#34; stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "Prognathodes aculeatus mappable:1" ; Times: 1
+	Query: "green sea turtle" ; Times: 2
+	Query: "Lutjanus jocu mappable:1" ; Times: 1
+	Query: "Serranus atrobranchus mappable:1" ; Times: 1
+	Query: "mappable:1 scientificname:Pomacanthus paru" ; Times: 5
+	Query: "Poeciliopsis viriosa" ; Times: 1
+	Query: "mappable:1 scientificname:Squalus cubensis" ; Times: 4
+	Query: "Medialuna californiensis" ; Times: 1
+	Query: "Uraspis secunda" ; Times: 1
+	Query: "mappable:1 scientificname:Bothus robinsi" ; Times: 15
+	Query: "Arapaima" ; Times: 1
+	Query: "mappable:1 scientificname:Lepidocybium flavobrunneum" ; Times: 3
+	Query: "Citharichthys spilopterus mappable:1" ; Times: 1
+	Query: "scientificname:(Notropis altipinnis) country:United States mappable:1" ; Times: 2
+	Query: "mappable:1 scientificname:Lagocephalus lagocephalus" ; Times: 2
+	Query: "mappable:1 scientificname:Hypoplectrus guttavarius" ; Times: 4
+	Query: "Turtlegrass" ; Times: 1
+	Query: "scientificname:(Percina notogramma) country:United States mappable:1" ; Times: 1
+	Query: "Eleotris amblyopsis mappable:1" ; Times: 1
+	Query: "Cephalopholis argus mappable:1" ; Times: 1
+	Query: "Centropomus undecimalis mappable:1" ; Times: 1
+	Query: "Tatia intermedia" ; Times: 1
+	Query: "scientificname:(Rhinichthys atratulus OR Rhinichthys atratulus atratulus) country:United States mappable:1" ; Times: 4
+	Query: "Hoplostethus mediterraneus mappable:1" ; Times: 1
+	Query: "mappable:1 scientificname:Diaphus adenomus" ; Times: 3
+	Query: "Glossanodon pygmaeus mappable:1" ; Times: 1
+	Query: "Caulolatilus chrysops mappable:1" ; Times: 1
+	Query: "mappable:1 scientificname:Stegastes leucostictus" ; Times: 5
+	Query: "mappable:1 scientificname:Pristipomoides aquilonaris" ; Times: 6
+	Query: "mappable:1 scientificname:Malacoctenus macropus" ; Times: 5
+	Query: "Eurymen gyrinus" ; Times: 1
+	Query: "Hypoatherina harringtonensis mappable:1" ; Times: 1
+	Query: "Psenes cyanophrys mappable:1" ; Times: 1
+	Query: "Brachymystax lenok" ; Times: 3
+	Query: "sentinel" ; Times: 2
+	Query: "mappable:1 scientificname:Mullus surmuletus" ; Times: 2
+	Query: "mappable:1 scientificname:Elacatinus oceanops" ; Times: 8
+	Query: "scientificname:Gonostoma denudatum" ; Times: 1
+	Query: "Parastromateus niger" ; Times: 1
+	Query: "mappable:1 scientificname:Neoscopelus macrolepidotus" ; Times: 5
+	Query: "mappable:1 scientificname:Prionotus punctatus" ; Times: 3
+	Query: "Peristedion miniatum" ; Times: 1
+	Query: "Equetus lanceolatus mappable:1" ; Times: 1
+	Query: "mappable:1 scientificname:Pomadasys crocro" ; Times: 5
+	Query: "scientificname:(Etheostoma flabellare) country:United States mappable:1" ; Times: 3
+	Query: "mappable:1 scientificname:Gobionellus oceanicus" ; Times: 4
+	Query: "scientificname:(Fundulus zebrinus) country:United States mappable:1" ; Times: 3
+	Query: "Halosaurus ovenii mappable:1" ; Times: 1
+	Query: "scientificname:(Labidesthes vanhyningi) country:United States mappable:1" ; Times: 1
+	Query: "wilbur" ; Times: 1
+	Query: "Holocentrus adscensionis mappable:1" ; Times: 1
+	Query: "mappable:1 scientificname:Hypoplectrus nigricans" ; Times: 3
+	Query: "Malacoctenus erdmani mappable:1" ; Times: 1
+	Query: "Petrocephalus simus" ; Times: 1
+	Query: "mappable:1 scientificname:Syngnathus pelagicus" ; Times: 4
+	Query: "catalognumber:16891" ; Times: 1
+	Query: "Gerres cinereus mappable:1" ; Times: 1
+	Query: "mappable:1 scientificname:Paraclinus nigripinnis" ; Times: 5
+	Query: "scientificname:(Etheostoma punctulatum) country:United States mappable:1" ; Times: 1
+	Query: "mappable:1 scientificname:Kaupichthys nuchalis" ; Times: 3
+	Query: "mappable:1 scientificname:Makaira nigricans" ; Times: 3
+	Query: "Seriola zonata mappable:1" ; Times: 1
+	Query: "Craterocephalus amniculus" ; Times: 1
+	Query: "Ostichthys trachypoma mappable:1" ; Times: 1
+	Query: "234651" ; Times: 1
+	Query: "mappable:1 scientificname:Sparisoma radians" ; Times: 5
+	Query: "Coryphaena equiselis mappable:1" ; Times: 1
+	Query: "Brotula barbata mappable:1" ; Times: 1
+	Query: "Mycteroperca venenosa mappable:1" ; Times: 1
+	Query: "mappable:1 scientificname:Chromis cyanea" ; Times: 5
+	Query: "Argyropelecus aculeatus mappable:1" ; Times: 1
+	Query: "Chaetodon sedentarius mappable:1" ; Times: 1
+	Query: "mappable:1 scientificname:Malacoctenus gilli" ; Times: 4
+	Query: "Scorpaena elachys mappable:1" ; Times: 1
+	Query: "scientificname:(Chologaster cornuta OR Chologaster avitus) country:United States mappable:1" ; Times: 1
+	Query: "Nesiarchus nasutus mappable:1" ; Times: 1
+	Query: "scientificname:(Pimephales tenellus) country:United States mappable:1" ; Times: 1
+	Query: "Sphoeroides spengleri mappable:1" ; Times: 1
+	Query: "Salmo salar" ; Times: 1
+	Query: "mappable:1 scientificname:Pleuronectes platessa" ; Times: 5
+	Query: "mappable:1 scientificname:Calamus calamus" ; Times: 4
+	Query: "Acipenser fulvescens" ; Times: 3
+	Query: "specificepithet:pseudopallida genus:Cyclothone stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Iguana iguana" ; Times: 2
+	Query: "Kaupichthys hyoproroides mappable:1" ; Times: 1
+	Query: "Orcas" ; Times: 1
+	Query: "Venefica procera mappable:1" ; Times: 1
+	Query: "mappable:1 scientificname:Ocyurus chrysurus" ; Times: 5
+	Query: "Cerorhinca monocerata" ; Times: 1
+	Query: "mappable:1 scientificname:Mustelus canis" ; Times: 3
+	Query: "scientificname:(Notropis asperifrons) country:United States mappable:1" ; Times: 1
+	Query: "scientificname:(Fundulus chrysotus) country:United States mappable:1" ; Times: 1
+	Query: "mappable:1 scientificname:Oligoplites saurus" ; Times: 4
+	Query: "locality:angola" ; Times: 1
+	Query: "scientificname:Sudis hyalina" ; Times: 1
+	Query: "Ogilbia suarezae mappable:1" ; Times: 1
+	Query: "genus:Facciolella stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "mappable:1 scientificname:Sardinella aurita" ; Times: 4
+	Query: "scientificname:(Notropis ariommus) country:United States mappable:1" ; Times: 1
+	Query: "Myripristis jacobus mappable:1" ; Times: 1
+	Query: "mappable:1 scientificname:Katsuwonus pelamis" ; Times: 3
+	Query: "Decodon puellaris mappable:1" ; Times: 1
+	Query: "specificepithet:tiburo genus:Sphyrna" ; Times: 2
+	Query: "gobiopsis canalis" ; Times: 3
+	Query: "genus:Etrumeus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "scientificname:(Lythrurus ardens OR Notropis ardens) country:United States mappable:1" ; Times: 1
+	Query: "Epigonus denticulatus" ; Times: 1
+	Query: "Galaxias rostratus" ; Times: 1
+	Query: "mappable:1 scientificname:Hypoplectrus indigo" ; Times: 4
+	Query: "Pomadasys crocro mappable:1" ; Times: 1
+	Query: "Hemiramphus balao mappable:1" ; Times: 1
+	Query: "mappable:1 scientificname:Holocentrus adscensionis" ; Times: 8
+	Query: "Microspathodon chrysurus mappable:1" ; Times: 1
+	Query: "Scarus coeruleus mappable:1" ; Times: 1
+	Query: "scientificname:(Notropis telescopus) country:United States mappable:1" ; Times: 2
+	Query: "mappable:1 scientificname:Exocoetus obtusirostris" ; Times: 4
+	Query: "mappable:1 scientificname:Ophichthus gomesii" ; Times: 8
+	Query: "mappable:1 scientificname:Entomacrodus nigricans" ; Times: 16
+	Query: "CAS 235303" ; Times: 1
+	Query: "specificepithet:ferox genus:Odontaspis" ; Times: 1
+	Query: "Halichoeres poeyi mappable:1" ; Times: 1
+	Query: "Mugil cephalus" ; Times: 2
+	Query: "mappable:1 scientificname:Brotula barbata" ; Times: 8
+	Query: "mappable:1 scientificname:Serranus tigrinus" ; Times: 3
+	Query: "mappable:1 scientificname:Lutjanus analis" ; Times: 6
+	Query: "mappable:1 scientificname:Scyliorhinus boa" ; Times: 3
+	Query: "Joturus pichardi mappable:1" ; Times: 1
+	Query: "scientificname:(Etheostoma duryi) country:United States mappable:1" ; Times: 1
+	Query: "Pangasius bocourti" ; Times: 1
+	Query: "shrimp" ; Times: 1
+	Query: "20582" ; Times: 1
+	Query: "Haemulon parra mappable:1" ; Times: 1
+	Query: "Chaetodipterus faber mappable:1" ; Times: 1
+	Query: "Citharichthys arenaceus mappable:1" ; Times: 1
+	Query: "mappable:1 scientificname:Poecilia reticulata" ; Times: 1
+	Query: "Cheilopogon melanurus mappable:1" ; Times: 1
+	Query: "Istiophorus platypterus mappable:1" ; Times: 1
+	Query: "mappable:1 scientificname:Eleotris pisonis" ; Times: 12
+	Query: "Scomber japonicus" ; Times: 2
+	Query: "Plectropomus maculatus" ; Times: 1
+	Query: "atherina boyeri" ; Times: 1
+	Query: "scientificname:(Notropis stramineus missuriensis) country:United States mappable:1" ; Times: 1
+	Query: "Lophonectes gallus" ; Times: 1
+	Query: "53447" ; Times: 1
+	Query: "Mormyrops masuianus" ; Times: 1
+	Query: "Synodus intermedius mappable:1" ; Times: 1
+	Query: "1921-11-17" ; Times: 1
+	Query: "Ophichthus cruentifer mappable:1" ; Times: 1
+	Query: "Tails" ; Times: 1
+	Query: "Symphysanodon berryi mappable:1" ; Times: 1
+	Query: "Cheilopogon furcatus mappable:1" ; Times: 1
+	Query: "mappable:1 scientificname:Chaetodipterus faber" ; Times: 11
+	Query: "mappable:1 scientificname:Anoplogaster cornuta" ; Times: 6
+	Query: "242271" ; Times: 1
+	Query: "mappable:1 scientificname:Chaetodon ocellatus" ; Times: 9
+	Query: "Bembrops macromma mappable:1" ; Times: 1
+	Query: "scientificname:(Menidia beryllina OR Menidia audens) country:United States mappable:1" ; Times: 1
+	Query: "Dentex gibbosus" ; Times: 1
+	Query: "Jiménez" ; Times: 2
+	Query: "scientificname:(Fundulus grandis) country:United States mappable:1" ; Times: 2
+	Query: "mappable:1 scientificname:Sphoeroides spengleri" ; Times: 5
+	Query: "Cottus hangiongensis" ; Times: 1
+	Query: "Hypoplectrus chlorurus mappable:1" ; Times: 1
+	Query: "Mugil liza mappable:1" ; Times: 1
+	Query: "russel" ; Times: 1
+	Query: "scientificname:Lestidiops jayakari" ; Times: 1
+	Query: "Paraclinus fasciatus mappable:1" ; Times: 1
+	Query: "Micropterus salmoides" ; Times: 1
+	Query: "genus:Gonostoma stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Katsuwonus pelamis" ; Times: 1
+	Query: "Haemulon chrysargyreum mappable:1" ; Times: 1
+	Query: "mappable:1 scientificname:Opistognathus maxillosus" ; Times: 11
+	Query: "Serranus tortugarum mappable:1" ; Times: 1
+	Query: "Myctophum selenops mappable:1" ; Times: 1
+	Query: "mappable:1 scientificname:Cheilopogon furcatus" ; Times: 4
+	Query: "Gallus gallus" ; Times: 2
+	Query: "Auxis rochei" ; Times: 1
+	Query: "mappable:1 scientificname:Stegastes adustus" ; Times: 5
+	Query: "Niphon spinosus" ; Times: 1
+	Query: "scientificname:(Etheostoma maculatum) country:United States mappable:1" ; Times: 1
+	Query: "Amblygaster sirm" ; Times: 1
+	Query: "mappable:1 scientificname:Ulaema lefroyi" ; Times: 5
+	Query: "Albula vulpes mappable:1" ; Times: 1
+	Query: "Jimenez" ; Times: 3
+	Query: "mappable:1 scientificname:Astronesthes cyaneus" ; Times: 2
+	Query: "Petrocephalus bovei" ; Times: 1
+	Query: "scientificname:(Notropis maculatus) country:United States mappable:1" ; Times: 1
+	Query: "mappable:1 scientificname:Apogon townsendi" ; Times: 3
+	Query: "Malacoctenus versicolor mappable:1" ; Times: 1
+	Query: "mappable:1 scientificname:Remora brachyptera" ; Times: 2
+	Query: "Entomacrodus nigricans mappable:1" ; Times: 1
+	Query: "scientificname:(Notropis ortenburgeri) country:United States mappable:1" ; Times: 1
+	Query: "mappable:1 scientificname:Anisotremus virginicus" ; Times: 5
+	Query: "Tylosurus acus acus mappable:1" ; Times: 1
+	Query: "zmb" ; Times: 7
+	Query: "Eurypharynx pelecanoides mappable:1" ; Times: 1
+	Query: "scientificname:(Etheostoma wapiti) country:United States mappable:1" ; Times: 1
+	Query: "Strongylura timucu mappable:1" ; Times: 1
+	Query: "Larimus breviceps mappable:1" ; Times: 1
+	Query: "mappable:1 scientificname:Symphurus elongatus" ; Times: 14
+	Query: "Chilomycterus antennatus mappable:1" ; Times: 1
+	Query: "family:Ogcocephalidae" ; Times: 1
+	Query: "Astrapogon puncticulatus mappable:1" ; Times: 1
+	Query: "Rypticus saponaceus mappable:1" ; Times: 1
+	Query: "ayutla" ; Times: 1
+	Query: "Synodus foetens mappable:1" ; Times: 1
+	Query: "42514" ; Times: 1
+	Query: "mappable:1 scientificname:Chromis enchrysura" ; Times: 3
+	Query: "mappable:1 scientificname:Serranus atrobranchus" ; Times: 3
+	Query: "Glyptothorax fokiensis" ; Times: 1
+	Query: "Cynoscion jamaicensis mappable:1" ; Times: 1
+	Query: "Lampris guttatus mappable:1" ; Times: 1
+	Query: "mappable:1 scientificname:Thunnus thynnus" ; Times: 3
+	Query: "mappable:1 scientificname:Rypticus subbifrenatus" ; Times: 4
+	Query: "mappable:1 scientificname:Lophogobius cyprinoides" ; Times: 4
+	Query: "Glanapteryx anguilla" ; Times: 1
+	Query: "mappable:1 scientificname:Polyipnus asteroides" ; Times: 2
+	Query: "Leptocottus armatus" ; Times: 1
+	Query: "mappable:1 scientificname:Gymnothorax ocellatus" ; Times: 4
+	Query: "mappable:1 scientificname:Eleotris vittata" ; Times: 1
+	Query: "Apogon townsendi mappable:1" ; Times: 1
+	Query: "scientificname:(Hybognathus hayi) country:United States mappable:1" ; Times: 1
+	Query: "scientificname:(Ammocrypta beanii OR Ammocrypta beani) country:United States mappable:1" ; Times: 1
+	Query: "mappable:1 scientificname:Remora australis" ; Times: 2
+	Query: "mappable:1 scientificname:Gnatholepis thompsoni" ; Times: 11
+	Query: "stateprovince:&#34;Florida&#34; country:&#34;United States&#34;" ; Times: 2
+	Query: "mappable:1 scientificname:Gramma loreto" ; Times: 8
+	Query: "scientificname:(Catostomus platyrhynchus) country:United States mappable:1" ; Times: 1
+	Query: "mappable:1 scientificname:Lutjanus jocu" ; Times: 6
+	Query: "mappable:1 scientificname:Pomacanthus arcuatus" ; Times: 5
+	Query: "recordedby:Adcock" ; Times: 1
+	Query: "Anguilla japonica" ; Times: 7
+	Query: "mappable:1 scientificname:Monacanthus ciliatus" ; Times: 5
+	Query: "Gymnothorax miliaris mappable:1" ; Times: 1
+	Query: "mappable:1 scientificname:Polymixia lowei" ; Times: 6
+	Query: "mappable:1 scientificname:Ogcocephalus nasutus" ; Times: 8
+	Query: "mappable:1 scientificname:Gambusia puncticulata" ; Times: 9
+	Query: "Pristipomoides aquilonaris mappable:1" ; Times: 1
+	Query: "7904" ; Times: 1
+	Query: "Alosa pseudoharengus" ; Times: 5
+	Query: "Chitala ornata" ; Times: 1
+	Query: "mappable:1 scientificname:Syngnathus floridae" ; Times: 4
+	Query: "Sphyraena guachancho mappable:1" ; Times: 1
+	Query: "mappable:1 scientificname:Sparisoma aurofrenatum" ; Times: 5
+	Query: "cardinalis cardinalis" ; Times: 2
+	Query: "Chromis cyanea mappable:1" ; Times: 1
+	Query: "Guadalupe" ; Times: 3
+	Query: "catarina" ; Times: 1
+	Query: "mappable:1 scientificname:Citharichthys spilopterus" ; Times: 11
+	Query: "Centropomus parallelus mappable:1" ; Times: 1
+	Query: "Microphis brachyurus brachyurus mappable:1" ; Times: 1
+	Query: "Sphyraena picudilla mappable:1" ; Times: 1
+	Query: "scientificname:Notoscopelus elongatus" ; Times: 1
+	Query: "Dentex hypselosomus" ; Times: 1
+	Query: "mappable:1 scientificname:Epinephelus striatus" ; Times: 4
+	Query: "mappable:1 scientificname:Argentina georgei" ; Times: 11
+	Query: "Cyprinus carpio" ; Times: 1
+	Query: "Nessorhamphus ingolfianus" ; Times: 1
+	Query: "Schizothorax lissolabiatus" ; Times: 1
+	Query: "mappable:1 scientificname:Hypoplectrus aberrans" ; Times: 2
+	Query: "Coelorinchus caribbaeus mappable:1" ; Times: 1
+	Query: "Clinocottus analis" ; Times: 1
+	Query: "mappable:1 scientificname:Opistognathus whitehursti" ; Times: 7
+	Query: "mappable:1 scientificname:Gibberichthys pumilus" ; Times: 5
+	Query: "Alces alces" ; Times: 1
+	Query: "coyote" ; Times: 2
+	Query: "Solenostomus" ; Times: 2
+	Query: "Scarus guacamaia mappable:1" ; Times: 1
+	Query: "mappable:1 scientificname:Nesiarchus nasutus" ; Times: 5
+	Query: "scientificname:(Microgobius gulosus) country:United States mappable:1" ; Times: 1
+	Query: "mappable:1 scientificname:Bairdiella ronchus" ; Times: 6
+	Query: "mappable:1 scientificname:Galeocerdo cuvier" ; Times: 3
+	Query: "aethotaxis mitopteryx" ; Times: 1
+	Query: "scientificname:(Noturus leptacanthus) country:United States mappable:1" ; Times: 2
+	Query: "Serranus tigrinus mappable:1" ; Times: 1
+	Query: "jimenez chihuahua" ; Times: 4
+	Query: "mappable:1 scientificname:Lutjanus cyanopterus" ; Times: 6
+	Query: "Clepticus parrae mappable:1" ; Times: 1
+	Query: "washington state" ; Times: 1
+	Query: "mappable:1 scientificname:Abudefduf saxatilis" ; Times: 5
+	Query: "mappable:1 scientificname:Parexocoetus brachypterus" ; Times: 4
+	Query: "Brycinus imberi" ; Times: 1
+	Query: "Eugnathichthys macroterolepis" ; Times: 1
+	Query: "Corvula batabana mappable:1" ; Times: 1
+	Query: "mappable:1 scientificname:Antennarius multiocellatus" ; Times: 10
+	Query: "Chaunax suttkusi mappable:1" ; Times: 1
+	Query: "Caranx heberi" ; Times: 1
+	Query: "catalognumber:20347" ; Times: 1
+	Query: "Anarrhichthys ocellatus" ; Times: 1
+	Query: "scientificname:(Percina uranidea OR Etheostoma uranidea) country:United States mappable:1" ; Times: 1
+	Query: "Arabian sea" ; Times: 2
+	Query: "Lactophrys trigonus mappable:1" ; Times: 1
+	Query: "Centropomus pectinatus mappable:1" ; Times: 1
+	Query: "Bodianus rufus mappable:1" ; Times: 1
+	Query: "mappable:1 scientificname:Paraclinus fasciatus" ; Times: 4
+	Query: "Gonioplectrus hispanus mappable:1" ; Times: 1
+	Query: "genus:Mirorictus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "mappable:1 scientificname:Haemulon flavolineatum" ; Times: 4
+	Query: "Haemulon album mappable:1" ; Times: 1
+	Query: "Apodichthys flavidus" ; Times: 1
+	Query: "mappable:1 scientificname:Eucinostomus havana" ; Times: 5
+	Query: "Syacium micrurum mappable:1" ; Times: 1
+	Query: "CAS-7782" ; Times: 1
+	Query: "mappable:1 scientificname:Clupanodon thrissa" ; Times: 1
+	Query: "mappable:1 scientificname:Seriola dumerili" ; Times: 4
+	Query: "mappable:1 scientificname:Balistes capriscus" ; Times: 10
+	Query: "mappable:1 scientificname:Anchovia clupeoides" ; Times: 1
+	Query: "Micropterus floridanus" ; Times: 1
+	Query: "Seriola dumerili" ; Times: 1
+	Query: "Aluterus scriptus" ; Times: 1
+	Query: "Acheilognathus macropterus" ; Times: 1
+	Query: "mustela" ; Times: 1
+	Query: "mappable:1 scientificname:Calamus bajonado" ; Times: 4
+	Query: "Euleptorhamphus velox mappable:1" ; Times: 1
+	Query: "Alburnus alburnus" ; Times: 6
+	Query: "Mulloidichthys martinicus mappable:1" ; Times: 1
+	Query: "Jenkinsia lamprotaenia mappable:1" ; Times: 1
+	Query: "Myoxocephalus octodecemspinosus" ; Times: 2
+	Query: "Auxis thazard" ; Times: 1
+	Query: "Alopias superciliosus mappable:1" ; Times: 1
+	Query: "mappable:1 scientificname:Lutjanus griseus" ; Times: 5
+	Query: "47132" ; Times: 1
+	Query: "mappable:1 scientificname:Enchelycore nigricans" ; Times: 4
+	Query: "Notoclinus compressus" ; Times: 1
+	Query: "93638" ; Times: 1
+	Query: "Gillellus greyae mappable:1" ; Times: 1
+	Query: "Hypoplectrus aberrans mappable:1" ; Times: 1
+	Query: "Cheilodactylus variegatus" ; Times: 1
+	Query: "Malacocephalus laevis mappable:1" ; Times: 1
+	Query: "scientificname:(Etheostoma thalassinum) country:United States mappable:1" ; Times: 1
+	Query: "Seriola rivoliana mappable:1" ; Times: 1
+	Query: "Trachurus lathami" ; Times: 1
+	Query: "mappable:1 scientificname:Hemiramphus brasiliensis" ; Times: 5
+	Query: "Galeus springeri mappable:1" ; Times: 1
+	Query: "mappable:1 scientificname:Melichthys niger" ; Times: 10
+	Query: "mappable:1 scientificname:Caranx latus" ; Times: 4
+	Query: "mappable:1 scientificname:Coryphaena equiselis" ; Times: 2
+	Query: "mappable:1 scientificname:Bembrops gobioides" ; Times: 4
+	Query: "Paralaubuca typus" ; Times: 1
+	Query: "mappable:1 scientificname:Cheilopogon cyanopterus" ; Times: 4
+	Query: "UMMZ recordedby:Snyder" ; Times: 1
+	Query: "Ancistrus" ; Times: 2
+	Query: "scientificname:(Notropis anogenus) country:United States mappable:1" ; Times: 1
+	Query: "Anchoviella perfasciata mappable:1" ; Times: 1
+	Query: "Antennarius striatus mappable:1" ; Times: 1
+	Query: "mappable:1 scientificname:Hirundichthys speculiger" ; Times: 4
+	Query: "Haemulon plumierii mappable:1" ; Times: 1
+	Query: "inhs" ; Times: 1
+	Query: "scientificname:(Etheostoma caeruleum) country:United States mappable:1" ; Times: 3
+	Query: "Opistognathus whitehursti mappable:1" ; Times: 1
+	Query: "scientificname:(Notropis chalybaeus) country:United States mappable:1" ; Times: 1
+	Query: "scientificname:(Notropis scepticus) country:United States mappable:1" ; Times: 1
+	Query: "81916" ; Times: 1
+	Query: "Marukawichthys ambulator" ; Times: 1
+	Query: "scientificname:(Noturus furiosus) country:United States mappable:1" ; Times: 1
+	Query: "mappable:1 scientificname:Pogonias cromis" ; Times: 6
+	Query: "mappable:1 scientificname:Mullus auratus" ; Times: 8
+	Query: "mappable:1 scientificname:Gobioides broussonnetii" ; Times: 11
+	Query: "mappable:1 scientificname:Haemulon melanurum" ; Times: 4
+	Query: "Tylosurus crocodilus crocodilus mappable:1" ; Times: 1
+	Query: "Anisotremus surinamensis mappable:1" ; Times: 1
+	Query: "scientificname:Atherina hepsetus" ; Times: 1
+	Query: "mappable:1 scientificname:Ostichthys trachypoma" ; Times: 3
+	Query: "Stegastes partitus mappable:1" ; Times: 1
+	Query: "Carangoides equula" ; Times: 1
+	Query: "mappable:1 scientificname:Etropus crossotus" ; Times: 6
+	Query: "Chlorophthalmus agassizi mappable:1" ; Times: 1
+	Query: "mappable:1 scientificname:Calamus pennatula" ; Times: 4
+	Query: "Harengula jaguana mappable:1" ; Times: 1
+	Query: "Balistes capriscus mappable:1" ; Times: 1
+	Query: "Clupea harengus" ; Times: 3
+	Query: "Anguilla anguilla" ; Times: 1
+	Query: "Anguilla rostrata" ; Times: 2
+	Query: "Xyrichtys novacula mappable:1" ; Times: 1
+	Query: "mappable:1 scientificname:Myripristis jacobus" ; Times: 8
+	Query: "mappable:1 scientificname:Synodus intermedius" ; Times: 5
+	Query: "mappable:1 scientificname:Malacoctenus versicolor" ; Times: 3
+	Query: "scientificname:Auxis rochei rochei" ; Times: 1
+	Query: "specificepithet:lucetia genus:Vinciguerria stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "mappable:1 scientificname:Trinectes inscriptus" ; Times: 16
+	Query: "scientificname:(Notropis spectrunculus) country:United States mappable:1" ; Times: 1
+	Query: "mappable:1 scientificname:Cephalopholis fulva" ; Times: 5
+	Query: "Ogcocephalus nasutus mappable:1" ; Times: 1
+	Query: "mappable:1 scientificname:Dicrolene kanazawai" ; Times: 2
+	Query: "Malacoctenus gilli mappable:1" ; Times: 1
+	Query: "mappable:1 scientificname:Scophthalmus aquosus" ; Times: 5
+	Query: "mappable:1 scientificname:Acanthostracion polygonius" ; Times: 5
+	Query: "mappable:1 scientificname:Harengula humeralis" ; Times: 6
+	Query: "&#34;redondo beach&#34;" ; Times: 1
+	Query: "Stomias affinis mappable:1" ; Times: 1
+	Query: "mappable:1 scientificname:Corvula sanctaeluciae" ; Times: 6
+	Query: "mappable:1 scientificname:Ablennes hians" ; Times: 5
+	Query: "scientificname:(Erimyzon tenuis) country:United States mappable:1" ; Times: 1
+	Query: "scientificname:(Siphateles bicolor columbianus OR Rutilus columbianus) country:United States mappable:1" ; Times: 1
+	Query: "CAS 234054" ; Times: 2
+	Query: "Epinephelus striatus mappable:1" ; Times: 1
+	Query: "daphne" ; Times: 2
+	Query: "Ogcocephalus vespertilio mappable:1" ; Times: 1
+	Query: "Hypoplectrus guttavarius mappable:1" ; Times: 1
+	Query: "mappable:1 scientificname:Gerres cinereus" ; Times: 5
+	Query: "Ballerus ballerus" ; Times: 2
+	Query: "Parablennius yatabei" ; Times: 1
+	Query: "mappable:1 scientificname:Ophidion holbrookii" ; Times: 11
+	Query: "mappable:1 scientificname:Gymnothorax moringa" ; Times: 4
+	Query: "Holocentrus rufus mappable:1" ; Times: 1
+	Query: "scientificname:Nansenia oblita" ; Times: 5
+	Query: "Myrichthys breviceps mappable:1" ; Times: 1
+	Query: "mappable:1 scientificname:Scartella cristata" ; Times: 15
+	Query: "scientificname:Scomberesox saurus saurus" ; Times: 1
+	Query: "Carangoides bartholomaei" ; Times: 1
+	Query: "mappable:1 scientificname:Ogcocephalus radiatus" ; Times: 4
+	Query: "mappable:1 scientificname:Platybelone argalus argalus" ; Times: 5
+	Query: "mappable:1 scientificname:Ipnops murrayi" ; Times: 2
+	Query: "mappable:1 scientificname:Euthynnus alletteratus" ; Times: 3
+	Query: "mappable:1 scientificname:Etropus rimosus" ; Times: 6
+	Query: "genus:Dolichopteryx stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "sockeye" ; Times: 1
+	Query: "Calamus bajonado mappable:1" ; Times: 1
+	Query: "Myoxocephalus scorpius" ; Times: 1
+	Query: "Gymnocanthus tricuspis" ; Times: 1
+	Query: "mappable:1 scientificname:Ophichthus cruentifer" ; Times: 4
+	Query: "specificepithet:microtrachys genus:Bathyraja stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "scientificname:(Thymallus arcticus) country:United States mappable:1" ; Times: 1
+	Query: "66015" ; Times: 1
+	Query: "Stephanolepis setifer mappable:1" ; Times: 1
+	Query: "mappable:1 scientificname:Malacoctenus erdmani" ; Times: 4
+	Query: "Decapterus macarellus mappable:1" ; Times: 1
+	Query: "Mugil trichodon mappable:1" ; Times: 1
+	Query: "mappable:1 scientificname:Serranus phoebe" ; Times: 3
+	Query: "Decapterus maruadsi" ; Times: 1
+	Query: "Cantherhines pardalis" ; Times: 1
+	Query: "mappable:1 scientificname:Odontoscion dentex" ; Times: 6
+	Query: "mappable:1 scientificname:Scorpaena elachys" ; Times: 4
+	Query: "mappable:1 scientificname:Balistes vetula" ; Times: 10
+	Query: "mappable:1 scientificname:Nezumia aequalis" ; Times: 5
+	Query: "Malacoctenus macropus mappable:1" ; Times: 1
+	Query: "distance(location,geopoint(-15.666838288748076,-47.9271060387379))&lt;191939" ; Times: 1
+	Query: "scientificname:(Macrhybopsis hyostoma) country:United States mappable:1" ; Times: 1
+	Query: "Thunnus atlanticus mappable:1" ; Times: 1
+	Query: "Oreochromis mossambicus mappable:1" ; Times: 1
+	Query: "scientificname:(Etheostoma blennius) country:United States mappable:1" ; Times: 1
+	Query: "Scomberomorus maculatus" ; Times: 1
+	Query: "scientificname:(Chrosomus eos OR Phoxinus eos) country:United States mappable:1" ; Times: 1
+	Query: "Trachinotus carolinus mappable:1" ; Times: 1
+	Query: "mappable:1 scientificname:Kaupichthys hyoproroides" ; Times: 3
+	Query: "Chaetodon striatus mappable:1" ; Times: 1
+	Query: "Corvula sanctaeluciae mappable:1" ; Times: 1
+	Query: "23783" ; Times: 2
+	Query: "CAS 233900" ; Times: 1
+	Query: "CAS 233901" ; Times: 1
+	Query: "Percina maculata" ; Times: 1
+	Query: "Bison bison sex:female" ; Times: 1
+	Query: "mappable:1 scientificname:Hoplostethus mediterraneus" ; Times: 3
+	Query: "Decapterus macarellus" ; Times: 1
+	Query: "genus:Gila county:&#34;San Diego&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "mappable:1 scientificname:Decapterus punctatus" ; Times: 4
+	Query: "mappable:1 scientificname:Halichoeres radiatus" ; Times: 8
+	Query: "Rypticus subbifrenatus mappable:1" ; Times: 1
+	Query: "mappable:1 scientificname:Gobiesox punctulatus" ; Times: 4
+	Query: "mappable:1 scientificname:Osteoglossum bicirrhosum" ; Times: 1
+	Query: "mappable:1 scientificname:Venefica procera" ; Times: 2
+	Query: "scientificname:(Percina tanasi) country:United States mappable:1" ; Times: 1
+	Query: "scientificname:(Etheostoma olmstedi) country:United States mappable:1" ; Times: 3
+	Query: "Coryphopterus glaucofraenum mappable:1" ; Times: 1
+	Query: "0773" ; Times: 1
+	Query: "Etmopterus hillianus mappable:1" ; Times: 1
+	Query: "Tomicodon fasciatus mappable:1" ; Times: 1
+	Query: "mappable:1 scientificname:Eleotris amblyopsis" ; Times: 13
+	Query: "scientificname:(Notropis boops) country:United States mappable:1" ; Times: 1
+	Query: "Pagrus caeruleostictus" ; Times: 1
+	Query: "mappable:1 scientificname:Amphelikturus dendriticus" ; Times: 4
+	Query: "Ginglymostoma cirratum mappable:1" ; Times: 1
+	Query: "mappable:1 scientificname:Astrapogon stellatus" ; Times: 10
+	Query: "mappable:1 scientificname:Sphyraena barracuda" ; Times: 3
+	Query: "mappable:1 scientificname:Anchoa filifera" ; Times: 1
+	Query: "Euthynnus affinis" ; Times: 1
+	Query: "Neoscopelus macrolepidotus mappable:1" ; Times: 1
+	Query: "loon" ; Times: 1
+	Query: "mappable:1 scientificname:Xyrichtys novacula" ; Times: 6
+	Query: "mappable:1 scientificname:Mugil incilis" ; Times: 1
+	Query: "mappable:1 scientificname:Opistognathus aurifrons" ; Times: 5
+	Query: "Hirundichthys speculiger mappable:1" ; Times: 1
+	Query: "Lutjanus griseus mappable:1" ; Times: 1
+	Query: "mappable:1 scientificname:Moringua edwardsi" ; Times: 4
+	Query: "CAS 227772" ; Times: 1
+	Query: "Stegastes adustus mappable:1" ; Times: 1
+	Query: "mappable:1 scientificname:Halosaurus ovenii" ; Times: 5
+	Query: "scientificname:(Etheostoma hopkinsi) country:United States mappable:1" ; Times: 1
+	Query: "Parexocoetus hillianus mappable:1" ; Times: 1
+	Query: "Epinephelus morio mappable:1" ; Times: 1
+	Query: "scientificname:(Cottus caeruleomentum) country:United States mappable:1" ; Times: 1
+	Query: "Acanthostracion polygonius mappable:1" ; Times: 1
+	Query: "Dormitator maculatus mappable:1" ; Times: 1
+	Query: "mappable:1 scientificname:Carcharhinus falciformis" ; Times: 3
+	Query: "Polymixia nobilis mappable:1" ; Times: 1
+	Query: "Etropus crossotus mappable:1" ; Times: 1
+	Query: "mappable:1 scientificname:Lagocephalus laevigatus" ; Times: 3
+	Query: "mappable:1 scientificname:Vinciguerria nimbaria" ; Times: 2
+	Query: "Haemulon striatum mappable:1" ; Times: 1
+	Query: "mappable:1 scientificname:Melamphaes pumilus" ; Times: 5
+	Query: "Urolophus maculatus" ; Times: 1
+	Query: "mappable:1 scientificname:Caranx crysos" ; Times: 4
+	Query: "scientificname:(Richardsonius balteatus) country:United States mappable:1" ; Times: 1
+	Query: "Anchoa lyolepis" ; Times: 1
+	Query: "mappable:1 scientificname:Selene vomer" ; Times: 4
+	Query: "Oreochromis niloticus mappable:1" ; Times: 1
+	Query: "Anchoa hepsetus" ; Times: 1
+	Query: "mappable:1 scientificname:Cubiceps pauciradiatus" ; Times: 1
+	Query: "Parablennius gattorugine" ; Times: 1
+	Query: "scientificname:(Lythrurus alegnotus) country:United States mappable:1" ; Times: 1
+	Query: "mappable:1 scientificname:Mycteroperca interstitialis" ; Times: 3
+	Query: "Diplectrum bivittatum mappable:1" ; Times: 1
+	Query: "mappable:1 scientificname:Scarus coeruleus" ; Times: 6
+	Query: "mappable:1 scientificname:Pseudogramma gregoryi" ; Times: 3
+	Query: "44455" ; Times: 1
+	Query: "Etheostoma exile" ; Times: 3
+	Query: "Holacanthus tricolor mappable:1" ; Times: 1
+	Query: "scientificname:Barbatula toni" ; Times: 5
+	Query: "mappable:1 scientificname:Bathyclupea argentea" ; Times: 3
+	Query: "Stathmonotus hemphillii mappable:1" ; Times: 1
+	Query: "Girella tricuspidata" ; Times: 1
+	Query: "Scomberomorus regalis mappable:1" ; Times: 1
+	Query: "Anchoa lamprotaenia mappable:1" ; Times: 1
+	Query: "Ulvaria subbifurcata" ; Times: 1
+	Query: "Sarda orientalis" ; Times: 1
+	Query: "Acyrtus artius mappable:1" ; Times: 1
+	Query: "Gobionellus oceanicus mappable:1" ; Times: 1
+	Query: "Scomberomorus cavalla mappable:1" ; Times: 1
+	Query: "mappable:1 scientificname:Tomicodon fasciatus" ; Times: 4
+	Query: "Echidna catenata mappable:1" ; Times: 1
+	Query: "mappable:1 scientificname:Auxis rochei rochei rochei" ; Times: 1
+	Query: "Scorpaena brasiliensis mappable:1" ; Times: 1
+	Query: "Pelecus cultratus" ; Times: 1
+	Query: "Distichodus fasciolatus" ; Times: 1
+	Query: "Dactyloscopus crossotus mappable:1" ; Times: 1
+	Query: "mappable:1 scientificname:Gillellus greyae" ; Times: 6
+	Query: "mappable:1 scientificname:Gobiomorus dormitor" ; Times: 11
+	Query: "mappable:1 scientificname:Lachnolaimus maximus" ; Times: 8
+	Query: "mappable:1 scientificname:Calamus penna" ; Times: 5
+	Query: "Aluterus scriptus mappable:1" ; Times: 1
+	Query: "scientificname:(Notropis buchanani) country:United States mappable:1" ; Times: 1
+	Query: "Chloroscombrus chrysurus mappable:1" ; Times: 1
+	Query: "Carcharhinus longimanus mappable:1" ; Times: 1
+	Query: "mappable:1 scientificname:Cyprinodon variegatus" ; Times: 9
+	Query: "mappable:1 scientificname:Sphyraena guachancho" ; Times: 3
+	Query: "mappable:1 scientificname:Starksia atlantica" ; Times: 3
+	Query: "Gulo" ; Times: 1
+	Query: "scientificname:Barbatula oreas" ; Times: 2
+	Query: "Sphyrna lewini mappable:1" ; Times: 1
+	Query: "Seriola quinqueradiata" ; Times: 1
+	Query: "Elops saurus mappable:1" ; Times: 1
+	Query: "Trichiurus lepturus mappable:1" ; Times: 1
+	Query: "mappable:1 scientificname:Anguilla rostrata" ; Times: 10
+	Query: "Sphyrna tiburo mappable:1" ; Times: 1
+	Query: "mappable:1 scientificname:Emblemaria pandionis" ; Times: 9
+	Query: "Caranx hippos mappable:1" ; Times: 1
+	Query: "mappable:1 scientificname:Gymnothorax funebris" ; Times: 4
+	Query: "CAS 215050" ; Times: 1
+	Query: "mappable:1 scientificname:Chirocentrodon bleekerianus" ; Times: 5
+	Query: "mappable:1 scientificname:Sphyrna lewini" ; Times: 3
+	Query: "Dicrolene kanazawai mappable:1" ; Times: 1
+	Query: "Prionotus punctatus mappable:1" ; Times: 1
+	Query: "mappable:1 scientificname:Stathmonotus hemphillii" ; Times: 9
+	Query: "mappable:1 scientificname:Channomuraena vittata" ; Times: 4
+	Query: "manam" ; Times: 1
+	Query: "Anisotremus virginicus mappable:1" ; Times: 1
+	Query: "mappable:1 scientificname:Halichoeres bivittatus" ; Times: 8
+	Query: "Megalocottus platycephalus" ; Times: 1
+	Query: "Erotelis smaragdus mappable:1" ; Times: 1
+	Query: "Mycteroperca bonaci mappable:1" ; Times: 1
+	Query: "Odontaspis ferox" ; Times: 1
+	Query: "scientificname:(Gambusia affinis OR Gambusia patruelis OR Gambusia affinis affinis OR Gambusia holbrooki) country:United States mappable:1" ; Times: 1
+	Query: "Scorpaena grandicornis mappable:1" ; Times: 1
+	Query: "mappable:1 scientificname:Citharichthys sordidus" ; Times: 1
+	Query: "mappable:1 scientificname:Polymixia nobilis" ; Times: 6
+	Query: "Anchoa delicatissima" ; Times: 1
+	Query: "scientificname:Paralepis speciosa" ; Times: 1
+	Query: "mappable:1 scientificname:Salilota australis" ; Times: 1
+	Query: "Thamnaconus tessellatus" ; Times: 1
+	Query: "scientificname:Gulo gulo" ; Times: 6
+	Query: "Anchoviella lepidentostole" ; Times: 1
+	Query: "mappable:1 scientificname:Idiacanthus fasciola" ; Times: 2
+	Query: "scientificname:(Cyprinella labrosa OR Hybopsis labrosa) country:United States mappable:1" ; Times: 1
+	Query: "Bothus lunatus mappable:1" ; Times: 1
+	Query: "Monacanthus ciliatus mappable:1" ; Times: 1
+	Query: "mappable:1 scientificname:Decodon puellaris" ; Times: 9
+	Query: "mappable:1 scientificname:Hippocampus erectus" ; Times: 5
+	Query: "mappable:1 scientificname:Antennarius striatus" ; Times: 5
+	Query: "Myoxocephalus polyacanthocephalus" ; Times: 1
+	Query: "Syacium gunteri mappable:1" ; Times: 1
+	Query: "Euthynnus alletteratus" ; Times: 1
+	Query: "mappable:1 scientificname:Lutjanus mahogoni" ; Times: 6
+	Query: "Barbus brazzai" ; Times: 1
+	Query: "sentinel Andaman" ; Times: 3
+	Query: "Isurus oxyrinchus mappable:1" ; Times: 1
+	Query: "mappable:1 scientificname:Hypoatherina harringtonensis" ; Times: 5
+	Query: "mappable:1 scientificname:Sphoeroides greeleyi" ; Times: 4
+	Query: "scientificname:(Notropis bairdi) country:United States mappable:1" ; Times: 1
+	Query: "scientificname:(Etheostoma nigrum) country:United States mappable:1" ; Times: 3
+	Query: "Hyporhamphus unifasciatus mappable:1" ; Times: 1
+	Query: "Hypleurochilus springeri" ; Times: 1
+	Query: "scientificname:(Nocomis leptocephalus) country:United States mappable:1" ; Times: 2
+	Query: "mappable:1 scientificname:Stegastes fuscus" ; Times: 3
+	Query: "Sparisoma rubripinne mappable:1" ; Times: 1
+	Query: "mappable:1 scientificname:Anchoviella perfasciata" ; Times: 6
+	Query: "Scophthalmus aquosus mappable:1" ; Times: 1
+	Query: "mappable:1 scientificname:Haemulon macrostomum" ; Times: 4
+	Query: "mappable:1 scientificname:Eucinostomus melanopterus" ; Times: 5
+	Query: "mappable:1 scientificname:Diplectrum bivittatum" ; Times: 4
+	Query: "genus:Mentodus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "genus:Mobula stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "family:Synbranchidae country:&#34;Mexico&#34;" ; Times: 1
+	Query: "scientificname:Diaphus metopoclampus" ; Times: 1
+	Query: "mappable:1 scientificname:Cantherhines macrocerus" ; Times: 7
+	Query: "Chriodorus atherinoides mappable:1" ; Times: 1
+	Query: "Lepidotrigla microptera" ; Times: 1
+	Query: "Enchelycore carychroa mappable:1" ; Times: 1
+	Query: "Scomber scombrus" ; Times: 1
+	Query: "Uropterygius macularius mappable:1" ; Times: 1
+	Query: "scientificname:(Minytrema melanops) country:United States mappable:1" ; Times: 1
+	Query: "Parexocoetus brachypterus mappable:1" ; Times: 1
+	Query: "Trachelochismus pinnulatus" ; Times: 1
+	Query: "ASU 1091" ; Times: 1
+	Query: "bogotá" ; Times: 1
+	Query: "mappable:1 scientificname:Coryphopterus glaucofraenum" ; Times: 11
+	Query: "Nicholsina usta usta mappable:1" ; Times: 1
+	Query: "Dictyosoma burgeri" ; Times: 1
+	Query: "Malacocephalus occidentalis mappable:1" ; Times: 1
+	Query: "mappable:1 scientificname:Caranx ruber" ; Times: 4
+	Query: "Diodon holocanthus mappable:1" ; Times: 1
+	Query: "Dibranchus atlanticus mappable:1" ; Times: 1
+	Query: "Plectropomus areolatus" ; Times: 1
+	Query: "scientificname:zungaro zungaro" ; Times: 10
+	Query: "wizard" ; Times: 12
+	Query: "mappable:1 scientificname:Hirundichthys affinis" ; Times: 4
+	Query: "mappable:1 scientificname:Carcharhinus acronotus" ; Times: 4
+	Query: "Kaupichthys nuchalis mappable:1" ; Times: 1
+	Query: "Diplospinus multistriatus mappable:1" ; Times: 1
+	Query: "234868" ; Times: 1
+	Query: "Syngnathus pelagicus mappable:1" ; Times: 1
+	Query: "Rhizoprionodon terraenovae mappable:1" ; Times: 1
+	Query: "Anchoa lyolepis mappable:1" ; Times: 1
+	Query: "Rypticus bistrispinus mappable:1" ; Times: 1
+	Query: "Gobioides broussonnetii mappable:1" ; Times: 1
+	Query: "mappable:1 scientificname:Dactyloscopus crossotus" ; Times: 4
+	Query: "Haemulon carbonarium mappable:1" ; Times: 1
+	Query: "Synodus poeyi mappable:1" ; Times: 1
+	Query: "mappable:1 scientificname:Ariomma bondi" ; Times: 11
+	Query: "Mustelus canis mappable:1" ; Times: 1
+	Query: "Coregonus clupeaformis" ; Times: 1
+	Query: "Harengula clupeola mappable:1" ; Times: 1
+	Query: "Melanocetus murrayi mappable:1" ; Times: 1
+	Query: "mappable:1 scientificname:Scopeloberyx opisthopterus" ; Times: 5
+	Query: "Sicydium plumieri mappable:1" ; Times: 1
+	Query: "mappable:1 scientificname:Scorpaena brasiliensis" ; Times: 6
+	Query: "scientificname:(Hybognathus hankinsoni) country:United States mappable:1" ; Times: 1
+	Query: "scientificname:Vinciguerria attenuata" ; Times: 2
+	Query: "Stegastes fuscus mappable:1" ; Times: 1
+	Query: "Pontinus castor mappable:1" ; Times: 1
+	Query: "mappable:1 scientificname:Bothus ocellatus" ; Times: 15
+	Query: "scientificname:(Etheostoma tennesseense) country:United States mappable:1" ; Times: 1
+	Query: "mappable:1 scientificname:Diaphus garmani" ; Times: 3
+	Query: "Scleropages formosus" ; Times: 4
+	Query: "Engraulis japonicus" ; Times: 2
+	Query: "Starksia atlantica mappable:1" ; Times: 1
+	Query: "Gnatholepis thompsoni mappable:1" ; Times: 1
+	Query: "Eleotris pisonis mappable:1" ; Times: 1
+	Query: "Mycteroperca tigris mappable:1" ; Times: 1
+	Query: "Priacanthus arenatus mappable:1" ; Times: 1
+	Query: "Opisthonema oglinum mappable:1" ; Times: 1
+	Query: "mappable:1 scientificname:Lutjanus synagris" ; Times: 5
+	Query: "Caranx tille" ; Times: 1
+	Query: "mappable:1 scientificname:Rondeletia bicolor" ; Times: 2
+	Query: "Selene vomer mappable:1" ; Times: 1
+	Query: "Thalassoma bifasciatum mappable:1" ; Times: 1
+	Query: "mappable:1 scientificname:Pristipomoides macrophthalmus" ; Times: 2
+	Query: "scientificname:(Notropis percobromus) country:United States mappable:1" ; Times: 1
+	Query: "mappable:1 scientificname:Trachinotus carolinus" ; Times: 4
+	Query: "Scomber colias" ; Times: 2
+	Query: "mappable:1 scientificname:Petrotyx sanguineus" ; Times: 1
+	Query: "Lagodon rhomboides mappable:1" ; Times: 1
+	Query: "CAS 229902" ; Times: 1
+	Query: "Upeneus parvus mappable:1" ; Times: 1
+	Query: "mappable:1 scientificname:Ophichthus ophis" ; Times: 8
+	Query: "Cynoponticus savanna mappable:1" ; Times: 1
+	Query: "specificepithet:transmontanus genus:Acipenser stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "mappable:1 scientificname:Mola mola" ; Times: 2
+	Query: "scientificname:(Cottus girardi) country:United States mappable:1" ; Times: 1
+	Query: "Lutjanus synagris mappable:1" ; Times: 1
+	Query: "scientificname:(Etheostoma coosae) country:United States mappable:1" ; Times: 1
+	Query: "Neoscopelus microchir mappable:1" ; Times: 1
+	Query: "scientificname:Stomias boa boa" ; Times: 2
+	Query: "scientificname:(Fundulus notti) country:United States mappable:1" ; Times: 1
+	Query: "Anchoa mitchilli" ; Times: 1
+	Query: "Ameiurus nebulosus" ; Times: 1
+	Query: "3895" ; Times: 1
+	Query: "Phoxinus phoxinus" ; Times: 2
+	Query: "mappable:1 scientificname:Bathypterois phenax" ; Times: 2
+	Query: "scientificname:(Gila atraria) country:United States mappable:1" ; Times: 1
+	Query: "scientificname:(Ammocrypta clara) country:United States mappable:1" ; Times: 1
+	Query: "rabbit" ; Times: 1
+	Query: "Peprilus paru mappable:1" ; Times: 1
+	Query: "Gnathonemus petersii" ; Times: 1
+	Query: "43733" ; Times: 1
+	Query: "Scorpaena plumieri mappable:1" ; Times: 1
+	Query: "mappable:1 scientificname:Phtheirichthys lineatus" ; Times: 2
+	Query: "mappable:1 scientificname:Auxis rochei rochei" ; Times: 2
+	Query: "Hypoplectrus puella mappable:1" ; Times: 1
+	Query: "UCLA" ; Times: 1
+	Query: "mappable:1 scientificname:Gambusia dominicensis" ; Times: 1
+	Query: "Sparisoma radians mappable:1" ; Times: 1
+	Query: "mappable:1 scientificname:Nicholsina usta usta" ; Times: 7
+	Query: "mappable:1 scientificname:Lactophrys trigonus" ; Times: 5
+	Query: "Diapterus rhombeus mappable:1" ; Times: 1
+	Query: "CAS 27722" ; Times: 1
+	Query: "scientificname:(Percina bimaculata) country:United States mappable:1" ; Times: 1
+	Query: "scientificname:(Opsopoeodus emiliae OR Notropis emiliae) country:United States mappable:1" ; Times: 2
+	Query: "bones" ; Times: 1
+	Query: "Gramma loreto mappable:1" ; Times: 1
+	Query: "mappable:1 scientificname:Sphoeroides testudineus" ; Times: 4
+	Query: "Hypoplectrus unicolor mappable:1" ; Times: 1
+	Query: "specificepithet:annularis stateprovince:&#34;California&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "Remora australis mappable:1" ; Times: 1
+	Query: "Coregonus lavaretus" ; Times: 1
+	Query: "Scomberomorus concolor" ; Times: 1
+	Query: "Eumesogrammus praecisus" ; Times: 1
+	Query: "kolkata" ; Times: 2
+	Query: "scientificname:(Notropis procne) country:United States mappable:1" ; Times: 2
+	Query: "Thunnus thynnus" ; Times: 1
+	Query: "mappable:1 scientificname:Myctophum nitidulum" ; Times: 3
+	Query: "mappable:1 scientificname:Remora remora" ; Times: 2
+	Query: "Sarda sarda mappable:1" ; Times: 1
+	Query: "Caranx ruber mappable:1" ; Times: 1
+	Query: "Paralichthys dentatus mappable:1" ; Times: 1
+	Query: "mappable:1 scientificname:Sparisoma rubripinne" ; Times: 3
+	Query: "Phtheirichthys lineatus mappable:1" ; Times: 1
+	Query: "mappable:1 scientificname:Diaphus rafinesquii" ; Times: 3
+	Query: "nicobar" ; Times: 2
+	Query: "Echeneis naucrates" ; Times: 1
+	Query: "Etelis oculatus mappable:1" ; Times: 1
+	Query: "scientificname:(Gila cypha) country:United States mappable:1" ; Times: 1
+	Query: "Alectis ciliaris mappable:1" ; Times: 1
+	Query: "Gobiomorus dormitor mappable:1" ; Times: 1
+	Query: "Micropogonias furnieri mappable:1" ; Times: 1
+	Query: "Auxis thazard thazard mappable:1" ; Times: 1
+	Query: "Scorpaenodes caribbaeus mappable:1" ; Times: 1
+	Query: "mappable:1 scientificname:Acanthemblemaria maria" ; Times: 3
+	Query: "mappable:1 scientificname:Centropomus parallelus" ; Times: 5
+	Query: "mappable:1 scientificname:Seriola rivoliana" ; Times: 4
+	Query: "Lutjanus vivanus mappable:1" ; Times: 1
+	Query: "jimenez" ; Times: 2
+	Query: "mappable:1 scientificname:Haemulon album" ; Times: 5
+	Query: "mappable:1 scientificname:Serranus tortugarum" ; Times: 3
+	Query: "mappable:1 scientificname:Citharichthys arenaceus" ; Times: 11
+	Query: "54851" ; Times: 1
+	Query: "mappable:1 scientificname:Echeneis naucrates" ; Times: 2
+	Query: "CAS 224676" ; Times: 1
+	Query: "mappable:1 scientificname:Jenkinsia lamprotaenia" ; Times: 6
+	Query: "Ogcocephalus radiatus mappable:1" ; Times: 1
+	Query: "scientificname:(Etheostoma fusiforme OR Etheostoma fusiforme fusiforme) country:United States mappable:1" ; Times: 3
+	Query: "scientificname:(Etheostoma blennioides) country:United States mappable:1" ; Times: 3
+	Query: "Benthophilus stellatus]" ; Times: 1
+	Query: "Argyrocottus zanderi" ; Times: 1
+	Query: "mappable:1 scientificname:Holacanthus ciliaris" ; Times: 5
+	Query: "hassex:1 hasmass:1 haslength:1" ; Times: 2
+	Query: "erythrinus erythrinus" ; Times: 1
+	Query: "scientificname:Liza saliens" ; Times: 1
+	Query: "Sphoeroides nephelus mappable:1" ; Times: 1
+	Query: "scientificname:Evermannella balbo" ; Times: 1
+	Query: "mappable:1 scientificname:Mugil curema" ; Times: 7
+	Query: "Icichthys lockingtoni" ; Times: 1
+	Query: "mappable:1 scientificname:Hypoplectrus unicolor" ; Times: 3
+	Query: "mappable:1 scientificname:Aulostomus maculatus" ; Times: 17
+	Query: "Vinciguerria nimbaria mappable:1" ; Times: 1
+	Query: "Polymixia lowei mappable:1" ; Times: 1
+	Query: "Bodianus pulchellus mappable:1" ; Times: 1
+	Query: "Polyipnus asteroides mappable:1" ; Times: 1
+	Query: "scientificname:(Etheostoma rufilineatum) country:United States mappable:1" ; Times: 2
+	Query: "county:&#34;butte&#34;" ; Times: 1
+	Query: "scientificname:(Rhinichthys osculus klamathensis OR Agosia klamathensis) country:United States mappable:1" ; Times: 1
+	Query: "Halieutichthys aculeatus mappable:1" ; Times: 1
+	Query: "scientificname:(Notropis leuciodus) country:United States mappable:1" ; Times: 1
+	Query: "mappable:1 scientificname:Labrisomus nuchipinnis" ; Times: 7
+	Query: "mappable:1 scientificname:Cantherhines sandwichiensis" ; Times: 1
+	Query: "Squalus cubensis mappable:1" ; Times: 1
+	Query: "Chirocentrodon bleekerianus mappable:1" ; Times: 1
+	Query: "mappable:1 scientificname:Rypticus bistrispinus" ; Times: 3
+	Query: "synbranchus" ; Times: 1
+	Query: "Pristis pectinata mappable:1" ; Times: 1
+	Query: "Remora remora mappable:1" ; Times: 1
+	Query: "mappable:1 scientificname:Peprilus paru" ; Times: 3
+	Query: "scientificname:(Etheostoma artesiae) country:United States mappable:1" ; Times: 1
+	Query: "scientificname:(Richardsonius balteatus hydrophlox) country:United States mappable:1" ; Times: 1
+	Query: "Thunnus albacares mappable:1" ; Times: 1
+	Query: "scientificname:(Paralichthys lethostigma) country:United States mappable:1" ; Times: 1
+	Query: "Rondeletia bicolor mappable:1" ; Times: 1
+	Query: "mappable:1 scientificname:Trachinotus goodei" ; Times: 6
+	Query: "Brycinus nurse" ; Times: 1
+	Query: "mappable:1 scientificname:Malacocephalus laevis" ; Times: 5
+	Query: "Hymenocephalus italicus mappable:1" ; Times: 1
+	Query: "Pagellus erythrinus" ; Times: 1
+	Query: "mappable:1 scientificname:Serraniculus pumilio" ; Times: 4
+	Query: "Caranx latus" ; Times: 1
+	Query: "pueblo nuevo" ; Times: 1
+	Query: "Aulostomus maculatus mappable:1" ; Times: 1
+	Query: "unknown" ; Times: 2
+	Query: "Ameiurus catus" ; Times: 1
+	Query: "ZFMK" ; Times: 1
+	Query: "SIO 73-248" ; Times: 1
+	Query: "Halichoeres caudalis mappable:1" ; Times: 1
+	Query: "scientificname:(Coregonus clupeaformis) country:United States mappable:1" ; Times: 1
+	Query: "mappable:1 scientificname:Polydactylus virginicus" ; Times: 6
+	Query: "scientificname:(Elassoma okefenokee) country:United States mappable:1" ; Times: 1
+	Query: "quagga" ; Times: 1
+	Query: "ZMUC" ; Times: 1
+	Query: "mappable:1 scientificname:Gymnothorax miliaris" ; Times: 4
+	Query: "mappable:1 scientificname:Epinephelus guttatus" ; Times: 4
+	Query: "Hippocampus reidi mappable:1" ; Times: 1
+	Query: "Heteropriacanthus cruentatus mappable:1" ; Times: 1
+	Query: "mappable:1 scientificname:Sargocentron vexillarium" ; Times: 3
+	Query: "Bathypterois phenax mappable:1" ; Times: 1
+	Query: "Aetobatus narinari mappable:1" ; Times: 1
+	Query: "Sargocentron vexillarium mappable:1" ; Times: 1
+	Query: "Eucinostomus melanopterus mappable:1" ; Times: 1
+	Query: "Limia ornata" ; Times: 2
+	Query: "country:Ecuador " ; Times: 1
+	Query: "65634" ; Times: 1
+	Query: "county:&#34;glenn&#34;" ; Times: 2
+	Query: "mappable:1 scientificname:Paralichthys dentatus" ; Times: 11
+	Query: "Elagatis bipinnulatus" ; Times: 1
+	Query: "43096" ; Times: 1
+	Query: "Centropomus ensiferus mappable:1" ; Times: 1
+	Query: "mappable:1 scientificname:Diodon holocanthus" ; Times: 9
+	Query: "OPHIDION imitator" ; Times: 1
+	Query: "mappable:1 scientificname:Istiophorus platypterus" ; Times: 3
+	Query: "mappable:1 scientificname:Gymnothorax vicinus" ; Times: 4
+	Query: "mappable:1 scientificname:Serranus flaviventris" ; Times: 3
+	Query: "scientificname:(Fundulus albolineatus) country:United States mappable:1" ; Times: 1
+	Query: "institutioncode:CAS Ophidion scrippsae" ; Times: 1
+	Query: "mappable:1 scientificname:Bryx randalli" ; Times: 4
+	Query: "mappable:1 scientificname:Chromis multilineata" ; Times: 5
+	Query: "scientificname:(Percina macrolepida) country:United States mappable:1" ; Times: 1
+	Query: "scientificname:(Notropis photogenis) country:United States mappable:1" ; Times: 1
+	Query: "mappable:1 scientificname:Centropomus undecimalis" ; Times: 5
+	Query: "mappable:1 scientificname:Caranx lugubris" ; Times: 4
+	Query: "mappable:1 scientificname:Benthodesmus tenuis" ; Times: 3
+	Query: "mappable:1 scientificname:Paranthias furcifer" ; Times: 3
+	Query: "Retropinna retropinna" ; Times: 1
+	Query: "Carassius carassius" ; Times: 1
+	Query: "county:&#34;Skagit&#34; stateprovince:&#34;Washington&#34;" ; Times: 2
+	Query: "mappable:1 scientificname:Mugil cephalus" ; Times: 1
+	Query: "mappable:1 scientificname:Carcharhinus brevipinna" ; Times: 3
+	Query: "mappable:1 scientificname:Anchoa parva" ; Times: 1
+	Query: "mappable:1 scientificname:Haemulon aurolineatum" ; Times: 5
+	Query: "Benthodesmus tenuis mappable:1" ; Times: 1
+	Query: "LACM" ; Times: 1
+	Query: "41813" ; Times: 2
+	Query: "aethotaxis haslength:1" ; Times: 1
+	Query: "catalognumber:19887" ; Times: 1
+	Query: "mappable:1 scientificname:Trachinotus ovatus" ; Times: 1
+	Query: "Megalops atlanticus mappable:1" ; Times: 1
+	Query: "Myrichthys ocellatus mappable:1" ; Times: 1
+	Query: "mappable:1 scientificname:Rhizoprionodon porosus" ; Times: 3
+	Query: "Eucinostomus havana mappable:1" ; Times: 1
+	Query: "scientificname:(Prosopium cylindraceum) country:United States mappable:1" ; Times: 1
+	Query: "Stichaeus nozawae" ; Times: 1
+	Query: "bear" ; Times: 1
+	Query: "Seriola lalandi" ; Times: 1
+	Query: "mappable:1 scientificname:Calamus proridens" ; Times: 4
+	Query: "stateprovince:&#34;Sinaloa&#34;" ; Times: 3
+	Query: "scientificname:(Gila coerulea) country:United States mappable:1" ; Times: 1
+	Query: "scientificname:(Elassoma evergladei) country:United States mappable:1" ; Times: 1
+	Query: "Acanthopagrus bifasciatus" ; Times: 1
+	Query: "Sphoeroides testudineus mappable:1" ; Times: 1
+	Query: "Gobio gobio" ; Times: 1
+	Query: "Atherina boyeri" ; Times: 1
+	Query: "mappable:1 scientificname:Centropomus ensiferus" ; Times: 5
+	Query: "Rachycentron canadum mappable:1" ; Times: 1
+	Query: "Fistularia tabacaria mappable:1" ; Times: 1
+	Query: "scientificname:Scomberomorus tritor" ; Times: 1
+	Query: "Neolebias unifasciatus" ; Times: 1
+	Query: "mappable:1 scientificname:Eucinostomus argenteus" ; Times: 5
+	Query: "mappable:1 scientificname:Rhomboplites aurorubens" ; Times: 4
+	Query: "10431" ; Times: 1
+	Query: "Acreichthys tomentosus" ; Times: 1
+	Query: "mappable:1 scientificname:Stegastes planifrons" ; Times: 5
+	Query: "HK 364" ; Times: 2
+	Query: "DeWitt" ; Times: 1
+	Query: "mappable:1 scientificname:Diplectrum formosum" ; Times: 7
+	Query: "mappable:1 scientificname:Anchoa lamprotaenia" ; Times: 8
+	Query: "Myoxocephalus jaok" ; Times: 1
+	Query: "Enophrys bison" ; Times: 1
+	Query: "Craterocephalus dalhousiensis" ; Times: 1
+	Query: "Radulinus asprellus" ; Times: 2
+	Query: "Chrosomus erythrogaster" ; Times: 1
+	Query: "Sparisoma aurofrenatum mappable:1" ; Times: 1
+	Query: "Alburnoides bipunctatus" ; Times: 1
+	Query: "mappable:1 scientificname:Neoscombrops atlanticus" ; Times: 5
+	Query: "mappable:1 scientificname:Pristis pectinata" ; Times: 5
+	Query: "mappable:1 scientificname:Symphysanodon berryi" ; Times: 2
+	Query: "20347" ; Times: 1
+	Query: "scientificname:(Etheostoma edwini) country:United States mappable:1" ; Times: 1
+	Query: "mappable:1 scientificname:Bothus lunatus" ; Times: 9
+	Query: "mappable:1 scientificname:Diapterus rhombeus" ; Times: 5
+	Query: "mappable:1 scientificname:Bodianus pulchellus" ; Times: 8
+	Query: "Acheilognathus cyanostigma" ; Times: 1
+	Query: "catalognumber:1284 institutioncode:CAS" ; Times: 1
+	Query: "mappable:1 scientificname:Serranus tabacarius" ; Times: 3
+	Query: "mappable:1 scientificname:Naucrates ductor" ; Times: 4
+	Query: "Lagocephalus lagocephalus mappable:1" ; Times: 1
+	Query: "Cantherhines pullus" ; Times: 1
+	Query: "Doratonotus megalepis mappable:1" ; Times: 1
+	Query: "mappable:1 scientificname:Xanthichthys ringens" ; Times: 10
+	Query: "mappable:1 scientificname:Lagodon rhomboides" ; Times: 2
+	Query: "Thalassophryne maculosa mappable:1" ; Times: 1
+	Query: "scientificname:(Jordanella floridae) country:United States mappable:1" ; Times: 1
+	Query: "Haemulon flavolineatum mappable:1" ; Times: 1
+	Query: "Gymnothorax vicinus mappable:1" ; Times: 1
+	Query: "mappable:1 scientificname:Bembrops macromma" ; Times: 4
+	Query: "mappable:1 scientificname:Heteropriacanthus cruentatus" ; Times: 5
+	Query: "Fratercula corniculata" ; Times: 1
+	Query: "scientificname:(Etheostoma kennicotti) country:United States mappable:1" ; Times: 1
+	Query: "scientificname:(Leiostomus xanthurus) country:United States mappable:1" ; Times: 4
+	Query: "feather" ; Times: 1
+	Query: "Naucrates ductor mappable:1" ; Times: 1
+	Query: "mappable:1 scientificname:Synodus poeyi" ; Times: 5
+	Query: "mappable:1 scientificname:Lepophidium brevibarbe" ; Times: 8
+	Query: "CAS 208425" ; Times: 1
+	Query: "Diaphus dumerilii mappable:1" ; Times: 1
+	Query: "Dentex angolensis" ; Times: 1
+	Query: "Trachurus japonicus" ; Times: 1
+	Query: "mappable:1 scientificname:Howella brodiei" ; Times: 2
+	Query: "locality:Atauro" ; Times: 1
+	Query: "Hirundichthys affinis mappable:1" ; Times: 1
+	Query: "mappable:1 scientificname:Larimus breviceps" ; Times: 6
+	Query: "Lutjanus mahogoni mappable:1" ; Times: 1
+	Query: "Pseudupeneus maculatus mappable:1" ; Times: 1
+	Query: "Lutjanus cyanopterus" ; Times: 1
+	Query: "Lophogobius cyprinoides mappable:1" ; Times: 1
+	Query: "Scyliorhinus boa mappable:1" ; Times: 1
+	Query: "genus:Cyprinus county:&#34;San Diego&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:bispinatus genus:Euprotomicrus" ; Times: 5
+	Query: "Lutjanus apodus mappable:1" ; Times: 1
+	Query: "mappable:1 scientificname:Cynoscion jamaicensis" ; Times: 6
+	Query: "Thunnus atlanticus" ; Times: 1
+	Query: "Archosargus rhomboidalis mappable:1" ; Times: 1
+	Query: "Pictilabrus laticlavius" ; Times: 2
+	Query: "estuaries" ; Times: 1
+	Query: "mappable:1 scientificname:Kyphosus sectatrix" ; Times: 8
+	Query: "mappable:1 scientificname:Stegastes partitus" ; Times: 5
+	Query: "Aluterus schoepfii mappable:1" ; Times: 1
+	Query: "22692" ; Times: 1
+	Query: "mappable:1 scientificname:Chilorhinus suensonii" ; Times: 6
+	Query: "mappable:1 scientificname:Mycteroperca tigris" ; Times: 3
+	Query: "mappable:1 scientificname:Scorpaena albifimbria" ; Times: 4
+	Query: "Halichoeres radiatus mappable:1" ; Times: 1
+	Query: "mappable:1 scientificname:Hymenocephalus italicus" ; Times: 2
+	Query: "95097" ; Times: 2
+	Query: "Aptocyclus ventricosus" ; Times: 1
+	Query: "Poecilia sphenops mappable:1" ; Times: 1
+	Query: "Sphyraena barracuda mappable:1" ; Times: 1
+	Query: "Cantherhines pullus mappable:1" ; Times: 1
+	Query: "Bolinichthys distofax" ; Times: 2
+	Query: "mappable:1 scientificname:Conodon nobilis" ; Times: 6
+	Query: "scientificname:(Coregonus artedi) country:United States mappable:1" ; Times: 1
+	Query: "Chromis enchrysura mappable:1" ; Times: 1
+	Query: "Genyomyrus donnyi" ; Times: 1
+	Query: "Brachaluteres ulvarum" ; Times: 1
+	Query: "mappable:1 scientificname:Sparisoma viride" ; Times: 3
+	Query: "Seriola dumerili mappable:1" ; Times: 1
+	Query: "mappable:1 scientificname:Caranx sexfasciatus" ; Times: 4
+	Query: "Seriolina nigrofasciata" ; Times: 1
+	Query: "hassex:1 hasmass:1" ; Times: 7
+	Query: "stateprovince:&#34;veracruz&#34;" ; Times: 1
+	Query: "mappable:1 scientificname:Halieutichthys aculeatus" ; Times: 4
+	Query: "mappable:1 scientificname:Centropomus pectinatus" ; Times: 5
+	Query: "Parablennius marmoreus mappable:1" ; Times: 1
+	Query: "scientificname:(Campostoma oligolepis) country:United States mappable:1" ; Times: 2
+	Query: "Ocyurus chrysurus mappable:1" ; Times: 1
+	Query: "Nomeus gronovii mappable:1" ; Times: 1
+	Query: "Calamus proridens mappable:1" ; Times: 1
+	Query: "Malacanthus plumieri mappable:1" ; Times: 1
+	Query: "mappable:1 scientificname:Alphestes afer" ; Times: 8
+	Query: "Acanthurus coeruleus mappable:1" ; Times: 1
+	Query: "scientificname:(Etheostoma exile) country:United States mappable:1" ; Times: 1
+	Query: "mappable:1 scientificname:Lactophrys triqueter" ; Times: 5
+	Query: "Scorpaena albifimbria mappable:1" ; Times: 1
+	Query: "mappable:1 scientificname:Trachinocephalus myops" ; Times: 5
+	Query: "Exocoetus volitans mappable:1" ; Times: 1
+	Query: "mappable:1 scientificname:Scorpaena plumieri" ; Times: 4
+	Query: "mappable:1 scientificname:Haemulon plumierii" ; Times: 3
+	Query: "mappable:1 scientificname:Lobotes surinamensis" ; Times: 4
+	Query: "mappable:1 scientificname:Anisotremus surinamensis" ; Times: 6
+	Query: "Muticus" ; Times: 1
+	Query: "county:&#34;greenup&#34; stateprovince:&#34;Kentucky&#34;" ; Times: 2
+	Query: "mappable:1 scientificname:Glossanodon pygmaeus" ; Times: 5
+	Query: "PUCRS" ; Times: 1
+	Query: "09550" ; Times: 1
+	Query: "mappable:1 scientificname:Microphis brachyurus brachyurus" ; Times: 4
+	Query: "Trachinocephalus myops mappable:1" ; Times: 1
+	Query: "Mugil curema mappable:1" ; Times: 1
+	Query: "mappable:1 scientificname:Decapterus macarellus" ; Times: 4
+	Query: "Coelorinchus occa mappable:1" ; Times: 1
+	Query: "mappable:1 scientificname:Scorpaena grandicornis" ; Times: 4
+	Query: "Anguilla australis" ; Times: 1
+	Query: "specificepithet:kisutch stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "scientificname:Hyporhamphus picarti" ; Times: 1
+	Query: "Mycteroperca interstitialis mappable:1" ; Times: 1
+	Query: "7276" ; Times: 1
+	Query: "scientificname:(Etheostoma cinereum) country:United States mappable:1" ; Times: 1
+	Query: "mappable:1 scientificname:Mugil hospes" ; Times: 1
+	Query: "mappable:1 scientificname:Ventrifossa macropogon" ; Times: 5
+	Query: "family:Triglidae" ; Times: 60
+	Query: "mappable:1 scientificname:Sphyrna tiburo" ; Times: 5
+	Query: "Barbatula toni" ; Times: 1
+	Query: "specificepithet:badia genus:Raja stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "mappable:1 scientificname:Elops saurus" ; Times: 11
+	Query: "Melichthys niger mappable:1" ; Times: 1
+	Query: "mappable:1 scientificname:Kryptophanaron alfredi" ; Times: 10
+	Query: "Mormyrus rume" ; Times: 1
+	Query: "mappable:1 scientificname:Archosargus rhomboidalis" ; Times: 4
+	Query: "Cyclopsetta fimbriata mappable:1" ; Times: 1
+	Query: "mappable:1 scientificname:Malacoctenus delalandii" ; Times: 1
+	Query: "Gadus morhua" ; Times: 1
+	Query: "mappable:1 scientificname:Scorpaena inermis" ; Times: 4
+	Query: "mappable:1 scientificname:Lutjanus vivanus" ; Times: 5
+	Query: "Notropis topeka" ; Times: 1
+	Query: "MNHN france" ; Times: 1
+	Query: "mappable:1 scientificname:Sphyraena picudilla" ; Times: 3
+	Query: "mappable:1 scientificname:Haemulon carbonarium" ; Times: 4
+	Query: "mappable:1 scientificname:Eucinostomus gula" ; Times: 5
+	Query: "mappable:1 scientificname:Dactylopterus volitans" ; Times: 9
+	Query: "Lobotes surinamensis mappable:1" ; Times: 1
+	Query: "mappable:1 scientificname:Hyporhamphus unifasciatus" ; Times: 5
+	Query: "33842" ; Times: 1
+	Query: "33841" ; Times: 2
+	Query: "mappable:1 scientificname:Myctophum selenops" ; Times: 3
+	Query: "Acipenser ruthenus" ; Times: 3
+	Query: "mappable:1 scientificname:Trichiurus lepturus" ; Times: 3
+	Query: "scientificname:(Cottus carolinae) country:United States mappable:1" ; Times: 3
+	Query: "Sphyrna zygaena mappable:1" ; Times: 1
+	Query: "mappable:1 scientificname:Ogilbia suarezae" ; Times: 3
+	Query: "mappable:1 scientificname:Stephanolepis setifer" ; Times: 9
+	Query: "Serranus phoebe mappable:1" ; Times: 1
+	Query: "Umbrina coroides mappable:1" ; Times: 1
+	Query: "Thunnus albacares" ; Times: 1
+	Query: "Selar crumenophthalmus mappable:1" ; Times: 1
+	Query: "specificepithet:pallida genus:Cyclothone stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "Brachyplatystoma filamentosum]" ; Times: 1
+	Query: "Trachurus trachurus" ; Times: 1
+	Query: "Rhomboplites aurorubens mappable:1" ; Times: 1
+	Query: "MSC" ; Times: 1
+	Query: "loriculus" ; Times: 2
+	Query: "Haemulon sciurus mappable:1" ; Times: 1
+	Query: "Acipenser stellatus" ; Times: 2
+	Query: "scientificname:(Notropis heterolepis) country:United States mappable:1" ; Times: 1
+	Query: "Idiacanthus fasciola mappable:1" ; Times: 1
+	Query: "mappable:1 scientificname:Ophioblennius atlanticus" ; Times: 15
+	Query: "mappable:1 scientificname:Exocoetus volitans" ; Times: 4
+	Query: "Carassius auratus" ; Times: 1
+	Query: "Xyrichtys splendens mappable:1" ; Times: 1
+	Query: "Anguilla bicolor" ; Times: 1
+	Query: "12803" ; Times: 2
+	Query: "mappable:1 scientificname:Acyrtus artius" ; Times: 3
+	Query: "Acanthemblemaria maria mappable:1" ; Times: 1
+	Query: "Jimenez chihuahua" ; Times: 2
+	Query: "scientificname:(Moxostoma duquesnei) country:United States mappable:1" ; Times: 1
+	Query: "Gobiomorphus australis" ; Times: 1
+	Query: "undulata" ; Times: 1
+	Query: "Parablennius rouxi" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 13 (out of 1521 download events in this period)
+Total number of records downloaded: 631
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Italy ; Times: 1
+	Country: Mexico ; Times: 2
+	Country: South Africa ; Times: 2
+	Country: India ; Times: 1
+	Country: United States ; Times: 6
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-10-08 ; Times: 2
+	Date: 2020-10-21 ; Times: 1
+	Date: 2020-10-20 ; Times: 1
+	Date: 2020-10-01 ; Times: 1
+	Date: 2020-10-13 ; Times: 1
+	Date: 2020-10-28 ; Times: 1
+	Date: 2020-10-05 ; Times: 1
+	Date: 2020-10-31 ; Times: 1
+	Date: 2020-10-04 ; Times: 1
+	Date: 2020-10-30 ; Times: 1
+	Date: 2020-10-15 ; Times: 1
+	Date: 2020-10-06 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Limia ornata" ; Times: 1
+	Query: "recordedby:Beckwith" ; Times: 1
+	Query: "Poblana Alchichica" ; Times: 1
+	Query: "family:Triglidae" ; Times: 1
+	Query: "bull sharks" ; Times: 1
+	Query: "Urolophus maculatus" ; Times: 1
+	Query: "aethotaxis mitopteryx" ; Times: 1
+	Query: "Gulo gulo" ; Times: 1
+	Query: "Icelinus oculatus" ; Times: 1
+	Query: "daphne" ; Times: 1
+	Query: "specificepithet:olmstedi genus:Etheostoma stateprovince:&#34;Massachusetts&#34;" ; Times: 1
+	Query: "Bolinichthys distofax" ; Times: 2
+
+
+End of report.
